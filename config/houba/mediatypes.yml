@@ -1,0 +1,12 @@
+application/rss+xml:
+  suffixes:
+  - rss  
+application/atom+xml:
+  suffixes:
+  - atom  
+application/opensearchdescription+xml:
+  suffixes:
+  - xml
+application/feed+json:
+  suffixes:
+  - json  

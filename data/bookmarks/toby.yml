@@ -1,0 +1,2606 @@
+- group: May 05 at 13:34
+  icon: fas fa-tools
+  items:
+    - name: "workflow ios activate bluetooth - Google Search"
+      url: "https://www.google.ca/search?q=workflow+ios+activate+bluetooth&oq=ios+workflow+activae+&aqs=chrome.1.69i57j0.13992j0j1&sourceid=chrome&ie=UTF-8"
+    - name: "Bluetooth? : workflow"
+      url: "https://www.reddit.com/r/workflow/comments/618idh/bluetooth/"
+    - name: "Bluetooth Device Activation workflow? - Workflow Help & Questions - Alfred App Community Forum"
+      url: "https://www.alfredforum.com/topic/8669-bluetooth-device-activation-workflow/"
+
+- group: 2FA Paypal
+  icon: fas fa-tools
+  items:
+    - name:
+    - name: "How to set up two-factor authentication on all your online accounts - The Verge"
+      url: "https://www.theverge.com/2017/6/17/15772142/how-to-set-up-two-factor-authentication"
+    - name: "Help Article"
+      url: "https://www.paypal.com/us/selfhelp/article/how-do-i-enable-2fa-(two-factor-authentication)-for-my-paypal-powered-by-braintree-user-faq3500"
+    - name: "How to get a 2FA / OTP / Security Key without the ... - PayPal Community"
+      url: "https://www.paypal-community.com/t5/About-Protections/How-to-get-a-2FA-OTP-Security-Key-without-the-Symantec-VIP/td-p/1306269"
+    - name: "Duphlux; A Mobile Number Authentication Service & an alternative to OTPs"
+      url: "https://medium.com/@ikennailoeje/introducing-duphlux-mobile-number-authentication-7b0ff087d030"
+    - name: "Faster AWS/PayPal/TOTP two factor auth with Yubikey - RizviR"
+      url: "https://rizvir.com/articles/faster-TOTP-auth-with-yubikey/"
+
+- group: Security Forum
+  icon: fas fa-tools
+  items:
+    - name: "www.securityforum.org"
+      url: "https://www.securityforum.org/"
+    - name: "Crown Jewels Analysis | The MITRE Corporation"
+      url: "https://www.mitre.org/publications/systems-engineering-guide/enterprise-engineering/systems-engineering-for-mission-assurance/crown-jewels-analysis"
+    - name: "Security Think Tank: Identify and protect the crown jewels"
+      url: "https://www.computerweekly.com/opinion/Security-Think-Tank-Identify-and-protect-the-crown-jewels"
+    - name: "Security – Do you know the crown jewels? – managNI"
+      url: "http://www.managni.com/security-do-you-know-the-crown-jewels/"
+    - name: "Guarding the Crown Jewels: The Importance of Intellectual Property Security in the Age of Sprawl"
+      url: "https://securityintelligence.com/guarding-the-crown-jewels-the-importance-of-intellectual-property-security-in-the-age-of-sprawl/"
+
+- group: Virtual office
+  icon: fas fa-tools
+  items:    
+    - name: "Scan My Postal Mail - Available Addresses | Traveling Mailbox"
+      url: "https://travelingmailbox.com/addresses"
+    - name: "Canadian Mail & Package Forwarding | Virtual Mailbox | REAL ADDRESS"
+      url: "https://www.canadianaddress.ca/"
+    - name: "Error 500 - Application Exception"
+      url: "https://www.anytimemailbox.com/s/"
+    - name: "Contact Us - Montréal Cowork"
+      url: "https://montrealcowork.com/en/contact-us/"
+
+- group: GDPR
+  icon: fas fa-tools
+  items:
+    - name: "Home - GDPR.Report"
+      url: "https://gdpr.report/"
+
+- group: File conversion
+  icon: fas fa-tools
+  items:
+    - name: "FileZigZag | Online Converter, Document, Video, Audio, Image"
+      url: "https://www.filezigzag.com/"
+    - name: "Zamzar - video converter, audio converter, image converter, eBook converter"
+      url: "https://www.zamzar.com/"
+    - name: "Automate InDesign printing and exporting | Output Factory"
+      url: "http://zevrix.com/outputfactory.php"
+
+- group: Apr 04 at 11:47
+  icon: fas fa-tools
+  items:
+    - name: "Security Awareness - Aithnethd"
+      url: "https://aithnethd.com/"
+    - name: "Chrystal Spire – Strategy. Execution. Excellence."
+      url: "http://chrystalspire.com/"
+    - name: "Arrakis Consulting, LLC"
+      url: "https://www.arrakisconsulting.com/#axzz57FBTv2bT"
+
+- group: Mar 14 at 09:22
+  icon: fas fa-tools
+  items:
+    - name: "ANSI/ISA-62443-3-3 (99.03.03)-2013 Security for industrial automation and control systems Part 3-3: System security requirements and security levels"
+      url: "https://www.isa.org/store/ansi/isa-62443-3-3-990303-2013-security-for-industrial-automation-and-control-systems-part-3-3-system-security-requirements-and-security-levels/116785"
+    - name: "ANSI/ISA–62443-2-1 (99.02.01)–2009 Security for Industrial Automation and Control Systems: Establishing an Industrial Automation and Control Systems Security Program"
+      url: "https://www.isa.org/store/ansi/isa%E2%80%9362443-2-1-990201%E2%80%932009-security-for-industrial-automation-and-control-systems-establishing-an-industrial-automation-and-control-systems-security-program-/116731"
+    - name: "ANSI/ISA-62443-1-1 (99.01.01)-2007 Security for Industrial Automation and Control Systems Part 1-1: Terminology, Concepts, and Models"
+      url: "https://www.isa.org/store/ansi/isa%E2%80%9362443-1-1-990101%E2%80%932007-security-for-industrial-automation-and-control-systems-part-1-terminology,-concepts,-and-models/116720"
+    - name: "ISASecure - IEC 62443 Conformance Certification - Official Site"
+      url: "http://www.isasecure.org/en-US/"
+
+- group: Predix
+  icon: fas fa-tools
+  items:
+    - name: "Predix Design System | Home"
+      url: "https://www.predix-ui.com/#/home/"
+    - name: "GE’s Predix Design System – GE Design – Medium"
+      url: "https://medium.com/ge-design/ges-predix-design-system-8236d47b0891"
+    - name: "GE Predix Design System – Designer News"
+      url: "https://www.designernews.co/stories/69704-ge-predix-design-system"
+    - name: "GE’s Predix Design System"
+      url: "https://heydesigner.com/ges-predix-design-system/"
+    - name: "The Evolution of the GE Design System"
+      url: "https://www.uxpin.com/studio/webinars/evolution-ge-design-system/"
+    - name: "PredixDev/px-design-stencils"
+      url: "https://github.com/PredixDev/px-design-stencils"
+    - name: "GE’s Predix Design System | LinkedIn"
+      url: "https://www.linkedin.com/pulse/ges-predix-design-system-jeff-crossman/"
+    - name: "Get Started with Predix UI Components"
+      url: "https://docs.predix.io/en-US/content/platform/web_application_development/predix_ui/get-started-with-predix-ui-components"
+
+- group: Mar 07 at 09:12
+  icon: fas fa-tools
+  items:
+    - name: "mnubo – IoT Data Monetization"
+      url: "https://mnubo.com/"
+    - name: "Asset Download_Monetize your IoT data"
+      url: "http://www2.mnubo.com/GPyck?&confirmation_url=http://www2.mnubo.com/submit/download/1089"
+    - name: "TEAM LEEROY - Creative Digital & Interactive Agency"
+      url: "https://www.leeroy.ca/en/team/"
+    - name: "IoT Cloud Platform — Samsung ARTIK cloud services"
+      url: "https://artik.cloud/"
+    - name: "Samsung ARTIK Document Library | Samsung ARTIK IoT Platform"
+      url: "https://www.artik.io/library/?q=&hPP=10&idx=Download_production&p=0&dFR%5Bdocument_types%5D%5B0%5D=Product%20Briefs&is_v=1"
+
+- group: Mar 07 at 09:12
+  icon: fas fa-tools
+  items:
+    - name: "Developing an Enterprise Mobility Framework"
+      url: "http://everware-cbdi.com/emf"
+    - name: "Best Practice Report: Underlying Services – Architecture for Existing and Acquired Resources"
+      url: "http://everware-cbdi.com/private/downloads/dxRP_SBW4k9zAPr7LoJb3w/Developing%20an%20Enterprise%20Mobility%20Framework.pdf"
+    - name: "Samsung ARTIK Document Library | Samsung ARTIK IoT Platform"
+      url: "https://www.artik.io/library/?q=&hPP=10&idx=Download_production&p=0&dFR%5Bdocument_types%5D%5B0%5D=Product%20Briefs&is_v=1"
+
+- group: Mar 07 at 09:11
+  icon: fas fa-tools
+  items:
+    - name: "Developing an Enterprise Mobility Framework"
+      url: "http://everware-cbdi.com/emf"
+
+- group: CleanUP
+  icon: fas fa-tools
+  items:
+    - name: "People Process Technology PowerPoint Template | SketchBubble"
+      url: "https://www.sketchbubble.com/en/presentation-people-process-tech.html"
+    - name: "andrewparadi (Andrew Paradi) / Repositories"
+      url: "https://github.com/andrewparadi?tab=repositories"
+    - name: "Your Resume Needs SEO, Here's How | Andrew Paradi"
+      url: "https://www.andrewparadi.com/blog/hired-part-2"
+    - name: "Plans and Pricing - ShareLaTeX, Online LaTeX Editor"
+      url: "https://www.sharelatex.com/user/subscription/plans"
+    - name: "Andrew Paradi - AngelList"
+      url: "https://angel.co/andrewparadi"
+    - name: "Suhana Persaud | LinkedIn"
+      url: "https://www.linkedin.com/in/suhana-persaud-480b16127/"
+    - name: "Free PowerPoint Slides by SketchBubble"
+      url: "https://www.sketchbubble.com/en/powerpoint-free-slides.html"
+    - name: "23,000 HTTPS certificates axed after CEO emails private keys | Ars Technica"
+      url: "https://arstechnica.com/information-technology/2018/03/23000-https-certificates-axed-after-ceo-e-mails-private-keys/"
+    - name: "Nouveautés sur le PIA : guides, outil, « PIAF », étude de cas | CNIL"
+      url: "https://www.cnil.fr/fr/nouveautes-sur-le-pia-guides-outil-piaf-etude-de-cas"
+    - name: "riobard/bash-powerline: Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline"
+      url: "https://github.com/riobard/bash-powerline"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/feed/"
+    - name: "GDPR - A Practical Guide For Developers - Bozho's tech blog"
+      url: "https://techblog.bozho.net/gdpr-practical-guide-developers/"
+    - name: "Tervene - Team Improvement App"
+      url: "https://tervene.com/"
+    - name: "Noemie Berger | LinkedIn"
+      url: "https://www.linkedin.com/in/noemie-berger/?lipi=urn%3Ali%3Apage%3Ad_flagship3_me_wvm_v2%3B4ahz8eNFQViG9HJ7HnT1SA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_me_wvm_v2-profileview_single"
+    - name: "HACK NYC 2018"
+      url: "https://q22018.hacknyc.com/en/"
+    - name: "Blah shdhhdb d"
+      url: "http://www.cegepst.qc.ca/sites/default/files/emploi/affichage_directeur_general_cttei_mars_2018.pdf?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BVbMKaVjIS8K3u8MXc9HaKw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object"
+    - name: "GDPR - A Practical Guide For Developers - Bozho's tech blog"
+      url: "https://techblog.bozho.net/gdpr-practical-guide-developers/"
+    - name: "GDPR - A Practical Guide For Developers - Bozho's tech blog"
+      url: "https://techblog.bozho.net/gdpr-practical-guide-developers/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BVbMKaVjIS8K3u8MXc9HaKw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object"
+    - name: "matrix background - Google Search"
+      url: "https://www.google.ca/search?q=matrix+background&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiN2sKrpNXZAhXlYt8KHbmzCO4Q_AUICigB&biw=1723&bih=1320#imgdii=1HeQodnTZxj7HM:&imgrc=Gk7ppVqZsbEZwM:"
+    - name: "A Passion for (Managed) Risk - Onward and Upward: The power of just 2 points a day trading ES"
+      url: "http://www.renatrader.com/2017/01/the-power-of-just-2-points-day-trading.html"
+    - name: "Matrix Background Free Vector Art - (33983 Free Downloads)"
+      url: "https://www.vecteezy.com/free-vector/matrix-background"
+    - name: "Download Free Vector Art, Stock Graphics & Images"
+      url: "https://www.vecteezy.com/signups/join_premium"
+    - name: "Abstract Matrix Background - Download Free Vector Art, Stock Graphics & Images"
+      url: "https://www.vecteezy.com/vector-art/151573-abstract-matrix-background"
+    - name: "Binary Code Background Vector Black White Stock Vector 580630114 - Shutterstock"
+      url: "https://www.shutterstock.com/image-vector/binary-code-background-vector-black-white-580630114?irgwc=1&utm_medium=Affiliate&utm_campaign=Eezy%20Inc&utm_source=38919&utm_term=www.vecteezy.com"
+    - name: "Matrix digital rain - Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Matrix_digital_rain"
+    - name: "XScreenSaver - Wikipedia"
+      url: "https://en.wikipedia.org/wiki/XScreenSaver"
+    - name: "Wonder How To » Fresh Hacks For a Changing World"
+      url: "https://www.wonderhowto.com/"
+    - name: "Slack"
+      url: "https://flinksacceleration.slack.com/?redir=%2Fmessages%2FD9KE10YPQ%2Fteam%2FU9JN1CTC5"
+    - name: "Slack"
+      url: "https://flinksacceleration.slack.com/?redir=%2Fmessages%2FD9KE10YPQ%2Fteam%2FU9JN1CTC5"
+    - name: "Brand Guidelines | Slack"
+      url: "https://slack.com/brand-guidelines"
+    - name: "Security | Slack"
+      url: "https://slack.com/security"
+    - name: "Direct messages and group DMs – Slack Help Center"
+      url: "https://get.slack.help/hc/en-us/articles/212281468-Direct-messages-and-group-DMs"
+    - name: "AWS Solutions Architect | Amazon Web Services | LinkedIn"
+      url: "https://www.linkedin.com/jobs/view/574674101/?recommendedFlavor=IN_NETWORK&refId=ee6e2280-1f6a-415c-b39e-5fe6d53f623b&trk=eml-jymbii-organic-job-card&midToken=AQEh1iPub8BQ5A&trkEmail=eml-jobs_jymbii_digest-null-8-null-null-9h35%7Ejeegkw8b%7E4p-null-jobs%7Eview&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3B7Eu1W4ahRNmcpwj3s2MwMg%3D%3D"
+    - name: "Senior Solutions Architect | Amazon Web Services | LinkedIn"
+      url: "https://www.linkedin.com/jobs/view/574673934/?eBP=NotAvailable&recommendedFlavor=HIDDEN_GEM&refId=94e3bb24-622a-4607-bba8-ee88ba52e415&trk=d_flagship3_job_details&lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3BIqruzPacSfGurUOQHrQgxA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-jobdetails_rightrail_peoplealsoviewed"
+    - name: "SouthOrd 33/38 Piece Lockpick Sets | Price & Reviews | Massdrop"
+      url: "https://www.massdrop.com/buy/southord-33-38-piece-lockpick-sets?1=1&utm_placement=8&referer=WMULY3&mode=guest_open&utm_campaign=Automated%20Daily%20Promotional%202018-03-05&utm_source=SparkPost&utm_medium=email&utm_term=Daily%20Promotional&utm_content=1520237099500.363164159912909146292649"
+    - name: "SouthOrd 33/38 Piece Lockpick Sets | Price & Reviews | Massdrop"
+      url: "https://www.massdrop.com/buy/southord-33-38-piece-lockpick-sets?1=1&utm_placement=8&referer=WMULY3&mode=guest_open&utm_campaign=Automated%20Daily%20Promotional%202018-03-05&utm_source=SparkPost&utm_medium=email&utm_term=Daily%20Promotional&utm_content=1520237099500.363164159912909146292649"
+    - name: "Amazon.ca: Kindle Store"
+      url: "https://www.amazon.ca/b?node=2972705011&ref_=dbs_t_r_cnsh"
+    - name: "Google Image Result for http://designedgecanada.com/wp-content/uploads/2016/06/Infographic1.png"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fdesignedgecanada.com%2Fwp-content%2Fuploads%2F2016%2F06%2FInfographic1.png&imgrefurl=http%3A%2F%2Fdesignedgecanada.com%2Fmagazine-articles%2Fdeloitte-information-design-infographics-christopher-moorehead%2F&docid=B_fRZI1M3PyGIM&tbnid=dnA1wQM7mZ3YFM%3A&vet=10ahUKEwjXyLjpl9bZAhXhmOAKHS_FBuQQMwjLASheMF4..i&w=533&h=362&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjXyLjpl9bZAhXhmOAKHS_FBuQQMwjLASheMF4&iact=mrc&uact=8"
+    - name: "Lean Change Method: Enabling Lean and Agile Transformations… | LeanKit"
+      url: "https://leankit.com/blog/2015/02/lean-change-method/"
+    - name: "Google Image Result for http://lucidcircus.com/wp-content/uploads/2015/06/web-design-and-development.png"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Flucidcircus.com%2Fwp-content%2Fuploads%2F2015%2F06%2Fweb-design-and-development.png&imgrefurl=http%3A%2F%2Flucidcircus.com%2F%23!portfolio-item%2Firidiumgroup&docid=XZSj6zSMd0-8vM&tbnid=dMBgaWDbKoVf9M%3A&vet=12ahUKEwjkycrNltbZAhWOdN8KHWd5BZo42AQQMyg8MDx6BAgAED8..i&w=1021&h=622&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=2ahUKEwjkycrNltbZAhWOdN8KHWd5BZo42AQQMyg8MDx6BAgAED8&iact=mrc&uact=8"
+    - name: "lucidcircus | Digital Design and Development"
+      url: "http://lucidcircus.com/#!portfolio-item/iridiumgroup"
+    - name: "About Deloitte | Our global network of member firms"
+      url: "https://www2.deloitte.com/us/en/pages/about-deloitte/articles/about-deloitte.html"
+    - name: "Google Image Result for https://image.slidesharecdn.com/webinar-080930-deloitte-090324230827-phpapp02/95/dotdeloitte-corporate-gtld-10-728.jpg?cb=1237936677"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fimage.slidesharecdn.com%2Fwebinar-080930-deloitte-090324230827-phpapp02%2F95%2Fdotdeloitte-corporate-gtld-10-728.jpg%3Fcb%3D1237936677&imgrefurl=https%3A%2F%2Fwww.slideshare.net%2Fclaytonnarcis%2Fdotdeloitte-corporate-gtld&docid=cvsuSninre6I-M&tbnid=UroAgTot9TCcJM%3A&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwhXKAUwBQ..i&w=942&h=728&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwhXKAUwBQ&iact=mrc&uact=8"
+    - name: "Google Image Result for https://files1.coloribus.com/files/adsarchive/part_1567/15675855/file/deloitte-deloitte-global-branding-600-32314.jpg"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Ffiles1.coloribus.com%2Ffiles%2Fadsarchive%2Fpart_1567%2F15675855%2Ffile%2Fdeloitte-deloitte-global-branding-600-32314.jpg&imgrefurl=https%3A%2F%2Fwww.coloribus.com%2Fadsarchive%2Fdesign%2Fdeloitte-deloitte-global-branding-15675855%2F&docid=u3Mr3Bh8BKuNeM&tbnid=qvL--JdbIbjj6M%3A&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwhYKAYwBg..i&w=600&h=815&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwhYKAYwBg&iact=mrc&uact=8"
+    - name: "Google Image Result for http://payload339.cargocollective.com/1/17/572605/9081291/deloitte_1_670.jpg"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fpayload339.cargocollective.com%2F1%2F17%2F572605%2F9081291%2Fdeloitte_1_670.jpg&imgrefurl=http%3A%2F%2Fwww.danielconway.com.au%2FDeloitte&docid=ne5waSNxWGyXmM&tbnid=1uw8pJyD7VuakM%3A&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwhZKAcwBw..i&w=670&h=446&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwhZKAcwBw&iact=mrc&uact=8"
+    - name: "Google Image Result for http://www.paulcurrah.com/wp-content/uploads/deepdive-project-3.jpg"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fwww.paulcurrah.com%2Fwp-content%2Fuploads%2Fdeepdive-project-3.jpg&imgrefurl=http%3A%2F%2Fwww.paulcurrah.com%2Fwork%2Fdeloitte-deepdive%2F&docid=AMIZRDV90E39tM&tbnid=EXt4ic6wDeWrpM%3A&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwhaKAgwCA..i&w=774&h=550&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwhaKAgwCA&iact=mrc&uact=8"
+    - name: "Google Image Result for https://www2.deloitte.com/content/dam/insights/us/articles/3162_Beyond-the-acute-episode/figures/Beyond-the-acute-episode_Fig1.jpg"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fwww2.deloitte.com%2Fcontent%2Fdam%2Finsights%2Fus%2Farticles%2F3162_Beyond-the-acute-episode%2Ffigures%2FBeyond-the-acute-episode_Fig1.jpg&imgrefurl=https%3A%2F%2Fwww2.deloitte.com%2Finsights%2Fus%2Fen%2Findustry%2Fhealth-care%2Fretail-clinics-chronic-care-management.html&docid=baR86ZZKdXHzdM&tbnid=hl0jNc_Ehz3skM%3A&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwhwKBQwFA..i&w=1000&h=652&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwhwKBQwFA&iact=mrc&uact=8"
+    - name: "Google Image Result for https://www2.deloitte.com/content/dam/insights/us/articles/iot-primer-iot-technologies-applications/DUP_1102_Figure26.jpg"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fwww2.deloitte.com%2Fcontent%2Fdam%2Finsights%2Fus%2Farticles%2Fiot-primer-iot-technologies-applications%2FDUP_1102_Figure26.jpg&imgrefurl=https%3A%2F%2Fwww2.deloitte.com%2Finsights%2Fus%2Fen%2Ffocus%2Finternet-of-things%2Fiot-primer-iot-technologies-applications.html&docid=QCl8jAL7h1u4BM&tbnid=Qwz3MI4pZxhcDM%3A&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwh5KB0wHQ..i&w=1000&h=819&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwh5KB0wHQ&iact=mrc&uact=8"
+    - name: "Google Image Result for https://image.slidesharecdn.com/pfizerbrandguidelines-130521223406-phpapp01-160122162200/95/pfizer-brand-guidelines-34-638.jpg?cb=1453481514"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fimage.slidesharecdn.com%2Fpfizerbrandguidelines-130521223406-phpapp01-160122162200%2F95%2Fpfizer-brand-guidelines-34-638.jpg%3Fcb%3D1453481514&imgrefurl=https%3A%2F%2Fwww.slideshare.net%2FResget%2Fpfizer-brand-guidelines-57378820&docid=UYn-GAPa9XxYNM&tbnid=d-QqpVGkJBYp8M%3A&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwh4KBwwHA..i&w=638&h=493&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwh4KBwwHA&iact=mrc&uact=8"
+    - name: "Google Image Result for https://www2.deloitte.com/content/dam/insights/us/articles/middle-market-banking-strategies-tools/2576_Figure10.jpg"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fwww2.deloitte.com%2Fcontent%2Fdam%2Finsights%2Fus%2Farticles%2Fmiddle-market-banking-strategies-tools%2F2576_Figure10.jpg&imgrefurl=https%3A%2F%2Fwww2.deloitte.com%2Finsights%2Fus%2Fen%2Findustry%2Fbanking-securities%2Fmiddle-market-banking-strategies-tools.html&docid=rY0RXsYa4rKZeM&tbnid=QdwP5cfQZEjsoM%3A&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwh_KCMwIw..i&w=1000&h=737&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwh_KCMwIw&iact=mrc&uact=8"
+    - name: "Google Image Result for https://www2.deloitte.com/content/dam/insights/us/articles/3749_Industry4-0_cybersecurity/figures/Industry4-0_cybersecurity_fig6.png"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fwww2.deloitte.com%2Fcontent%2Fdam%2Finsights%2Fus%2Farticles%2F3749_Industry4-0_cybersecurity%2Ffigures%2FIndustry4-0_cybersecurity_fig6.png&imgrefurl=https%3A%2F%2Fwww2.deloitte.com%2Finsights%2Fus%2Fen%2Ffocus%2Findustry-4-0%2Fcybersecurity-managing-risk-in-age-of-connected-production.html&docid=zPhhLBwCImKStM&tbnid=q2z4olSzjqqI1M%3A&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwiDASgnMCc..i&w=1000&h=589&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwiDASgnMCc&iact=mrc&uact=8"
+    - name: "Google Image Result for https://www2.deloitte.com/content/dam/insights/us/articles/patient-engagement-strategies-changing-patient-expectations/DR_DUP1417_Figure4.jpg"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fwww2.deloitte.com%2Fcontent%2Fdam%2Finsights%2Fus%2Farticles%2Fpatient-engagement-strategies-changing-patient-expectations%2FDR_DUP1417_Figure4.jpg&imgrefurl=https%3A%2F%2Fwww2.deloitte.com%2Finsights%2Fus%2Fen%2Fdeloitte-review%2Fissue-18%2Fpatient-engagement-strategies-changing-patient-expectations.html&docid=oV_q8fTZvNsCrM&tbnid=AJPHCDP_CGr9DM%3A&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwiEASgoMCg..i&w=1000&h=1000&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwiEASgoMCg&iact=mrc&uact=8"
+    - name: "Google Image Result for http://blogs.deloitte.com/centerforhealthsolutions/wp-content/uploads/2015/10/Physician-Social-Media-Infographic.jpg"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fblogs.deloitte.com%2Fcenterforhealthsolutions%2Fwp-content%2Fuploads%2F2015%2F10%2FPhysician-Social-Media-Infographic.jpg&imgrefurl=http%3A%2F%2Fblogs.deloitte.com%2Fcenterforhealthsolutions%2Fpharma-adoption-of-social-media-a-prescription-for-physician-engagement%2F&docid=dy7e9ekmFwlW9M&tbnid=3zxgB6ZzHvoGsM%3A&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwiMASgwMDA..i&w=700&h=4041&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwiMASgwMDA&iact=mrc&uact=8"
+    - name: "Google Image Result for http://slideplayer.com/8969754/27/images/6/What+are+the+major+challenges+to+gaining+a+clear+understanding+of+performance+Comparing+Apples+with+Apples.jpg"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fslideplayer.com%2F8969754%2F27%2Fimages%2F6%2FWhat%2Bare%2Bthe%2Bmajor%2Bchallenges%2Bto%2Bgaining%2Ba%2Bclear%2Bunderstanding%2Bof%2Bperformance%2BComparing%2BApples%2Bwith%2BApples.jpg&imgrefurl=http%3A%2F%2Fslideplayer.com%2Fslide%2F8969754%2F&docid=lOBKjkvzIl62wM&tbnid=EsaM1N15kmnQAM%3A&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwihAShFMEU..i&w=960&h=720&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwihAShFMEU&iact=mrc&uact=8"
+    - name: "Google Image Result for https://www.lohre.com/hs-fs/hub/216938/file-3501967177-png/blog-files/designing20b2b20brands,20proposals-resized-600.png?t=1512266249838"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fwww.lohre.com%2Fhs-fs%2Fhub%2F216938%2Ffile-3501967177-png%2Fblog-files%2Fdesigning20b2b20brands%2C20proposals-resized-600.png%3Ft%3D1512266249838&imgrefurl=https%3A%2F%2Fwww.lohre.com%2Fgreen-cincinnati-education-advocacy%2Freview-designing-b2b-brands-for-green-marketing-communications%2F&docid=3smfKhN6zByfhM&tbnid=mwGc62FBOZVePM%3A&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwioAShMMEw..i&w=600&h=315&itg=1&bih=1320&biw=1723&q=deloitte%20brand%20guidelines&ved=0ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwioAShMMEw&iact=mrc&uact=8#h=315&imgdii=UWiVo0SNWBnZXM:&vet=10ahUKEwjR_PaV5dXZAhUrhOAKHdWhA5oQMwioAShMMEw..i&w=600"
+    - name: "IBM - Blockchain Explained - Introduction for Business"
+      url: "https://www.slideshare.net/ibmsverige/ibm-blockchain-explained-introduction-for-business"
+    - name: "Common independence topics | Deloitte US | Financial, business and employer relationships"
+      url: "https://www2.deloitte.com/us/en/pages/about-deloitte/articles/ethics-common-independence-topics.html"
+    - name: "Designing B2B Brands | Lessons from Deloitte and 195,000 brand managers | Books"
+      url: "https://www2.deloitte.com/global/en/pages/about-deloitte/articles/designing-b2b-brands.html"
+    - name: "Code Of Ethics Application"
+      url: "https://ecode.deloitte.com/welcome"
+    - name: "Independence for Candidates | Deloitte US | Ethics & Independence"
+      url: "https://www2.deloitte.com/us/en/pages/about-deloitte/articles/ethics-independence-for-candidates.html"
+    - name: "Independence for spouses | Deloitte US | Ethics & Independence"
+      url: "https://www2.deloitte.com/us/en/pages/about-deloitte/articles/ethics-independence-for-spouses.html"
+    - name: "Common independence topics | Deloitte US | Financial, business and employer relationships"
+      url: "https://www2.deloitte.com/us/en/pages/about-deloitte/articles/ethics-common-independence-topics.html"
+    - name: "Deloitte modernizes its brand image | PR Week"
+      url: "https://www.prweek.com/article/1399193/deloitte-modernizes-its-brand-image"
+    - name: "Deloitte brand space - Clare Théophane"
+      url: "http://www.claretheo.com/Deloitte-brand-space"
+    - name: "(602) Pinterest"
+      url: "https://www.pinterest.ca/pin/336362665890475337/?lp=true"
+    - name: "After 13 years, Deloitte undergoes a Brand Refresh - Monigle"
+      url: "https://www.monigle.com/blog/after-13-years-deloitte-undergoes-a-brand-refresh/"
+    - name: "People Process Technology PowerPoint Template | SketchBubble"
+      url: "https://www.sketchbubble.com/en/presentation-people-process-tech.html"
+
+- group: Feb 27 at 14:21
+  icon: fas fa-tools
+  items:
+    - name: "eset/malware-ioc: Indicators of Compromises (IOC) of our various investigations"
+      url: "https://github.com/eset/malware-ioc"
+    - name: "sroberts/awesome-iocs: A collection of sources of indicators of compromise"
+      url: "https://github.com/sroberts/awesome-iocs"
+    - name: "Government Users | US-CERT"
+      url: "https://www.us-cert.gov/government-users"
+
+- group: Privacy
+  icon: fas fa-tools
+  items:
+    - name: "Asia-Pacific Economic Cooperation"
+      url: "https://www.apec.org/"
+    - name: "Matchup: The APEC Privacy Framework and the GDPR"
+      url: "https://iapp.org/news/a/matchup-the-apec-privacy-framework-and-the-gdpr/"
+    - name: "Implementing the APEC Privacy Framework: A New Approach"
+      url: "https://iapp.org/news/a/2005-12-implementing-the-apec-privacy-framework-a-new-approach/"
+    - name: "TRUSTe APEC Cross Border Privacy Rules Certification | TrustArc"
+      url: "https://www.trustarc.com/products/apec-certification/"
+    - name: "Microsoft Word - 04_amm_014rev1_APEC Privacy Framework 17 November 2004.doc"
+      url: "https://habeasdatacolombia.uniandes.edu.co/wp-content/uploads/APECPrivacyFrameworkOct-2004.pdf"
+    - name: "Cross Border Privacy Rules System"
+      url: "http://www.cbprs.org/"
+    - name: "Government Users | US-CERT"
+      url: "https://www.us-cert.gov/government-users"
+
+- group: Feb 26 at 13:26
+  icon: fas fa-tools
+  items:
+    - name: "A Weekend in Incident Response #12: How to Create Cyber Incident Recovery Playbooks in Line with New NIST Guide - DFLabs"
+      url: "https://www.dflabs.com/howto-create-cyber-incident-recovery-playbooks-new-nist-guide/"
+    - name: "Incident Response Consortium | The First & Only IR Community"
+      url: "https://www.incidentresponse.com/"
+    - name: "Did You Know Employees Are the Biggest Threat to Cybersecurity?"
+      url: "https://www.incidentresponse.com/did-you-know-employees-are-the-biggest-threat-to-cybersecurity/"
+
+- group: Feb 26 at 13:22
+  icon: fas fa-tools
+  items:
+    - name: "Get ClamAV running on Mac OS X (using Homebrew)"
+      url: "https://gist.github.com/zhurui1008/4fdc875e557014c3a34e"
+    - name: "Howto Install clamav on OSX with brew"
+      url: "https://gist.github.com/gagarine/9168c1b7e4b5f55cb3254582e30d808e"
+
+- group: Feb 26 at 13:20
+  icon: fas fa-tools
+  items:
+    - name: "How to Balance Customer Feedback and Your Own Vision When Shaping Your Product Roadmap"
+      url: "https://medium.com/startup-study-group/how-to-balance-customer-feedback-and-your-own-vision-when-shaping-your-product-roadmap-e28f08ad2d8d"
+    - name: "Your Product Roadmap is your Product – Sameer Patel – Medium"
+      url: "https://medium.com/@sameerpatel/your-product-roadmap-is-your-product-1b849b3312f5"
+    - name: "amazee.io 2017 Product Roadmap – Stories and thoughts on Drupal Hosting — stories.amazee.io"
+      url: "https://stories.amazee.io/amazee-io-2017-product-roadmap-4cd4ce394ae3"
+    - name: "7 Ways of Creating and Sustaining an Agile Product Roadmap"
+      url: "https://medium.com/@ellengott/7-ways-of-creating-and-sustaining-an-agile-product-roadmap-9e4410a25a60"
+
+- group: Feb 26 at 13:19
+  icon: fas fa-tools
+  items:
+    - name: "https://www.learning-theories.com/ez-site-search/?q=John Keller’"
+      url: "https://www.learning-theories.com/ez-site-search/?q=John%20Keller%E2%80%99"
+    - name: "Theories of Motivation"
+      url: "https://www.learning-theories.com/kellers-arcs-model-of-motivational-design.html"
+    - name: "Keller, John M. “Development and use of the ARCS model of instructional design.” Journal of instructional development 10, no. 3 (1987): 2-10. - Google Search"
+      url: "https://www.google.ca/search?q=Keller%2C+John+M.+%E2%80%9CDevelopment+and+use+of+the+ARCS+model+of+instructional+design.%E2%80%9D+Journal+of+instructional+development+10%2C+no.+3+(1987)%3A+2-10.&oq=Keller%2C+John+M.+%E2%80%9CDevelopment+and+use+of+the+ARCS+model+of+instructional+design.%E2%80%9D+Journal+of+instructional+development+10%2C+no.+3+(1987)%3A+2-10.&aqs=chrome..69i57.1175j0j1&sourceid=chrome&ie=UTF-8"
+    - name: "Application of the ARCS Motivational Model to the Design and Assessment of an E-Education, General Education, Natural Sciences Course. - Learning & Technology Library (LearnTechLib)"
+      url: "http://www.learntechlib.org/noaccess/21379/"
+    - name: "7 Ways of Creating and Sustaining an Agile Product Roadmap"
+      url: "https://medium.com/@ellengott/7-ways-of-creating-and-sustaining-an-agile-product-roadmap-9e4410a25a60"
+
+- group: Feb 26 at 13:19
+  icon: fas fa-tools
+  items:
+    - name: "GDPR Compliance: The Legal Bases For Collecting Personal Data | Criteo"
+      url: "https://www.criteo.com/insights/gdpr-compliance-legal-bases-collecting-personal-data/"
+    - name: "GDPR Compliance with data collection | SmartSurvey"
+      url: "https://www.smartsurvey.co.uk/articles/gdpr-compliant-with-data-collection"
+    - name: "GDPR Impact on Business, Data Collection, and Sending Email"
+      url: "https://www.sparkpost.com/gdpr/"
+    - name: "Expert GDPR QA: The material scope of personal data and legal implications – IT Governance Blog"
+      url: "https://www.itgovernance.eu/blog/en/expert-gdpr-qa-the-material-scope-of-personal-data-and-legal-implications/"
+    - name: "GDPR and CRM: How to Manage Customer Data in 2018"
+      url: "https://www.superoffice.com/blog/gdpr-crm/"
+    - name: "Application of the ARCS Motivational Model to the Design and Assessment of an E-Education, General Education, Natural Sciences Course. - Learning & Technology Library (LearnTechLib)"
+      url: "http://www.learntechlib.org/noaccess/21379/"
+
+- group: Feb 26 at 13:19
+  icon: fas fa-tools
+  items:
+    - name: "AdChoices | Choix de pub – The Canadian AdChoices Program | Le programme canadien Choix de pub"
+      url: "https://youradchoices.ca/"
+    - name: "IAB"
+      url: "https://www.iab.com/"
+    - name: "IAB Europe"
+      url: "https://www.iabeurope.eu/"
+    - name: "Localization - Services - Global Learning Systems"
+      url: "http://www.globallearningsystems.com/services/localization/"
+    - name: "Error: [Filename] uses a file type that is blocked from opening in this version - Word for Mac"
+      url: "https://support.office.com/en-us/article/error-filename-uses-a-file-type-that-is-blocked-from-opening-in-this-version-8afc36c0-67bc-43a9-a2f4-3f0b332fef24?ui=en-US&rs=en-US&ad=US"
+
+- group: Feb 26 at 13:19
+  icon: fas fa-tools
+  items:
+    - name: "An Easy Way to Calculate Your Git Version on Github"
+      url: "https://engineering.taboola.com/calculating-git-version/"
+    - name: "Code Reuse in TensorFlow - More than One Graph"
+      url: "https://engineering.taboola.com/more-than-one-graph-code-reuse-in-tensorflow/"
+    - name: "Testing with Selenium: Covering an Enterprise Web Application"
+      url: "https://engineering.taboola.com/testing-with-selenium-covering-an-enterprise-web-application/"
+    - name: "DIY - Engineering Your Company Culture"
+      url: "https://engineering.taboola.com/diy-engineering-your-company-culture/"
+    - name: "À propos de Conceptuose - Studio de création pédagogique"
+      url: "http://www.conceptuose.com/"
+    - name: "IAB Europe"
+      url: "https://www.iabeurope.eu/"
+
+- group: eLearning communities
+  icon: fas fa-tools
+  items:
+    - name: "MERLOT II - Home"
+      url: "https://www.merlot.org/merlot/index.htm"
+
+- group: Automated Documentation Tools
+  icon: fas fa-tools
+  items:
+    - name: "Pelican Static Site Generator, Powered by Python"
+      url: "https://blog.getpelican.com/"
+    - name: "Pelican dev team"
+      url: "https://github.com/getpelican"
+    - name: "Pelican 3.7.1 — Pelican 3.7.1 documentation"
+      url: "http://docs.getpelican.com/en/stable/"
+
+- group: Mycroft Documentation
+  icon: fas fa-tools
+  items:
+    - name: "Coral Project"
+      url: "http://coralproject.github.io/docs/"
+    - name: "docs-rewrite/README.md at master · MycroftAI/docs-rewrite"
+      url: "https://github.com/MycroftAI/docs-rewrite/blob/master/README.md"
+    - name: "Mycroft Documentation - Mycroft"
+      url: "https://mycroft.ai/documentation/"
+    - name: "Rocking the docs: improving Mycroft's documentation - Mycroft"
+      url: "https://mycroft.ai/blog/improving-mycrofts-documentation/"
+    - name: "docs-rewrite/README.md at master · MycroftAI/docs-rewrite"
+      url: "https://github.com/MycroftAI/docs-rewrite/blob/master/README.md"
+    - name: "Mycroft Documentation - Mycroft"
+      url: "https://mycroft.ai/documentation/"
+
+- group: Documentation Research
+  icon: fas fa-tools
+  items:
+    - name: "Documentation is Key"
+      url: "http://www.havingatinker.uk/documentation-is-key.html"
+    - name: "You are what you document"
+      url: "https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/"
+    - name: "5 real-life examples of beautiful technical documentation - Atlassian Blog"
+      url: "https://www.atlassian.com/blog/add-ons/5-real-life-examples-beautiful-technical-documentation"
+    - name: "Software Documentation Templates and Examples"
+      url: "http://sce2.umkc.edu/BIT/burrise/pl/appendix/Software_Documentation_Templates/"
+    - name: "Employee Training System | Create Training Resources | ScreenSteps"
+      url: "http://www.screensteps.com/"
+    - name: "(3) Technical documentation: Findings and best practices | LinkedIn"
+      url: "https://www.linkedin.com/pulse/technical-documentation-findings-best-practices-hamza-grandi/"
+    - name: "Rocking the docs: Improving Mycroft's documentation | Opensource.com"
+      url: "https://opensource.com/article/18/1/rocking-docs-mycroft?utm_campaign=intrel"
+    - name: "Five Ways To Write Better Technical Documentation"
+      url: "https://www.fastcompany.com/3036707/five-ways-to-write-better-technical-documentation"
+    - name: "The 8 Types of Technical Documentation and Why Each Is Important | Rhyous"
+      url: "https://www.rhyous.com/2011/07/21/the-different-types-of-technical-documentation-for-software-and-why-each-is-important/"
+    - name: "A beginner’s guide to writing documentation — Write the Docs"
+      url: "http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/"
+    - name: "Technical documentation software with Confluence | Atlassian"
+      url: "https://www.atlassian.com/software/confluence/technical-documentation-software"
+
+- group: Automated Documentation Examples
+  icon: fas fa-tools
+  items:
+    - name: "Rackspace Cloud Files API 1.0 - Rackspace Developer Portal"
+      url: "https://developer.rackspace.com/docs/cloud-files/v1/"
+    - name: "Technical documentation, API, and code examples | Microsoft Docs"
+      url: "https://docs.microsoft.com/en-us/"
+    - name: "Development Documentation Style Guide - OpenbravoWiki"
+      url: "http://wiki.openbravo.com/wiki/Development_Documentation_Style_Guide"
+    - name: "Technical documentation software with Confluence | Atlassian"
+      url: "https://www.atlassian.com/software/confluence/technical-documentation-software"
+    - name: "Flexible technical authoring solutions | doc-departmentdoc-department | Helping organisations provide their partners and customers with the latest information about their products and service so they can do their job effectively"
+      url: "http://www.doc-department.com/"
+
+- group: Microsoft makeCode and Doc :)
+  icon: fas fa-tools
+  items:
+    - name: "Building your own package - Microsoft MakeCode"
+      url: "https://makecode.com/packages/getting-started"
+    - name: "Microsoft/pxt: Microsoft MakeCode (PXT - Programming eXperience Toolkit)"
+      url: "https://github.com/Microsoft/pxt"
+    - name: "MakeCode (PXT) Documentation - Microsoft MakeCode"
+      url: "https://makecode.com/docs"
+
+- group: Automated documentation  (CleanUP)
+  icon: fas fa-tools
+  items:
+    - name: "Getting Started — Read the Docs 1.0 documentation"
+      url: "http://docs.readthedocs.io/en/latest/getting_started.html"
+    - name: "18 Software Documentation Tools that Do The Hard Work For You | Process Street"
+      url: "https://www.process.st/software-documentation/"
+    - name: "reStructuredText vs. Markdown for technical documentation - Eli Bendersky's website"
+      url: "https://eli.thegreenplace.net/2017/restructuredtext-vs-markdown-for-technical-documentation/"
+    - name: "Markdown Documents"
+      url: "https://rmarkdown.rstudio.com/markdown_document_format.html"
+    - name: "Building markdown-based developer docs – Code stories – Medium"
+      url: "https://medium.com/code-stories/building-markdown-based-developer-docs-87c0317c56f7"
+    - name: "LaTeX is a beautiful documentation system. It's similar to Markdown [...] I died. Thank God,... — DEV"
+      url: "https://dev.to/mudasobwa/comment/1ea5"
+    - name: "allmark - the markdown server"
+      url: "https://allmark.io/"
+    - name: "minio/doctor: Doctor is a documentation server for your docs in github"
+      url: "https://github.com/minio/doctor"
+    - name: "Why You Should Use Markdown for Your API Documentation | ProgrammableWeb"
+      url: "https://www.programmableweb.com/news/why-you-should-use-markdown-your-api-documentation/2015/02/19"
+    - name: "CommonMark"
+      url: "http://commonmark.org/"
+    - name: "OpenCV: Writing documentation for OpenCV"
+      url: "https://docs.opencv.org/3.3.1/d4/db1/tutorial_documentation.html"
+
+- group: Automated documentation
+  icon: fas fa-tools
+  items:
+    - name: "MkDocs"
+      url: "http://www.mkdocs.org/"
+    - name: "docsify"
+      url: "https://docsify.js.org/#/"
+    - name: "Couscous! Put your documentation in a website!"
+      url: "http://couscous.io/"
+    - name: "lord/slate: Beautiful static documentation for your API"
+      url: "https://github.com/lord/slate"
+    - name: "Technical documentation software with Confluence | Atlassian"
+      url: "https://www.atlassian.com/software/confluence/technical-documentation-software"
+    - name: "Quickstart · Reason"
+      url: "https://reasonml.github.io/docs/en/quickstart-javascript.html"
+    - name: "The Leading Software for Technical Writing, Technical Communication and User Documentation"
+      url: "https://www.madcapsoftware.com/"
+    - name: "chutsu/ditto: Lightweight Markdown Documentation System"
+      url: "https://github.com/chutsu/ditto"
+    - name: "Open CASCADE Technology: Documentation System"
+      url: "https://www.opencascade.com/doc/occt-6.7.0/overview/html/dev_guides__documentation.html"
+    - name: "Structurizr - Help - Documentation"
+      url: "https://structurizr.com/help/documentation"
+    - name: "Writing TensorFlow Documentation  |  TensorFlow"
+      url: "https://www.tensorflow.org/community/documentation"
+    - name: "DAUX.IO"
+      url: "https://daux.io/"
+    - name: "Docbox, an open source API documentation system – Points of interest"
+      url: "https://blog.mapbox.com/docbox-an-open-source-api-documentation-system-303a57554f8"
+    - name: "documentationjs"
+      url: "http://documentation.js.org/"
+    - name: "Pandoc - About pandoc"
+      url: "https://pandoc.org/"
+
+- group: Feb 04 at 13:09
+  icon: fas fa-tools
+  items:
+    - name: "Webinars | verinice."
+      url: "https://verinice.com/en/pro/webinars/"
+    - name: "Ask for a quotation | verinice.PRO"
+      url: "https://verinice.com/en/pro/ask-for-a-verinicepro-quotation/"
+    - name: "verinice.SHOP"
+      url: "https://shop.verinice.com/"
+    - name: "Five Free Risk Management Tools That Can Help Your Program"
+      url: "https://securityintelligence.com/five-free-risk-management-tools-that-can-add-value-to-your-security-program/"
+    - name: "ISMS_mit_Open-Source-Tools_buw_111120"
+      url: "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Veranstaltungen/Grundschutz/5GS_Tag_2011/ISMS_mit_Open-Source-Tools.pdf?__blob=publicationFile"
+
+- group: Feb 03 at 20:55
+  icon: fas fa-tools
+  items:
+    - name: "Bloc-notes - Jacques Rodet"
+      url: "https://sites.google.com/site/jacquesrodet/Home/bloc-notes/"
+    - name: "Visual Mapping en français"
+      url: "http://visual-mapping.fr/"
+    - name: "Jacques Rodet"
+      url: "https://sites.google.com/site/jacquesrodet/Home"
+    - name: "Microsoft Word - Classification_e2c_v3.doc"
+      url: "http://www.e-doceo.net/images/docs/classification-elearning-e2c.pdf"
+
+- group: Jan 27 at 15:02
+  icon: fas fa-tools
+  items:
+    - name: "Issues · imperavi/kube"
+      url: "https://github.com/imperavi/kube/issues"
+    - name: "Documentation"
+      url: "https://imperavi.com/kube/docs/"
+    - name: "Blog"
+      url: "https://imperavi.com/blog/"
+    - name: "gitgub.com"
+      url: "http://gitgub.com/jproof/kube"
+
+- group: Jan 26 at 11:57
+  icon: fas fa-tools
+  items:
+    - name: "Information Technology Infrastructure Library - VITA"
+      url: "https://www.vita.virginia.gov/resources/information-technology-infrastructure-library/"
+
+- group: Jan 26 at 11:57
+  icon: fas fa-tools
+  items:
+    - name: "Commonwealth Data Standardization - VITA"
+      url: "https://www.vita.virginia.gov/it-governance/enterprise-architecture/ea-library/commonwealth-data-standardization/"
+    - name: "ITRM Policies, Standards & Guidelines - VITA"
+      url: "https://www.vita.virginia.gov/it-governance/itrm-policies-standards/"
+    - name: "datablueprint | Publications"
+      url: "https://www.datablueprint.com/publications"
+    - name: "Dama | DAMA I"
+      url: "https://dama.org/"
+    - name: "Information Technology Infrastructure Library - VITA"
+      url: "https://www.vita.virginia.gov/resources/information-technology-infrastructure-library/"
+
+- group: Jan 26 at 11:55
+  icon: fas fa-tools
+  items:
+    - name: "Use infrastructure automation tools for Windows VMs in Azure | Microsoft Docs"
+      url: "https://docs.microsoft.com/en-us/azure/virtual-machines/windows/infrastructure-automation"
+    - name: "Dropping TLS 1.0 and impact on the business. | LinkedIn"
+      url: "https://www.linkedin.com/pulse/dropping-tls-10-impact-business-michael-hammer/"
+    - name: "Deactivation of TLS 1.0 and its impact"
+      url: "https://success.trendmicro.com/solution/1116591-tls-1-0-will-be-disabled-on-march-4-2017"
+    - name: "Glif – Studio Neat"
+      url: "https://www.studioneat.com/products/glif?utm_source=Studio+Neat+Newsletter&utm_campaign=b565c430a7-cybermonday_2016&utm_medium=email&utm_term=0_b3825429c8-b565c430a7-325239385&goal=0_b3825429c8-b565c430a7-325239385&mc_cid=b565c430a7&mc_eid=095de5f434"
+    - name: "Commonwealth Data Standardization - VITA"
+      url: "https://www.vita.virginia.gov/it-governance/enterprise-architecture/ea-library/commonwealth-data-standardization/"
+
+- group: Jan 24 at 18:18
+  icon: fas fa-tools
+  items:
+    - name: "facility security clearance canada - Google Search"
+      url: "https://www.google.ca/search?q=facility+security+clearance+canada&oq=Facility+Security+Clearance&aqs=chrome.1.69i57j0l5.5568j0j1&sourceid=chrome&ie=UTF-8"
+    - name: "Organization security clearances—what type do you need? – Organization and personnel security screening – Security requirements for contracting with the Government of Canada – Canada.ca"
+      url: "https://www.tpsgc-pwgsc.gc.ca/esc-src/organisation-organization/information-eng.html"
+    - name: "Document Safeguarding - Google Search"
+      url: "https://www.google.ca/search?q=Document+Safeguarding&oq=Document+Safeguarding&aqs=chrome..69i57j0l5.1050j0j1&sourceid=chrome&ie=UTF-8"
+    - name: "Visitor Clearance Request (VCR) canada - Google Search"
+      url: "https://www.google.ca/search?q=Visitor+Clearance+Request+(VCR)+canada&oq=Visitor+Clearance+Request+(VCR)+canada&aqs=chrome..69i57.4136j0j1&sourceid=chrome&ie=UTF-8"
+    - name: "Industrial Security Manual – Security requirements for contracting with the Government of Canada – Canada.ca"
+      url: "https://www.tpsgc-pwgsc.gc.ca/esc-src/msi-ism/index-eng.html"
+
+- group: Gov Canada
+  icon: fas fa-tools
+  items:
+    - name: "Contract security resources – Security requirements for contracting with the Government of Canada – Canada.ca"
+      url: "http://www.tpsgc-pwgsc.gc.ca/esc-src/ressources-resources-eng.html"
+    - name: "Organization security clearances—what type do you need? – Organization and personnel security screening – Security requirements for contracting with the Government of Canada – Canada.ca"
+      url: "http://www.tpsgc-pwgsc.gc.ca/esc-src/organisation-organization/information-eng.html#s2a"
+    - name: "Organization security clearances—what type do you need? – Organization and personnel security screening – Security requirements for contracting with the Government of Canada – Canada.ca"
+      url: "http://www.tpsgc-pwgsc.gc.ca/esc-src/organisation-organization/information-eng.html#s2b"
+    - name: "Organization security clearances—what type do you need? – Organization and personnel security screening – Security requirements for contracting with the Government of Canada – Canada.ca"
+      url: "http://www.tpsgc-pwgsc.gc.ca/esc-src/organisation-organization/information-eng.html#s2c"
+    - name: "Security Requirements Check List (SRCL) (Form # TBS/SCT 350-103)"
+      url: "http://www.tbs-sct.gc.ca/tbsf-fsct/350-103-eng.asp"
+    - name: "International contract security requirements – Security requirements for contracting with the Government of Canada – Canada.ca"
+      url: "https://www.tpsgc-pwgsc.gc.ca/esc-src/international-eng.html#s8"
+    - name: "International contract security requirements – Security requirements for contracting with the Government of Canada – Canada.ca"
+      url: "http://www.tpsgc-pwgsc.gc.ca/esc-src/international-eng.html#s6"
+    - name: "Document Safeguarding - Google Search"
+      url: "https://www.google.ca/search?q=Document+Safeguarding&oq=Document+Safeguarding&aqs=chrome..69i57j0l5.1050j0j1&sourceid=chrome&ie=UTF-8"
+
+- group: Tuck Awareness
+  icon: fas fa-tools
+  items:
+    - name: "Tuck Executive Education - Search Results"
+      url: "http://exec.tuck.dartmouth.edu/search-new?cx=017180522165740084141%3Av1wbqwoih_k&as_q=more%3Atuck&cof=FORID%3A11&ie=UTF-8&q=security+awareness"
+    - name: "Security Awareness | Information, Technology & Consulting"
+      url: "http://tech.dartmouth.edu/its/services-support/help-yourself/knowledge-base/security-awareness"
+    - name: "October: National Cyber Security Awareness Month | Information, Technology & Consulting"
+      url: "http://tech.dartmouth.edu/its/news-events/interface/october-national-cyber-security-awareness-month-0"
+    - name: "National Cyber Security Awareness Month | Information, Technology & Consulting"
+      url: "http://tech.dartmouth.edu/interface-tags/national-cyber-security-awareness-month"
+
+- group: Jan 23 at 13:57
+  icon: fas fa-tools
+  items:
+    - name: "Microsoft Careers: My job details"
+      url: "https://careers.microsoft.com/jobdetails.aspx?ss=&pg=1&so=&rw=23&jid=304304&jlang=EN&pp=SS"
+    - name: "Microsoft Careers: My job details"
+      url: "https://careers.microsoft.com/jobdetails.aspx?ss=&pg=2&so=&rw=35&jid=343730&jlang=EN&pp=SS"
+    - name: "Microsoft Careers: My job details"
+      url: "https://careers.microsoft.com/jobdetails.aspx?ss=&pg=3&so=&rw=42&jid=327019&jlang=EN&pp=SS"
+    - name: "Soutenir la relève — Academos"
+      url: "http://www.academos.qc.ca/application-programme-mentorat/"
+    - name: "service professionnel - Google Search"
+      url: "https://www.google.ca/search?q=service+professionnel&oq=Service+professionel&aqs=chrome.1.69i57j0l5.3658j0j1&sourceid=chrome&ie=UTF-8"
+
+- group: Jan 23 at 13:45
+  icon: fas fa-tools
+  items:
+    - name: "18F: Digital service delivery | How we work"
+      url: "https://18f.gsa.gov/how-we-work/"
+    - name: "18F: Digital service delivery | Getting stakeholder buy in for agile development"
+      url: "https://18f.gsa.gov/2017/12/14/getting-stakeholder-buy-in-for-agile-development/"
+    - name: "18F: Digital service delivery | Improving government outcomes through an agile contract format"
+      url: "https://18f.gsa.gov/2017/11/30/improving-government-outcomes-through-an-agile-contract-format/"
+
+- group: Writinh tech book
+  icon: fas fa-tools
+  items:
+    - name: "From Idea to Print: How to Write a Technical Book or Article and Get It Published eBook: Roger E. Sanders: Amazon.ca: Kindle Store"
+      url: "https://www.amazon.ca/Idea-Print-Write-Technical-Published-ebook/dp/B009093ZEU/ref=sr_1_1?ie=UTF8&qid=1516724277&sr=8-1&keywords=From+Idea+to+Print"
+    - name: "Amazon Best Sellers: Best Technical Writing Reference"
+      url: "https://www.amazon.com/Best-Sellers-Books-Technical-Writing-Reference/zgbs/books/170945"
+    - name: "(5) How to Write and Publish a Technical Book | LinkedIn"
+      url: "https://www.linkedin.com/pulse/how-write-publish-technical-book-burney-waring/"
+    - name: "Scott Meyers: Advice to Prospective Book Authors"
+      url: "http://www.aristeia.com/authorAdvice.html"
+    - name: "A technical setup to write a technical book – Fred Thoughts"
+      url: "https://thoughts.t37.net/a-technical-setup-to-write-a-technical-book-b6332097af57"
+
+- group: Agile requirement
+  icon: fas fa-tools
+  items:
+    - name: "Writing Effective Use Cases (Agile Software Development Series) eBook: Alistair Cockburn: Amazon.ca: Kindle Store"
+      url: "https://www.amazon.ca/Writing-Effective-Cases-Software-Development-ebook/dp/B00I077Z1M/ref=pd_sim_351_2?_encoding=UTF8&psc=1&refRID=VDRZ8E6FRD8MMD13VG28"
+    - name: "User Stories Applied: For Agile Software Development (Adobe Reader) (Addison-Wesley Signature Series (Beck)) eBook: Mike Cohn: Amazon.ca: Kindle Store"
+      url: "https://www.amazon.ca/User-Stories-Applied-Development-Addison-Wesley-ebook/dp/B0054KOL74/ref=pd_sim_351_2?_encoding=UTF8&psc=1&refRID=X4QJZSVNPACK54QR17HS"
+    - name: "Software Requirements (Developer Best Practices) eBook: Karl Wiegers, Joy Beatty: Amazon.ca: Kindle Store"
+      url: "https://www.amazon.ca/Software-Requirements-Developer-Best-Practices-ebook/dp/B00JDMPMOA/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=X4QJZSVNPACK54QR17HS"
+    - name: "Requirements by Collaboration: Workshops for Defining Needs eBook: Ellen Gottesdiener: Amazon.ca: Kindle Store"
+      url: "https://www.amazon.ca/Requirements-Collaboration-Workshops-Defining-Needs-ebook/dp/B001TKD4QC/ref=pd_sim_351_5?_encoding=UTF8&psc=1&refRID=X4QJZSVNPACK54QR17HS"
+
+- group: ISSUU
+  icon: fas fa-tools
+  items:
+    - name: "The guide to agile ux design sprints by Fransiscus Tobias - issuu"
+      url: "https://issuu.com/fransiscustobias/docs/uxpin_the_guide_to_agile_ux_design_"
+    - name: "UX Design in Action: How Successful Companies Design Their Products by UX Pin by mkyu - issuu"
+      url: "https://issuu.com/mandyklyu/docs/uxpin_ux_design_in_action"
+    - name: "102 uxpin fixing the enterprise ux process by Noemi - issuu"
+      url: "https://issuu.com/noeemi/docs/102_uxpin_fixing_the_enterprise_ux_"
+    - name: "Product Ownership: The Key to Successful Agile Transformation in Government by GovLoop - issuu"
+      url: "https://issuu.com/govloop/docs/product_ownership"
+
+- group: ISO Artefacts
+  icon: fas fa-tools
+  items:
+    - name: "Required List of ISO 17021:2015 documents by Global Manager Group - issuu"
+      url: "https://issuu.com/globalmanagergroup/docs/list_of_required_documents_for_iso_"
+    - name: "Overview on ISO 15378:2015 Documentation by Global Manager Group - issuu"
+      url: "https://issuu.com/globalmanagergroup/docs/iso_15378_documentation_kit"
+    - name: "ISO 17025:2017 Documentation Requirements by Global Manager Group - issuu"
+      url: "https://issuu.com/globalmanagergroup/docs/iso_17025-2017_documentation_"
+    - name: "Documentation kit on ISO 9001 Procedures by Global Manager Group - issuu"
+      url: "https://issuu.com/globalmanagergroup/docs/iso_9001_procedures"
+    - name: "ISO 9001:2015 Manual Templates by Global Manager Group - issuu"
+      url: "https://issuu.com/globalmanagergroup/docs/qms_9001"
+    - name: "Overview on QMS 9001:2015 – Quality Management System by Global Manager Group - issuu"
+      url: "https://issuu.com/globalmanagergroup/docs/qms_9001_2015"
+    - name: "QMS 9001:2015 Process Flow chart by Global Manager Group - issuu"
+      url: "https://issuu.com/globalmanagergroup/docs/d101.2"
+    - name: "QMS 9001:2015 SOP & Exhibits by Global Manager Group - issuu"
+      url: "https://issuu.com/globalmanagergroup/docs/d101.3"
+    - name: "Documentation Kit on QMS 9001:2015 Filled Format by Global Manager Group - issuu"
+      url: "https://issuu.com/globalmanagergroup/docs/d101.5"
+    - name: "ISO 9001:2015 QMS Manual by Global Manager Group - issuu"
+      url: "https://issuu.com/globalmanagergroup/docs/d101.1"
+
+- group: Clean PDF metadata
+  icon: fas fa-tools
+  items:
+    - name: "5 Best PDF Password Removers for Mac"
+      url: "https://pdf.wondershare.com/pdf-editor-mac/free-pdf-password-remover-for-mac.html"
+    - name: "ExifTool by Phil Harvey"
+      url: "https://www.sno.phy.queensu.ca/~phil/exiftool/"
+    - name: "ExifTool by Phil Harvey"
+      url: "http://owl.phy.queensu.ca/~phil/exiftool/index.html"
+
+- group: Threat and vulnerabilities taxonomies
+  icon: fas fa-tools
+  items:
+    - name: "Taxonomies"
+      url: "https://github.com/MISP/misp-taxonomies"
+    - name: "MISP Project"
+      url: "https://github.com/MISP"
+
+- group: Patent writing
+  icon: fas fa-tools
+  items:
+    - name: "Leading IP Firm in India | Consultant, Filing, Drafting, Trademark"
+      url: "http://www.patentwire.co.in/"
+    - name: "Writing Descriptions for a Patent Application"
+      url: "https://www.thoughtco.com/writing-descriptions-for-patent-application-1992255"
+    - name: "Design & Test Technology, Inc - Patents"
+      url: "http://www.designtest.com/company/patents.html"
+    - name: "Ultimate Cheat Sheet for Drafting Software Patents - Patent Application Writing Guide"
+      url: "http://www.techlaw.attorney/ultimate-cheat-sheet-for-drafting-software-patents-patent-application-writing-guide/"
+    - name: "Software Patents: A Practical Perspective: Eric Sutton: 9781537268835: Books - Amazon.ca"
+      url: "https://www.amazon.ca/Software-Patents-Perspective-Eric-Sutton/dp/153726883X"
+
+- group: Wistia
+  icon: fas fa-tools
+  items:
+    - name: "Download your file"
+      url: "https://video-download.co/convert#6WzNZ1WGd"
+    - name: "https://embed-ssl.wistia.com/deliveries/4z1gr8sfq3.mp4"
+      url: "https://embed-ssl.wistia.com/deliveries/4z1gr8sfq3.mp4"
+    - name: "Video not found"
+      url: "https://fast.wistia.net/embed/playlists/4z1gr8sfq3?bento%5BmenuPosition%5D=bottom&loop=true&media_0_0%5BautoPlay%5D=false&media_0_0%5BcontrolsVisibleOnLoad%5D=true&theme=bento&version=v1&videoFoam=false&videoOptions%5BautoPlay%5D=true&videoOptions%5BinlineOptionsOnly%5D=true&videoOptions%5BplayerColor%5D=54bbff&videoOptions%5BsmallPlayButton%5D=false&videoOptions%5Bversion%5D=v1&videoOptions%5BvideoHeight%5D=360&videoOptions%5BvideoWidth%5D=640&videoOptions%5BvolumeControl%5D=true"
+    - name: "Wistia Help: Troubleshooting"
+      url: "https://wistia.com/doc/troubleshooting#this_video_is_not_authorized_to_be_embedded_here"
+    - name: "YouTube to MP4 & MP3 Converter and Video Download - ClipConverter.cc"
+      url: "http://www.clipconverter.cc/"
+
+- group: BPMN
+  icon: fas fa-tools
+  items:
+    - name: "Home"
+      url: "http://bimp.cs.ut.ee/"
+    - name: "Collaborative process & decision management | Signavio"
+      url: "https://www.signavio.com/"
+    - name: "Visual Paradigm - UML, Agile, PMBOK, TOGAF, BPMN and More!"
+      url: "https://www.visual-paradigm.com/features/"
+    - name: "Web-based tooling for BPMN, DMN and CMMN | bpmn.io"
+      url: "http://bpmn.io/"
+
+- group: dl avec tool brand issuu
+  icon: fas fa-tools
+  items:
+    - name: "Brand Manual Guide by royalcrown - issuu"
+      url: "https://issuu.com/royalcrowngr/docs/brand_manual_guide"
+    - name: "Sony Style Guide by Brand Books - issuu"
+      url: "https://issuu.com/janjaneczek/docs/2008_style_guide_final"
+    - name: "Brand Manual Guide by egotype - issuu"
+      url: "https://issuu.com/egotype/docs/brand_manual_guide_a4_issuu"
+    - name: "Brand Manual Guide by egotype - issuu"
+      url: "https://issuu.com/egotype/docs/brand_manual_guide"
+    - name: "VMware Brand Guidelines by Brand Books - issuu"
+      url: "https://issuu.com/janjaneczek/docs/vmware_brand_guidelines_sept2012"
+    - name: "Berkeley Identity Standards Style Guide by Brand Books - issuu"
+      url: "https://issuu.com/janjaneczek/docs/styleguide_f3e1282ce14a5f"
+    - name: "RBL Bank- Brand Book by pradhan - issuu"
+      url: "https://issuu.com/pradhan/docs/brand_guidline_9x9_size"
+    - name: "Travelocity Brand Guidelines by Brand Books - issuu"
+      url: "https://issuu.com/janjaneczek/docs/tvly_brand_guidelines"
+
+- group: status page system
+  icon: fas fa-tools
+  items:
+    - name: "Cachet: The Open Source Status Page System"
+      url: "https://cachethq.io/"
+    - name: "The Open Source Status Site - Staytus"
+      url: "https://staytus.co/"
+    - name: "LambStatus"
+      url: "https://lambstatus.github.io/"
+    - name: "KnownOutage"
+      url: "https://www.knownoutage.com/"
+    - name: "Stashboard: The open source status dashboard"
+      url: "http://www.stashboard.org/"
+    - name: "Status.io - A Complete Status Platform"
+      url: "https://status.io/"
+
+- group: SalesForce & ParDot
+  icon: fas fa-tools
+  items:
+    - name: "GDPR: Operationalize Your Compliance - Data life cycle, Pseudonymization ... - Salesforce Live"
+      url: "https://www.salesforce.com/video/1756626/"
+    - name: "The Greatest Practical Guide on GDPR & Salesforce [eBook] - Salesforce Ben"
+      url: "http://www.salesforceben.com/gdpr-salesforce-ebook/"
+    - name: "GDPR Compliance Solution for Salesforce - Mitigate GDPR's Risk | Ebsta"
+      url: "https://www.ebsta.com/salesforce-gdpr-compliance/"
+    - name: "Get Salesforce GDPR ready, General Data Protection Regulation | Ebsta"
+      url: "https://www.ebsta.com/salesforce-gdpr/"
+    - name: "What does the General Data Protection Regulation (GDPR) mean to me and my Salesforce.com CRM? - Desynit"
+      url: "http://www.desynit.com/forcewest/what-does-the-general-data-protection-regulation-gdpr-mean-to-me-and-my-salesforce-com-crm/"
+    - name: "GDPR and the EU Privacy Law with Salesforce - Salesforce Ben"
+      url: "http://www.salesforceben.com/gdpr-eu-privacy-law/"
+    - name: "Salesforce GDPR"
+      url: "https://www.stratokey.com/gdpr/salesforce-gdpr"
+    - name: "If You Do Business in the EU, the GDPR Applies To You. Here's What We're Doing | Salesforce Commerce Cloud Blog"
+      url: "https://blog.demandware.com/retail-intelligence/business-eu-gdpr-applies-heres"
+    - name: "GDPR Compliance: What Surprised Me at Dreamforce - Ebsta"
+      url: "https://www.ebsta.com/blog/gdpr-compliance-surprised-dreamforce/"
+    - name: "Mange Your GDPR Compliance Using Salesforce - Salesforce"
+      url: "http://blog.deloitte.pl/salesforce/en/gdpr-compliance-salesforce/"
+    - name: "Home • GDPR Superheroes"
+      url: "https://www.gdprsuperheroes.com/"
+    - name: "GDPR Is Almost Here: Are You Salesforce Ready? – Nadcoms"
+      url: "http://www.nadcoms.co.uk/2017/12/05/gdpr-is-almost-here-are-you-salesforce-ready/"
+    - name: "GDPR Compliance - Book a free Assessment before time runs out"
+      url: "https://www.egnyte.com/corp/registration/gdpr-compliance-free-assessment.html?utm_source=google&utm_medium=cpc&utm_campaign=Protect+GDPR+SEM+Campaign+Nov+2017+Search&gclid=CjwKCAiA4vbSBRBNEiwAMorER7yR-ZS-v4kfp6fAS4a5WN6gZx8BYh924LSWEEVqYvcCA3YyA6rPexoClDcQAvD_BwE"
+    - name: "GDPR (General Data Protection Regulations) - Pardot changes required - Ideas - Salesforce Trailblazer Community"
+      url: "https://success.salesforce.com/ideaView?id=0873A000000E7suQAC"
+    - name: "Pardot GDPR - Answers - Salesforce Trailblazer Community"
+      url: "https://success.salesforce.com/answers?id=9063A000000pNamQAE"
+    - name: "GDPR Compliance in Pardot: The Freaky Fast & Un-Boring Guide – The Spot For All Things Pardot"
+      url: "https://thespotforpardot.com/2017/10/21/the-freaky-fast-un-boring-guide-to-gdpr-compliance-in-pardot/"
+    - name: "European General Data Protection Regulation | GDPR Ebook"
+      url: "https://go.pardot.com/l/311421/2017-11-18/49wsq"
+    - name: "Permission Based Marketing Policy | Salesforce Pardot"
+      url: "https://www.pardot.com/legal/permission-based-marketing-policy/"
+    - name: "4 Things We Can Learn From B2B Marketers Using Marketing Automation | Salesforce Pardot"
+      url: "https://www.pardot.com/blog/4-things-can-learn-b2b-marketers-using-marketing-automation/"
+    - name: "(50) How Marketing Automation Will Solve the GDPR Problem For UK Companies | LinkedIn"
+      url: "https://www.linkedin.com/pulse/how-marketing-automation-solve-gdpr-problem-uk-companies-tom-ryan-/"
+    - name: "Pardot – Nebula Consulting"
+      url: "http://nebulaconsulting.co.uk/category/pardot/"
+    - name: "Thinking about the customer experience of GDPR compliance, Nicola Eagling"
+      url: "http://insight.nebulaconsulting.co.uk/post/102ebzg/thinking-about-the-customer-experience-of-gdpr-compliance"
+    - name: "Managing a Confirmed Opt-in Process in Pardot - Pardot London User Gr…"
+      url: "https://www.slideshare.net/SarahCottingham2/managing-a-confirmed-optin-process-in-pardot-pardot-london-user-group-4th-july-2017"
+
+- group: MAC VPN tools
+  icon: fas fa-tools
+  items:
+    - name: "VPN Tracker - #1 VPN Client for Mac OS X and macOS - Mac VPN client"
+      url: "https://www.vpntracker.com/us/index.html"
+    - name: "network - PPTP VPN client for macOS Sierra or iOS 10? - Ask Different"
+      url: "https://apple.stackexchange.com/questions/252228/pptp-vpn-client-for-macos-sierra-or-ios-10"
+    - name: "Flow VPN Connect – PPTP, OpenVPN and SSH VPN Client | Flow VPN - Unmetered VPN service with free trial"
+      url: "https://www.flowvpn.com/download-mac/"
+    - name: "pptpd - Failed to Connect to PPTP VPN Server on Ubuntu - Ask Ubuntu"
+      url: "https://askubuntu.com/questions/269399/failed-to-connect-to-pptp-vpn-server-on-ubuntu/828457#828457"
+    - name: "VPN over PPTP on mac os sierra - Stack Overflow"
+      url: "https://stackoverflow.com/questions/39245572/vpn-over-pptp-on-mac-os-sierra"
+    - name: "How to connect PPTP VPN on macOS Sierra 10.12 : Feingeist Support"
+      url: "https://feingeist.freshdesk.com/en/support/solutions/articles/6000151345-how-to-connect-macos-sierra-10-12-to-a-pptp-vpn-gateway-"
+    - name: "(1) Are there open source PPTP clients for macOS Sierra? - Quora"
+      url: "https://www.quora.com/Are-there-open-source-PPTP-clients-for-macOS-Sierra"
+    - name: "Use PPTP on macOS Sierra"
+      url: "https://stanleysoman.com/use-pptp-on-macos-sierra/"
+    - name: "DigiTunnel PPTP VPN client for Mac OS X"
+      url: "http://www.gracion.com/vpn/"
+    - name: "Tunnelblick | Free open source OpenVPN VPN client server software for Mac OS X and macOS"
+      url: "https://tunnelblick.net/"
+    - name: "Set up the PPTP VPN connection on Mac OS - Knowledgebase - ibVPN"
+      url: "https://www.ibvpn.com/billing/knowledgebase/48/Set-up-the-PPTP-VPN-connection-on-Mac-OS.html"
+    - name: "OS X 10.5+ PPTP"
+      url: "https://www.privateinternetaccess.com/pages/client-support/osx-pptp"
+    - name: "VPN-X Client for Mac : Free Download : MacUpdate"
+      url: "https://www.macupdate.com/app/mac/27009/vpn-x-client"
+    - name: "Configure PureVPN on Mac via step by step Mac VPN setup"
+      url: "https://support.purevpn.com/mac-setup-guide"
+
+- group: Jan 14 at 19:24
+  icon: fas fa-tools
+  items:
+    - name: "IT Automation In Government. Breaking Down What You Need To Know by GovLoop - issuu"
+      url: "https://issuu.com/govloop/docs/it_automation_in_government"
+    - name: "The Complete Star Wars Encyclopedia by Ovidiu MUCA - issuu"
+      url: "https://issuu.com/ovidiumuca/docs/star_wars_encyclopedia_vol.2"
+    - name: "OReilly.Python.for.Unix.and.Linux.System.Administration.Sep.2008 by M Fox - issuu"
+      url: "https://issuu.com/kfox/docs/oreilly.python.for.unix.and.linux.system.administr"
+
+- group: Jan 14 at 18:38
+  icon: fas fa-tools
+  items:
+    - name: "RiskIQ | Cyber Threat Intelligence | Digital Threat Management Platform"
+      url: "https://www.riskiq.com/"
+    - name: "The Cyber Threat Intelligence Blog | RiskIQ"
+      url: "https://www.riskiq.com/blog/"
+    - name: "Compliance & GDPR - RiskIQ"
+      url: "https://www.riskiq.com/solutions/purpose/compliance-pii-gdpr/"
+    - name: "Explainer Video: What is Digital Threat Management | RiskIQ"
+      url: "https://www.riskiq.com/how-to-videos/riskiq-digital-footprint-community-edition-how-to-view-your-organizations-digital-footprint/"
+    - name: "RiskIQ Community Edition"
+      url: "https://community.riskiq.com/registration/signupforfree?_ga=2.256787083.1240037609.1515870830-791902234.1512934255"
+
+- group: DL is allowed
+  icon: fas fa-tools
+  items:
+    - name: "Understanding design thinking lean and agile by Fred Zimny - issuu"
+      url: "https://issuu.com/fredzimny/docs/understanding-design-thinking-lean-"
+    - name: "Deloitte science of movement marketing by Fred Zimny - issuu"
+      url: "https://issuu.com/fredzimny/docs/xc-science-of-movement-marketing"
+    - name: "Leesman the next 250k by Fred Zimny - issuu"
+      url: "https://issuu.com/fredzimny/docs/250k_report"
+    - name: "White paper digital platforms by Fred Zimny - issuu"
+      url: "https://issuu.com/fredzimny/docs/white_paper_digital_platforms"
+    - name: "McKinsey Quarterly Q317 full issue by Fred Zimny - issuu"
+      url: "https://issuu.com/fredzimny/docs/q317-full-issue"
+    - name: "Solving problems withdesignthinking preview by Fred Zimny - issuu"
+      url: "https://issuu.com/fredzimny/docs/solvingproblemswithdesignthinking_p"
+
+- group: IT News
+  icon: fas fa-tools
+  items:
+    - name: "What We're Reading | CIO Dive"
+      url: "https://www.ciodive.com/what-we-are-reading/"
+
+- group: Jan 08 at 11:54
+  icon: fas fa-tools
+  items:
+    - name: "Recital 74 - Responsibility and liability of the controller | General Data Protection Regulation (GDPR)"
+      url: "https://gdpr-info.eu/recitals/no-74/"
+    - name: "Is it possible to choose your lead supervisory authority under the GDPR?"
+      url: "https://iapp.org/news/a/is-it-possible-to-choose-your-lead-supervisory-authority-under-the-gdpr/"
+    - name: "Art. 4 GDPR – Definitions | General Data Protection Regulation (GDPR)"
+      url: "https://gdpr-info.eu/art-4-gdpr/"
+    - name: "Chapter 6: Data Protection Principles – Unlocking the EU General Data Protection Regulation | White & Case LLP International Law Firm, Global Law Practice"
+      url: "https://www.whitecase.com/publications/article/chapter-6-data-protection-principles-unlocking-eu-general-data-protection"
+    - name: "Recital 15 - Technology neutrality | General Data Protection Regulation (GDPR)"
+      url: "https://gdpr-info.eu/recitals/no-15/"
+
+- group: Jan 08 at 11:54
+  icon: fas fa-tools
+  items:
+    - name: "Handling data under GDPR: No IT department is an island - Spiceworks"
+      url: "https://community.spiceworks.com/security/articles/2829-handling-data-under-gdpr-no-it-department-is-an-island"
+    - name: "GDPR - Spiceworks"
+      url: "https://community.spiceworks.com/insights/gdpr-general-data-protection-regulation"
+    - name: "What is GDPR? Definition, implications, and concerns: Word of the Week - General Data Protection Regulation (GDPR) - Spiceworks"
+      url: "https://community.spiceworks.com/topic/1992700-what-is-gdpr-definition-implications-and-concerns-word-of-the-week?source=gdpr-general-data-protection-regulation"
+    - name: "GDPR: How to mitigate the risks of shadow IT in regulated companies - Features - Spiceworks"
+      url: "https://community.spiceworks.com/topic/2005297-gdpr-how-to-mitigate-the-risks-of-shadow-it-in-regulated-companies?source=gdpr-general-data-protection-regulation"
+
+- group: Évaluation
+  icon: fas fa-tools
+  items:
+    - name: "évaluation de maon montreal - Google Search"
+      url: "https://www.google.ca/search?q=%C3%A9valuation+de+maon+montreal&oq=%C3%A9valuation+de+maon+montreal&aqs=chrome..69i57j0.13884j0j4&sourceid=chrome&ie=UTF-8"
+    - name: "Demande de soumission — Groupe Proval Évaluateur Agréés"
+      url: "http://evaluation.groupeproval.com/soumission"
+    - name: "Confirmation pour Évaluateurs Immobiliers + Courtiers Immobiliers - Soumissions MaisonSoumissions Maison"
+      url: "https://www.soumissionsmaison.com/confirmation-evaluateurs-agrees-courtiers-immobiliers/#gf_47"
+    - name: "Évaluation immobilière : l’impartialité est un gage de qualité"
+      url: "https://www.caaquebec.com/fr/a-la-maison/conseils/capsules-conseils/conseil/show/sujet/evaluation-immobiliere-limpartialite-est-un-gage-de-qualite/"
+
+- group: Word Mail Merge
+  icon: fas fa-tools
+  items:
+    - name: "Making your mail merge intelligent by using IF fields"
+      url: "https://wordmvp.com/FAQs/MailMerge/MMergeIfFields.htm"
+    - name: "Advanced Mail Merge - Microsoft Community"
+      url: "https://answers.microsoft.com/en-us/msoffice/forum/msoffice_word-mso_other/advanced-mail-merge/1da47071-2cce-431d-81ee-e2f8d1ac34de"
+    - name: "Using Advanced Mail Merge Features in Microsoft Word | Study.com"
+      url: "https://study.com/academy/lesson/using-advanced-mail-merge-features-in-micosoft-word.html"
+    - name: "10 Mail Merge Tricks for Word 2013 | #1: Don’t Reinvent the Wheel | InformIT"
+      url: "http://www.informit.com/articles/article.aspx?p=2130761"
+
+- group: Jan 04 at 09:02
+  icon: fas fa-tools
+  items:
+    - name: "Jobs - Security | CSIS CAREERS"
+      url: "https://csiscareers.ca/available-jobs/9"
+    - name: "Data Scientist | CSIS CAREERS"
+      url: "https://csiscareers.ca/en/jobs/data-scientist"
+
+- group: Jan 04 at 08:55
+  icon: fas fa-tools
+  items:
+    - name: "Security Requirements Check List (SRCL) (Form # TBS/SCT 350-103)"
+      url: "http://www.tbs-sct.gc.ca/tbsf-fsct/350-103-eng.asp"
+    - name: "Security requirements for contracting with the Government of Canada – Canada.ca"
+      url: "https://www.tpsgc-pwgsc.gc.ca/esc-src/index-eng.html"
+    - name: "Industrial Security Manual – Security requirements for contracting with the Government of Canada – Canada.ca"
+      url: "https://www.tpsgc-pwgsc.gc.ca/esc-src/msi-ism/index-eng.html"
+    - name: "Contract security resources – Security requirements for contracting with the Government of Canada – Canada.ca"
+      url: "https://www.tpsgc-pwgsc.gc.ca/esc-src/ressources-resources-eng.html"
+    - name: "Policy on Government Security - Canada.ca"
+      url: "https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16578"
+    - name: "G13-01 Secure Storage Rooms (SSR) - Royal Canadian Mounted Police"
+      url: "http://www.rcmp-grc.gc.ca/physec-secmat/pubs/g13-01-eng.html"
+
+- group: Cloud Storage
+  icon: fas fa-tools
+  items:
+    - name: "45Drives - Home of the Storinator - Ultra-fast, Massive Storage Servers"
+      url: "http://www.45drives.com/"
+    - name: "Morro Data : CloudNAS 3-in-1 Front Page"
+      url: "https://www.morrodata.com/"
+    - name: "rclone - rsync for cloud storage"
+      url: "https://rclone.org/"
+    - name: "GitHub - ncw/rclone: rsync for cloud storage - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files"
+      url: "https://github.com/ncw/rclone"
+
+- group: Organizing Your Files, Folders and Doc
+  icon: fas fa-tools
+  items:
+    - name: "eXadox - Digital Document Naming, Storage and Retrieval"
+      url: "http://www.exadox.com/en/articles/file-naming-convention-ten-rules-best-practice"
+    - name: "eXadox Paperless Office Solution to Manage Electronic Documents"
+      url: "http://www.exadox.com/en/home"
+    - name: "The Most Effective Way of Organizing Your Files and Folders"
+      url: "http://www.asianefficiency.com/organization/organizing-files-folders-documents/"
+
+- group: Gartner research methodology
+  icon: fas fa-tools
+  items:
+    - name: "Technology Research Solutions for IT Industry Executives"
+      url: "https://www.gartner.com/technology/research/methodologies/research_process.jsp"
+    - name: "Technology Research Solutions for IT Industry Executives"
+      url: "https://www.gartner.com/technology/research/methodologies/research_map.jsp"
+    - name: "Technology Research Solutions for IT Industry Executives"
+      url: "https://www.gartner.com/technology/research/methodologies/research_map.jsp"
+    - name: "How Products and Services Are Evaluated in Gartner Critical Capabilities"
+      url: "https://www.gartner.com/doc/2804920"
+    - name: "Technology Research Solutions for IT Industry Executives"
+      url: "https://www.gartner.com/technology/research/methodologies/research_delivery.jsp"
+
+- group: O'reilly & ROADMAPs
+  icon: fas fa-tools
+  items:
+    - name: "Security Intelligence and Big Data | raffy.ch – blog » 5 Security Big Data Challenges"
+      url: "http://raffy.ch/blog/2017/12/15/5-security-big-data-challenges/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+RaffysComputerSecurityBlog+%28Raffy%27s+Computer+Security+Blog%29"
+    - name: "O'Reilly Authors (@OReillyAuthors) | Twitter"
+      url: "https://twitter.com/oreillyauthors"
+    - name: "Product Roadmaps Relaunched - O'Reilly Media"
+      url: "http://shop.oreilly.com/product/0636920055983.do"
+    - name: "Evan Ryan - O'Reilly Media"
+      url: "http://www.oreilly.com/pub/au/7239"
+
+- group: Design Grid & Typography
+  icon: fas fa-tools
+  items:
+    - name: "About our agency — AREA 17"
+      url: "https://area17.com/about"
+    - name: "Carbon Design System | Typography"
+      url: "http://www.carbondesignsystem.com/style/typography/overview"
+    - name: "Carbon Design System | Grid"
+      url: "http://www.carbondesignsystem.com/style/grid/design"
+
+- group: Network Discovery
+  icon: fas fa-tools
+  items:
+    - name: "How To Everything! - Find all IPs and MAC Addresses On A Network"
+      url: "http://www.howtoeverything.net/linux/console-tricks/find-all-ips-and-mac-addresses-network"
+    - name: "nmap - How to find live hosts on my network? - Information Security Stack Exchange"
+      url: "https://security.stackexchange.com/questions/36198/how-to-find-live-hosts-on-my-network"
+    - name: "macos - Network discovery on a Mac - Stack Overflow"
+      url: "https://stackoverflow.com/questions/544926/network-discovery-on-a-mac"
+    - name: "NMAP port scan on home router looks strange to me - Information Security Stack Exchange"
+      url: "https://security.stackexchange.com/questions/137081/nmap-port-scan-on-home-router-looks-strange-to-me"
+    - name: "Undocumented service blackice-icecap running on 8081/tcp - Raspberry Pi Forums"
+      url: "https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=115981"
+
+- group: Indigo Data Center
+  icon: fas fa-tools
+  items:
+    - name: "Identity and Access Management | INDIGO DataCloud"
+      url: "https://www.indigo-datacloud.eu/identity-and-access-management"
+    - name: "INDIGO IAM · INDIGO - DataCloud Releases"
+      url: "https://indigo-dc.gitbooks.io/indigo-datacloud-releases/content/indigo2/iam2.html"
+    - name: "Fourth Update of INDIGO-2 · INDIGO - DataCloud Releases"
+      url: "https://indigo-dc.gitbooks.io/indigo-datacloud-releases/content/indigo2/fourth_update_of_indigo-2.html#iam"
+    - name: "indigo-dc (@indigo-dc) on GitBook · GitBook"
+      url: "https://www.gitbook.com/@indigo-dc"
+    - name: "Introduction · iam"
+      url: "https://indigo-dc.gitbooks.io/iam/content/"
+
+- group: Discovery Process Diagram
+  icon: fas fa-tools
+  items:
+    - name: "Google Image Result for http://www.compoundchem.com/wp-content/uploads/2016/01/The-Drug-Discovery-Process.png"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fwww.compoundchem.com%2Fwp-content%2Fuploads%2F2016%2F01%2FThe-Drug-Discovery-Process.png&imgrefurl=http%3A%2F%2Fwww.compoundchem.com%2F2016%2F01%2F16%2Fdrug-discovery%2F&docid=loYU-w19B6KJoM&tbnid=S0uNyuGFsG6WaM%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwiqASgNMA0..i&w=1323&h=935&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwiqASgNMA0&iact=mrc&uact=8"
+    - name: "Google Image Result for https://www.researchgate.net/profile/Sivagowry_Shathesh/publication/273131982/figure/fig1/AS:294844447641601@1447307802847/Fig-1-Data-Mining-the-core-of-Knowledge-discovery-process.png"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FSivagowry_Shathesh%2Fpublication%2F273131982%2Ffigure%2Ffig1%2FAS%3A294844447641601%401447307802847%2FFig-1-Data-Mining-the-core-of-Knowledge-discovery-process.png&imgrefurl=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2F273131982_Fig-1-Data-Mining-the-core-of-Knowledge-discovery-process&docid=Wzeu2hevKAPLQM&tbnid=pekZjwZhE8-oyM%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwinASgKMAo..i&w=389&h=269&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwinASgKMAo&iact=mrc&uact=8"
+    - name: "Google Image Result for http://www.edrm.net/wp-content/uploads/2014/05/EDRM-Chart_v3.jpg"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fwww.edrm.net%2Fwp-content%2Fuploads%2F2014%2F05%2FEDRM-Chart_v3.jpg&imgrefurl=https%3A%2F%2Fwww.edrm.net%2Fframeworks-and-standards%2Fedrm-model%2F&docid=ZU7nTqMHjfet8M&tbnid=YuhAJhy0UIxv9M%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwipASgMMAw..i&w=2202&h=1201&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwipASgMMAw&iact=mrc&uact=8"
+    - name: "Google Image Result for http://slideplayer.com/5826240/19/images/8/The+Knowledge+Discovery+Process.jpg"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fslideplayer.com%2F5826240%2F19%2Fimages%2F8%2FThe%2BKnowledge%2BDiscovery%2BProcess.jpg&imgrefurl=http%3A%2F%2Fslideplayer.com%2Fslide%2F5826240%2F&docid=rvqO7Lt0GBKCcM&tbnid=WdYAJp14xQEAiM%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwivASgSMBI..i&w=960&h=720&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwivASgSMBI&iact=mrc&uact=8"
+    - name: "Google Image Result for http://notetopharmd.com/wp-content/uploads/2017/02/Screen-Shot-2017-02-02-at-12.03.19-PM-1024x627-1160x665.png"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fnotetopharmd.com%2Fwp-content%2Fuploads%2F2017%2F02%2FScreen-Shot-2017-02-02-at-12.03.19-PM-1024x627-1160x665.png&imgrefurl=http%3A%2F%2Fnotetopharmd.com%2Fdrug-discovery-process%2F&docid=ooz2f0vQnYuDqM&tbnid=rEtWLo-JFKhgRM%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwi8ASgVMBU..i&w=1160&h=665&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwi8ASgVMBU&iact=mrc&uact=8"
+    - name: "Google Image Result for http://successmill.com/images/2013-08-29/overview-of-the-customer-discovery-process_1.jpg"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fsuccessmill.com%2Fimages%2F2013-08-29%2Foverview-of-the-customer-discovery-process_1.jpg&imgrefurl=http%3A%2F%2Fsuccessmill.com%2Fthe-startup-owner-s-manual%2Fthe-customer-development-manifesto%2F1547-overview-of-the-customer-discovery-process.html&docid=OGumRvNrtOrYrM&tbnid=kJCaeDjeWqxpmM%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwjEASgdMB0..i&w=566&h=360&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwjEASgdMB0&iact=mrc&uact=8"
+    - name: "Google Image Result for http://www.barryovereem.com/wp-content/uploads/discovery-adn-delivery-process-w-one-team-small.png"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fwww.barryovereem.com%2Fwp-content%2Fuploads%2Fdiscovery-adn-delivery-process-w-one-team-small.png&imgrefurl=http%3A%2F%2Fwww.barryovereem.com%2Fa-product-discovery-and-delivery-process%2F&docid=3REHFsF5sCGqXM&tbnid=lv-M_TmTqUSL1M%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwjFASgeMB4..i&w=1190&h=844&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwjFASgeMB4&iact=mrc&uact=8"
+    - name: "Discovery-Turbo-Tech-Transfer-Graphic-Revised.jpg (1024×500)"
+      url: "http://sailife.com/wp-content/uploads/2016/11/Discovery-Turbo-Tech-Transfer-Graphic-Revised.jpg"
+    - name: "Sai Life"
+      url: "http://www.sailife.com/discovery/t3/"
+    - name: "Google Image Result for http://sailife.com/wp-content/uploads/2016/09/Discovery-DMPK-Services-Flowchart.jpg"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fsailife.com%2Fwp-content%2Fuploads%2F2016%2F09%2FDiscovery-DMPK-Services-Flowchart.jpg&imgrefurl=http%3A%2F%2Fwww.sailife.com%2Fdiscovery%2Fdmpk-services%2F&docid=tuSGi1KLYIUDYM&tbnid=vrQiJjoTjtcpVM%3A&vet=1&w=472&h=398&bih=680&biw=1241&ved=0ahUKEwjk7KrNirrYAhXDneAKHcSbAPgQxiAIGigD&iact=c&ictx=1"
+    - name: "Google Image Result for http://www.boblab.us/wp-content/uploads/2017/10/business-process-discovery-template-business-diagram-sipoc-for-business-process-discovery-presentation-templates.jpg"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fwww.boblab.us%2Fwp-content%2Fuploads%2F2017%2F10%2Fbusiness-process-discovery-template-business-diagram-sipoc-for-business-process-discovery-presentation-templates.jpg&imgrefurl=http%3A%2F%2Fwww.boblab.us%2Fbusiness-process-discovery-template%2Fbusiness-process-discovery-template-1113-business-ppt-diagram-7-staged-drug-discovery-process-templates%2F&docid=5GPJh8nN92ASSM&tbnid=sKFFCGFxrd44BM%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwjPASgoMCg..i&w=560&h=420&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwjPASgoMCg&iact=mrc&uact=8"
+    - name: "Google Image Result for http://blog.rangle.io/content/images/2016/10/Rangle-Flow-Discovery-Map-2.png"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fblog.rangle.io%2Fcontent%2Fimages%2F2016%2F10%2FRangle-Flow-Discovery-Map-2.png&imgrefurl=http%3A%2F%2Fblog.rangle.io%2Fclarity-canvas%2F&docid=K0SfumChriR7eM&tbnid=lBLoRCmrPeZpGM%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwjXASgwMDA..i&w=4348&h=2048&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwjXASgwMDA&iact=mrc&uact=8"
+    - name: "Google Image Result for http://www.genmab.com/images/default-source/default-album/antibodyprocess_whiteback_small.png?sfvrsn=0"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fwww.genmab.com%2Fimages%2Fdefault-source%2Fdefault-album%2Fantibodyprocess_whiteback_small.png%3Fsfvrsn%3D0&imgrefurl=http%3A%2F%2Fwww.genmab.com%2Fresearch-and-technology%2Fgenmab-antibody-discovery&docid=TcYlmCqm0yGQ2M&tbnid=_K5dlGVOXpWb4M%3A&vet=10ahUKEwj_2e3eirrYAhXQUN8KHT_nAMA4ZBAzCB4oHDAc..i&w=710&h=413&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwj_2e3eirrYAhXQUN8KHT_nAMA4ZBAzCB4oHDAc&iact=mrc&uact=8"
+    - name: "Google Image Result for https://www.catalystsecure.com/components/com_wordpress/wp/wp-content/uploads/2016/01/ediscovery-mental-model.png"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fwww.catalystsecure.com%2Fcomponents%2Fcom_wordpress%2Fwp%2Fwp-content%2Fuploads%2F2016%2F01%2Fediscovery-mental-model.png&imgrefurl=https%3A%2F%2Fcatalystsecure.com%2Fblog%2F2016%2F02%2Fmoving-beyond-the-edrm-creating-a-mental-model-of-the-e-discovery-process%2F&docid=WIgscE61sjWJeM&tbnid=osLH8hwmJxRfAM%3A&vet=10ahUKEwj_2e3eirrYAhXQUN8KHT_nAMA4ZBAzCCIoIDAg..i&w=1424&h=825&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwj_2e3eirrYAhXQUN8KHT_nAMA4ZBAzCCIoIDAg&iact=mrc&uact=8"
+    - name: "Google Image Result for http://www.sparkbyspark.com/wp-content/uploads/2015/04/canon-ciis-P2P-infographic-three-document-related-P2P-challenges.jpg"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fwww.sparkbyspark.com%2Fwp-content%2Fuploads%2F2015%2F04%2Fcanon-ciis-P2P-infographic-three-document-related-P2P-challenges.jpg&imgrefurl=http%3A%2F%2Fwww.sparkbyspark.com%2Fkick-off-initiatives-discovery-process%2F&docid=9gOvXdcmv2gwEM&tbnid=8ZGVfpTQnttv5M%3A&vet=10ahUKEwj_2e3eirrYAhXQUN8KHT_nAMA4ZBAzCCYoJDAk..i&w=550&h=600&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwj_2e3eirrYAhXQUN8KHT_nAMA4ZBAzCCYoJDAk&iact=mrc&uact=8"
+    - name: "Google Image Result for http://oracledev.wpengine.com/wp-content/uploads/2013/12/TypicalApproach.jpg"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Foracledev.wpengine.com%2Fwp-content%2Fuploads%2F2013%2F12%2FTypicalApproach.jpg&imgrefurl=http%3A%2F%2Foracledev.wpengine.com%2Foracle-mainframe-re-hosting-solutions-part-two%2F&docid=juxT8immTbm4AM&tbnid=TbZgZNoy_nEIkM%3A&vet=10ahUKEwj_2e3eirrYAhXQUN8KHT_nAMA4ZBAzCCwoKjAq..i&w=803&h=451&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwj_2e3eirrYAhXQUN8KHT_nAMA4ZBAzCCwoKjAq&iact=mrc&uact=8"
+    - name: "Google Image Result for http://www.oakwoodcap.com/wp-content/uploads/2012/11/client-communications2.gif"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fwww.oakwoodcap.com%2Fwp-content%2Fuploads%2F2012%2F11%2Fclient-communications2.gif&imgrefurl=http%3A%2F%2Fwww.oakwoodcap.com%2Fwhat-we-do%2Fdiscovery-process%2F&docid=SfUmZ1KzEXAtUM&tbnid=a1gxzSLuJkZfPM%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwidASgAMAA..i&w=359&h=316&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwidASgAMAA&iact=mrc&uact=8"
+    - name: "Google Image Result for https://www.ccl.org/wp-content/uploads/2016/08/discovery-center-for-creative-leadership.jpg"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fwww.ccl.org%2Fwp-content%2Fuploads%2F2016%2F08%2Fdiscovery-center-for-creative-leadership.jpg&imgrefurl=https%3A%2F%2Fwww.ccl.org%2Fleadership-solutions%2F&docid=oz0BXG_RK-7nXM&tbnid=0OLdb_yH9kwGRM%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwieASgBMAE..i&w=750&h=391&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwieASgBMAE&iact=mrc&uact=8"
+    - name: "Google Image Result for http://www.cambridgeprofessionals.com/images_discovery-assist/ManagingDiscoveryProcessChart.jpg"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fwww.cambridgeprofessionals.com%2Fimages_discovery-assist%2FManagingDiscoveryProcessChart.jpg&imgrefurl=http%3A%2F%2Fwww.picquery.com%2Fdiscovery-process_hzQraBZf53eTG9uhPYUpTygryTmV6tdCZ4pYCCQP1sk%2F&docid=3p6jcs9HiB47tM&tbnid=36g78At6yZInsM%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwigASgDMAM..i&w=476&h=255&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwigASgDMAM&iact=mrc&uact=8"
+    - name: "Google Image Result for http://d2ankhno1rduyf.cloudfront.net/wp-content/uploads/2015/06/Discovery-Process_web-e1469120819628.jpg"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fd2ankhno1rduyf.cloudfront.net%2Fwp-content%2Fuploads%2F2015%2F06%2FDiscovery-Process_web-e1469120819628.jpg&imgrefurl=https%3A%2F%2Fdisher.com%2Fsolutions%2Fdiscovery%2F&docid=VBjCs7WfrA2OOM&tbnid=Yk-scmCKO1KU5M%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwihASgEMAQ..i&w=2000&h=985&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwihASgEMAQ&iact=mrc&uact=8"
+    - name: "Google Image Result for https://0399e6d2b8e83833db8d-42940958d2f6a1575512ce9eec8e1fc8.ssl.cf3.rackcdn.com/wp-content/uploads/2016/10/Drug-discovery-process.png"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2F0399e6d2b8e83833db8d-42940958d2f6a1575512ce9eec8e1fc8.ssl.cf3.rackcdn.com%2Fwp-content%2Fuploads%2F2016%2F10%2FDrug-discovery-process.png&imgrefurl=http%3A%2F%2Fwww.city-connect.org%2Fdrug-discovery-and-the-pharmaceutical-industry-collaborating-for-progress%2F&docid=tUglbwEgeUPpRM&tbnid=Ng8kmNrDlPxdqM%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwijASgGMAY..i&w=1467&h=554&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwijASgGMAY&iact=mrc&uact=8"
+    - name: "Google Image Result for https://ekiy5aot90-flywheel.netdna-ssl.com/wp-content/uploads/migration/images/discovery-graphic1.png"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fekiy5aot90-flywheel.netdna-ssl.com%2Fwp-content%2Fuploads%2Fmigration%2Fimages%2Fdiscovery-graphic1.png&imgrefurl=https%3A%2F%2Fwww.seguetech.com%2Fdiscovery-process-initial-investment-custom-development-success%2F&docid=IUNibCPRTcwsMM&tbnid=XOZ7D6uvr-MipM%3A&vet=10ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwikASgHMAc..i&w=1038&h=211&bih=680&biw=1241&q=Discovery%20process&ved=0ahUKEwjpi9uAh7rYAhWuk-AKHSiZAXMQMwikASgHMAc&iact=mrc&uact=8"
+
+- group: Toby
+  icon: fas fa-tools
+  items:
+    - name: "Toby"
+      url: "https://wantoo.io/toby/ideas/"
+    - name: "Better Than Bookmarks - Toby"
+      url: "https://www.gettoby.com/"
+
+- group: Depression Cycle
+  icon: fas fa-tools
+  items:
+    - name: "depression cycle - Google Search"
+      url: "https://www.google.ca/search?q=depression+cycle&oq=depression+&aqs=chrome.2.69i57j0l5.5939j0j1&sourceid=chrome&ie=UTF-8"
+    - name: "Using The Cycle of Depression"
+      url: "http://www.clinical-depression.co.uk/dlp/understanding-depression/using-the-cycle-of-depression/"
+    - name: "Lift Depression » The cycle of depression"
+      url: "http://www.lift-depression.com/sleep-depression/the-cycle-of-depression/"
+    - name: "9 Types to Depression | Everyday Health"
+      url: "https://www.everydayhealth.com/depression-pictures/different-types-of-depression.aspx"
+
+- group: Procrastination Cycle
+  icon: fas fa-tools
+  items:
+    - name: "How To Break The Procrastination Cycle"
+      url: "http://www.lifehack.org/articles/productivity/how-break-the-procrastination-cycle.html"
+    - name: "The Procrastination Doom Loop—and How to Break It - The Atlantic"
+      url: "https://www.theatlantic.com/business/archive/2014/08/the-procrastination-loop-and-how-to-break-it/379142/"
+    - name: "Break Your Procrastination Habit in 9 Easy Steps | Big Think"
+      url: "http://bigthink.com/experts-corner/break-your-procrastination-habit-in-8-easy-steps"
+    - name: "How to Break Your Procrastination Habit and Get Real Work Done | Fortune"
+      url: "http://fortune.com/2016/09/14/how-to-stop-procrastinating/"
+    - name: "The Procrastination Cycle"
+      url: "https://www.habitsforwellbeing.com/the-procrastination-cycle/"
+    - name: "How to Break the Procrastination Cycle - The Life Coach : The Life Coach"
+      url: "http://www.thelifecoach.com/639/break-procrastination-cycle/"
+    - name: "Common Procrastination Causes and How to Break the Cycle"
+      url: "https://www.goodtherapy.org/blog/common-procrastination-causes-and-how-to-break-the-cycle-1012155"
+
+- group: Impusilvity Cycle
+  icon: fas fa-tools
+  items:
+    - name: "impulsivity cycle - Google Search"
+      url: "https://www.google.ca/search?q=impulsivity+cycle&oq=impulsivity+cycle&aqs=chrome..69i57.20001j0j1&sourceid=chrome&ie=UTF-8"
+    - name: "Pathways to Impulsive Behavior and the Cycle of Sin - Ancient Christian Wisdom"
+      url: "http://ancientchristianwisdom.com/pathways-impulsive-behavior-cycle-sin/"
+    - name: "Estrogen's Role in Impulsive Behavior - Scientific American Blog Network"
+      url: "https://blogs.scientificamerican.com/mind-guest-blog/estrogen-s-role-in-impulsive-behavior/"
+    - name: "Impulsive behavior | Definition and facts"
+      url: "https://www.addiction.com/a-z/impulsive-behavior/"
+    - name: "Impulsivity or Defiance? - Big Minds Unschool"
+      url: "http://www.bigmindsunschool.org/impulsivity-or-defiance/"
+    - name: "Changes in an electrocortical measure of impulsivity during the menstrual cycle - ScienceDirect"
+      url: "https://www.sciencedirect.com/science/article/pii/0191886988900104"
+    - name: "Behavioral Impulsivity in Obsessive–Compulsive Disorder"
+      url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5264405/"
+
+- group: Foresight
+  icon: fas fa-tools
+  items:
+    - name: "Stratforma Consulting - Better Decisions Today for an Uncertain Tomorrow"
+      url: "http://www.stratforma.com/"
+    - name: "What's Next"
+      url: "https://www.nowandnext.com/"
+    - name: "Home - Imperial Tech Foresight"
+      url: "http://www.imperialtechforesight.com/"
+    - name: "SIS International Market Research | Strategic Insights"
+      url: "https://www.sisinternational.com/"
+    - name: "GreenBook Research Industry Trends Report | Greenbook.org"
+      url: "https://www.greenbook.org/grit/insights-that-work"
+    - name: "Insight Innovation Competition"
+      url: "https://competition.insightinnovation.org/"
+    - name: "Insight Innovation - Imagine it. See it. Do it.Insight Innovation | Imagine it. See it. Do it."
+      url: "http://insightinnovation.org/"
+    - name: "After Broadband"
+      url: "http://afterbroadband.com/"
+    - name: "Gen2 Advisors: Objective, exclusive and sometimes against-the-grain information for marketing and insight professionals"
+      url: "http://gen2advisors.com/"
+    - name: "IFTF: Home"
+      url: "http://www.iftf.org/home/"
+    - name: "The Chasm Group LLC"
+      url: "http://www.chasmgroup.com/"
+
+- group: Standards
+  icon: fas fa-tools
+  items:
+    - name: "XML.com"
+      url: "https://www.xml.com/"
+    - name: "ISO - International Organization for Standardization"
+      url: "https://www.iso.org/home.html"
+    - name: "XBRL"
+      url: "https://www.xbrl.org/"
+    - name: "International Digital Publishing Forum | The Trade and Standards Organization for the Digital Publishing Industry"
+      url: "http://idpf.org/"
+    - name: "National Institute of Standards and Technology | NIST"
+      url: "https://www.nist.gov/"
+    - name: "OASIS | Advancing open standards for the information society"
+      url: "https://www.oasis-open.org/"
+    - name: "World Wide Web Consortium (W3C)"
+      url: "https://www.w3.org/"
+
+- group: Operating Systems
+  icon: fas fa-tools
+  items:
+    - name: "The Linux Kernel Archives"
+      url: "https://www.kernel.org/"
+
+- group: Book publisher
+  icon: fas fa-tools
+  items:
+    - name: "XML Press"
+      url: "http://xmlpress.net/"
+    - name: "Work With Us - O'Reilly Media"
+      url: "http://www.oreilly.com/work-with-us.html"
+
+- group: Agile, Scrum
+  icon: fas fa-tools
+  items:
+    - name: "Scrum Alliance Official ScrumMaster Certification and Training - Scrum Alliance"
+      url: "https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm"
+
+- group: Patents
+  icon: fas fa-tools
+  items:
+    - name: "USPTO"
+      url: "https://www.uspto.gov/patents-application-process/search-patents"
+    - name: "Canadian Intellectual Property Office"
+      url: "http://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/Home"
+    - name: "Google Patents"
+      url: "https://patents.google.com/"
+
+- group: Security certifications
+  icon: fas fa-tools
+  items:
+    - name: "Offensive Security Training and Professional Services"
+      url: "https://www.offensive-security.com/"
+
+- group: Intellectual Property
+  icon: fas fa-tools
+  items:
+    - name: "UNIFIED PATENTS"
+      url: "https://www.unifiedpatents.com/"
+
+- group: Magazines
+  icon: fas fa-tools
+  items:
+    - name: "Ivey Business Journal"
+      url: "https://iveybusinessjournal.com/"
+
+- group: Download presentations
+  icon: fas fa-tools
+  items:
+    - name: "l'Agilité dans les projets Envergure Mtl"
+      url: "https://fr.slideshare.net/pyxistech/lagilit-dans-les-projets-envergure-mtl"
+    - name: "Développement piloté par les tests - DDD"
+      url: "https://fr.slideshare.net/pyxistech/dveloppement-pilot-par-les-tests-ddd"
+    - name: "Test Driven Development - Overview and Adoption"
+      url: "https://fr.slideshare.net/pyxistech/test-driven-development-overview-and-adoption"
+    - name: "Développement efficace d'application logicielle"
+      url: "https://fr.slideshare.net/pyxistech/dveloppement-efficace-dapplication-logicielle"
+    - name: "Agile expliqué aux managers"
+      url: "https://fr.slideshare.net/pyxistech/agile-expliqu-aux-managers"
+    - name: "Impacts de l'adoption de Scrum"
+      url: "https://fr.slideshare.net/pyxistech/impacts-de-ladoption-de-scrum"
+    - name: "Adoption de l'Agilité : principes et défis"
+      url: "https://fr.slideshare.net/pyxistech/adoption-de-lagilit-principes-et-dfis"
+    - name: "8 façons de rater votre implantation des méthodes Agiles"
+      url: "https://fr.slideshare.net/pyxistech/8-faons-de-rater-votre-implantation-des-mthodes-agiles"
+    - name: "Introduction aux Core Protocols"
+      url: "https://fr.slideshare.net/pyxistech/introduction-aux-core-protocols"
+    - name: "Agile du point de vue d'un PMP"
+      url: "https://fr.slideshare.net/pyxistech/agile-du-point-de-vue-dun-pmp-2008405"
+    - name: "From Anarchy to Sustainable Development an Experience report"
+      url: "https://fr.slideshare.net/pyxistech/from-anarchy-to-sustainable-development-an-experience-report"
+    - name: "10 Tools to create impressive product roadmaps"
+      url: "https://fr.slideshare.net/radiantminds/10-roadmap-tools"
+
+- group: Association QC
+  icon: fas fa-tools
+  items:
+    - name: "Agile Montréal"
+      url: "http://agilemontreal.ca/"
+    - name: "Communauté de Facilitateurs agiles"
+      url: "http://www.facile.co/index.html"
+
+- group: Events
+  icon: fas fa-tools
+  items:
+    - name: "Évènements Montréal"
+      url: "http://isarta.com/infos/?page_id=617"
+    - name: "Les affaires"
+      url: "http://www.lesaffaires.com/evenements"
+    - name: "TED Conferences"
+      url: "https://www.ted.com/attend/conferences"
+
+- group: Strategic Foresight Blog
+  icon: fas fa-tools
+  items:
+    - name: "Hinesight"
+      url: "http://www.andyhinesight.com/"
+    - name: "Horizon Scanning Programme team - GOV.UK"
+      url: "https://www.gov.uk/government/groups/horizon-scanning-programme-team"
+
+- group: Academic Search
+  icon: fas fa-tools
+  items:
+    - name: "Elsevier SSRN"
+      url: "https://papers.ssrn.com/sol3/DisplayAbstractSearch.cfm"
+    - name: "Springer"
+      url: "https://link.springer.com/"
+    - name: "European Journal of Futures Research"
+      url: "https://link.springer.com/journal/volumesAndIssues/40309"
+    - name: "Startseite - Arbeitsmarktservice Österreich"
+      url: "http://www.ams.at/"
+
+- group: GDPR
+  icon: fas fa-tools
+  items:
+    - name: "GDPR matchup: The Children's Online Privacy Protection Act"
+      url: "https://iapp.org/news/a/gdpr-matchup-the-childrens-online-privacy-protection-act/"
+    - name: "GDPR matchup: US financial privacy laws"
+      url: "https://iapp.org/news/a/gdpr-matchup-us-financial-privacy-laws/"
+    - name: "GDPR matchup: The Health Insurance Portability and Accountability Act"
+      url: "https://iapp.org/news/a/gdpr-match-up-the-health-insurance-portability-and-accountability-act/"
+    - name: "GDPR matchup: US state data breach laws"
+      url: "https://iapp.org/news/a/gdpr-match-up-u-s-state-data-breach-laws/"
+    - name: "Responsable de la sécurité des systèmes d'information — Wikipédia"
+      url: "https://fr.wikipedia.org/wiki/Responsable_de_la_s%C3%A9curit%C3%A9_des_syst%C3%A8mes_d%27information"
+
+- group: Technology News & trends
+  icon: fas fa-tools
+  items:
+    - name: "Technology | Fast Company"
+      url: "https://www.fastcompany.com/technology"
+
+- group: Coverted information
+  icon: fas fa-tools
+  items:
+    - name: "IPv4Info"
+      url: "http://ipv4info.com/"
+    - name: "Statista"
+      url: "https://www.statista.com/"
+
+- group: Security smaller consulting firms
+  icon: fas fa-tools
+  items:
+    - name: "GRMM Technology Solutions"
+      url: "https://grmmtechsolutions.com/"
+
+- group: Twitter Phishing and Malware
+  icon: fas fa-tools
+  items:
+    - name: "Malware"
+      url: "https://twitter.com/BHDicaire/lists/infosec-malware"
+
+- group: Twitter Infosec Practionners
+  icon: fas fa-tools
+  items:
+    - name: "Québec"
+      url: "https://twitter.com/BHDicaire/lists/infosec-qc"
+    - name: "@BHDicaire/InfoSec.MEA on Twitter"
+      url: "https://twitter.com/BHDicaire/lists/infosec-mea"
+    - name: "Europe"
+      url: "https://twitter.com/BHDicaire/lists/infosec-eu"
+    - name: "AP"
+      url: "https://twitter.com/BHDicaire/lists/infosec-apac"
+    - name: "USA"
+      url: "https://twitter.com/BHDicaire/lists/infosec-usa"
+    - name: "Canada"
+      url: "https://twitter.com/BHDicaire/lists/infosec-ca"
+    - name: "Security Evangelist & Advocates"
+      url: "https://twitter.com/BHDicaire/lists/watch-evangelists"
+
+- group: Twitter Security Awareness
+  icon: fas fa-tools
+  items:
+    - name: "Competitors"
+      url: "https://twitter.com/BHDicaire/lists/watch-security-awareness"
+    - name: "Influencers"
+      url: "https://twitter.com/BHDicaire/lists/watch-influencers"
+    - name: "Analysts"
+      url: "https://twitter.com/BHDicaire/lists/infosec-analysts"
+
+- group: Security awareness Informations
+  icon: fas fa-tools
+  items:
+    - name: "Cybrary - Online Cyber Security Training, Free, Forever"
+      url: "https://www.cybrary.it/"
+    - name: "Stay Safe Online – Get Online Safety Resources From the National Cyber Security Alliance"
+      url: "https://staysafeonline.org/"
+    - name: "National Cyber Security Alliance - Wikipedia"
+      url: "https://en.wikipedia.org/wiki/National_Cyber_Security_Alliance"
+
+- group: Competitive insight
+  icon: fas fa-tools
+  items:
+    - name: "Owler - Manage Companies and Groups"
+      url: "https://www.owler.com/iaApp/home.htm"
+    - name: "PitchBook"
+      url: "https://pitchbook.com/"
+    - name: "CB INSIGHTS"
+      url: "https://www.cbinsights.com/"
+    - name: "CrunchBase"
+      url: "https://www.crunchbase.com/"
+
+- group: Incident Reports
+  icon: fas fa-tools
+  items:
+    - name: "The Verizon DBIR | Verizon Enterprise Solutions"
+      url: "http://www.verizonenterprise.com/verizon-insights-lab/dbir/"
+    - name: "Internet Security Threat Report 2017 | Symantec"
+      url: "https://www.symantec.com/security-center/threat-report"
+    - name: "Threat Reports | Proofpoint"
+      url: "https://www.proofpoint.com/us/threat-insight/threat-reports"
+    - name: "Ponemon Institute’s 2017 Cost of Data Breach Study: Global Overview"
+      url: "https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=SEL03130WWEN"
+    - name: "Sensitive Data at Risk: The SANS 2017 Data Protection Survey"
+      url: "https://www.sans.org/reading-room/whitepapers/threats/sensitive-data-risk-2017-data-protection-survey-37950"
+
+- group: Virus & Malware protection
+  icon: fas fa-tools
+  items:
+    - name: "Virus bulletin"
+      url: "https://www.virusbulletin.com/"
+    - name: "AMTSO Anti-Malware Testing Standards Org"
+      url: "https://www.amtso.org/"
+    - name: "Malware Hunter Team"
+      url: "https://malwarehunterteam.com/"
+
+- group: Standards & Frameworks
+  icon: fas fa-tools
+  items:
+    - name: "Spaced Repetition: The Most Effective Way to Learn"
+      url: "https://knowledgeplus.nejm.org/blog/spaced-repetition-the-most-effective-way-to-learn/"
+
+- group: Security thought leaders
+  icon: fas fa-tools
+  items:
+    - name: "Center for Development of Security Excellence (CDSE)"
+      url: "https://www.cdse.edu/"
+
+- group: ThinkTank
+  icon: fas fa-tools
+  items:
+    - name: "Fraser Institute"
+      url: "https://www.fraserinstitute.org/"
+    - name: "Shaping Tomorrow"
+      url: "https://www.shapingtomorrow.com/"
+    - name: "Futuribles - Veille, prospective, stratégie"
+      url: "https://www.futuribles.com/fr/"
+    - name: "Pour penser et agir autrement : La prospective"
+      url: "http://www.laprospective.fr/"
+    - name: "Western Decision Sciences Institute"
+      url: "http://wdsinet.org/default.html"
+
+- group: Change management
+  icon: fas fa-tools
+  items:
+    - name: "Kotter Inc"
+      url: "https://www.kotterinc.com/"
+
+- group: eLearning
+  icon: fas fa-tools
+  items:
+    - name: "Dreambox learning"
+      url: "http://www.dreambox.com/canada"
+    - name: "US Office of Educational Technology"
+      url: "https://tech.ed.gov/"
+    - name: "Getting Smart - Innovations in Learning - Getting Smart"
+      url: "http://www.gettingsmart.com/"
+    - name: "Competency-Based Learning Archives - Christensen Institute : Christensen Institute"
+      url: "https://www.christenseninstitute.org/blog/topics/competency-based-learning-higher-education/"
+    - name: "Blended Learning Universe - Christensen Institute"
+      url: "https://www.blendedlearning.org/"
+    - name: "Institute of Education Sciences"
+      url: "https://ies.ed.gov/"
+    - name: "EdSurge | Education Technology News and Resources"
+      url: "https://www.edsurge.com/"
+    - name: "eLearning"
+      url: "https://elearningindustry.com/"
+    - name: "eLearning français"
+      url: "https://elearningindustry.fr/"
+    - name: "Articulate E-Learning Heroes Community"
+      url: "https://community.articulate.com/"
+    - name: "Learning Theory and Quiz - eLearning Learning"
+      url: "https://www.elearninglearning.com/learning-theory/quiz/"
+    - name: "Training design ideas from Cathy Moore"
+      url: "http://blog.cathy-moore.com/?utm_campaign=elearningindustry.com&utm_source=%2Ftop-10-must-read-elearning-blogs&utm_medium=link"
+    - name: "bozarthzone"
+      url: "http://bozarthzone.blogspot.ca/?utm_campaign=elearningindustry.com&utm_source=/top-10-must-read-elearning-blogs&utm_medium=link"
+    - name: "By Craig Weiss – The Truth and Realities of E-Learning"
+      url: "https://elearninfo247.com/?utm_campaign=elearningindustry.com&utm_source=%2Ftop-10-must-read-elearning-blogs&utm_medium=link"
+    - name: "Technology Enhanced Learning Blog – David Hopkins / eLearning, Learning Technology, MOOCs, Blogging, Social Media, and the stuff in between. Author of ‘The Really Useful #EdTechBook’"
+      url: "http://www.dontwasteyourtime.co.uk/?utm_campaign=elearningindustry.com&utm_source=%2Ftop-10-must-read-elearning-blogs&utm_medium=link"
+    - name: "e-Learning Acupuncture"
+      url: "http://erictremblay.blogspot.ca/?utm_campaign=elearningindustry.com&utm_source=/top-10-must-read-elearning-blogs&utm_medium=link"
+    - name: "Learn. Show. Repeat. – Learn – Show – Repeat"
+      url: "http://www.mattguyan.com/"
+    - name: "Learning in the Modern Workplace – Jane Hart's blog on modernising workplace learning"
+      url: "http://www.c4lpt.co.uk/blog/?utm_campaign=elearningindustry.com&utm_source=%2Ftop-10-must-read-elearning-blogs&utm_medium=link"
+    - name: "Creative Design of Learning Experiences | by Mayra Aixa Villar"
+      url: "https://mayraixavillar.wordpress.com/?utm_campaign=elearningindustry.com&utm_source=%2Ftop-10-must-read-elearning-blogs&utm_medium=link"
+    - name: "E-Learning Provocateur | A blog by Ryan Tracey"
+      url: "https://ryan2point0.wordpress.com/?utm_campaign=elearningindustry.com&utm_source=%2Ftop-10-must-read-elearning-blogs&utm_medium=link"
+    - name: "The eLearning Coach - For designing smarter learning experiences"
+      url: "http://theelearningcoach.com/?utm_campaign=elearningindustry.com&utm_source=%2Ftop-10-must-read-elearning-blogs&utm_medium=link"
+    - name: "Microsoft Word - Classification_e2c_v3.doc"
+      url: "http://www.e-doceo.net/images/docs/classification-elearning-e2c.pdf"
+
+- group: Suppliers
+  icon: fas fa-tools
+  items:
+    - name: "Edelman Canada"
+      url: "https://www.edelman.ca/"
+    - name: "Inno-Centre"
+      url: "https://inno-centre.com/"
+    - name: "Salesforce"
+      url: "https://www.salesforce.com/ca/?ir=1"
+    - name: "In-Cloud"
+      url: "http://in-cloud.ca/"
+    - name: "Metronome"
+      url: "https://metronomesoftware.com/priorities?id=468eebf8-8531-410a-a345-4828d0011207&id_user=0caeecf7-3d8f-41b2-b603-f714979a4bba&id_period=2b980554-c656-46b9-9905-54925ffd6991"
+
+- group: Andrew File System / OpenAFS
+  icon: fas fa-tools
+  items:
+    - name: "Home | AuriStor"
+      url: "https://www.auristor.com/"
+    - name: "GitHub - mit-athena/python-afs"
+      url: "https://github.com/mit-athena/python-afs"
+    - name: "GitHub - openafs/openafs: Fork of OpenAFS from git.openafs.org for visualization"
+      url: "https://github.com/openafs/openafs"
+    - name: "Our Solutions | AuriStor"
+      url: "https://www.auristor.com/company/solutions"
+
+- group: Automate Governance Framework
+  icon: fas fa-tools
+  items:
+    - name: "MkDocs"
+      url: "https://mkdocs.readthedocs.io/en/stable/"
+    - name: "Welcome to our community! — Write the Docs"
+      url: "http://www.writethedocs.org/"
+
+- group: HR Handbook (Open Source)
+  icon: fas fa-tools
+  items:
+    - name: "Team Handbook | GitLab"
+      url: "https://about.gitlab.com/handbook/"
+    - name: "Our Handbook is open source: here's why | GitLab"
+      url: "https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/"
+    - name: "GitHub - turbinelabs/handbook-template: Templatized version of Clef handbook"
+      url: "https://github.com/turbinelabs/handbook-template"
+    - name: "GitHub - teamdeeson/codex: Team Deeson's Codex"
+      url: "https://github.com/teamdeeson/codex"
+    - name: " Atlassian Team Playbook"
+      url: "https://www.atlassian.com/team-playbook"
+
+- group: Security Competitive intelligence
+  icon: fas fa-tools
+  items:
+
+
+- group: Security Consulting Firm
+  icon: fas fa-tools
+  items:
+    - name: "www.theimg.com/assets/pdf/IMGServiceSummary.pdf"
+      url: "http://www.theimg.com/assets/pdf/IMGServiceSummary.pdf"
+    - name: "International Security Consulting - Corporate Threat Assessment & Security Analysis - IMG: Incident Management Group"
+      url: "http://www.theimg.com/"
+
+- group: Security Big 4
+  icon: fas fa-tools
+  items:
+    - name: "PWC Advisory Services"
+      url: "https://www.pwc.com/gx/en/services/advisory.html"
+    - name: "EY Advisory Services"
+      url: "http://www.ey.com/gl/en/services/advisory/advisory---home"
+    - name: "Advisory | KPMG | CA"
+      url: "https://home.kpmg.com/ca/en/home/services/advisory.html"
+    - name: "Management Consulting Services and Solutions | Deloitte US"
+      url: "https://www2.deloitte.com/us/en/services/consulting.html#"
+
+- group: Compliance Regulation Industry Cntract
+  icon: fas fa-tools
+  items:
+    - name: "PCI Security Standards Council"
+      url: "https://www.pcisecuritystandards.org/"
+    - name: "DFARS Cybersecurity Requirements | NIST"
+      url: "https://www.nist.gov/mep/dfars-cybersecurity-requirements"
+
+- group: Standards and Frameworks
+  icon: fas fa-tools
+  items:
+    - name: "ISO"
+      url: "https://www.iso.org/home.html"
+    - name: "ASIS International | Advancing Security Worldwide"
+      url: "https://www.asisonline.org/Pages/default.aspx"
+    - name: "Government Digital Service - GOV.UK"
+      url: "https://www.gov.uk/government/organisations/government-digital-service"
+    - name: "Référentiel Général d'Accessibilité pour les Administrations - RGAA 3 2017 | Les documents de référence du S.I. de l'État"
+      url: "http://references.modernisation.gouv.fr/rgaa/"
+
+- group: Standards and Frameworks (Github)
+  icon: fas fa-tools
+  items:
+    - name: "DISIC · GitHub"
+      url: "https://github.com/DISIC"
+
+- group: Security Management consulting firms
+  icon: fas fa-tools
+  items:
+    - name: "Boston Consulting Group (BCG)"
+      url: "https://www.bcg.com/"
+    - name: "McKinsey & Company | Global management consulting"
+      url: "https://www.mckinsey.com/"
+    - name: "Accenture | Innovation Architecture"
+      url: "https://www.accenture.com/us-en/innovation-architecture"
+    - name: "Booz Allen Hamilton | Consulting, Analytics, Digital Solutions, Engineering, Cyber"
+      url: "https://www.boozallen.com/"
+    - name: "The Answer Company | Thomson Reuters"
+      url: "https://www.thomsonreuters.com/en.html"
+    - name: "Bain & co"
+      url: "http://www.bain.com/"
+    - name: "Northrop Grumman Corporation"
+      url: "http://www.northropgrumman.com/Pages/default.aspx"
+    - name: "Slalom"
+      url: "https://www.slalom.com/"
+    - name: "Cohesive Digital Operations, Business & Technology Strategy | Cognizant"
+      url: "https://www.cognizant.com/"
+    - name: "AON Risk Innovation"
+      url: "http://www.theonebrief.com/category/risk-innovation/"
+
+- group: Security Research and advisory Firms
+  icon: fas fa-tools
+  items:
+    - name: "Gartner"
+      url: "https://www.gartner.com/technology/home.jsp"
+    - name: "Forrester"
+      url: "https://go.forrester.com/"
+    - name: "Enterprise Management Associates (EMA)"
+      url: "https://www.enterprisemanagement.com/#&panel1-3"
+    - name: "Osterman Research"
+      url: "https://www.ostermanresearch.com/"
+    - name: "Ponemon Institute - Measuring Trust In Privacy And Security"
+      url: "https://www.ponemon.org/"
+
+- group: Nov 10 at 14:29
+  icon: fas fa-tools
+  items:
+    - name: "Mail - benoit.dicaire@terranovacorporation.com"
+      url: "https://outlook.office365.com/owa/?path=/mail/inbox"
+    - name: "Apple Mac Upgrades - RAM, SSD Flash, External Drives and More"
+      url: "https://eshop.macsales.com/Search/?filter.catidpath=4081&filter.dimension_drive_type_5=2%2E5%22%20Notebook%20Drives"
+    - name: "Toshiba MD04ACA600 6.0TB MD04ACA Series 3.5-inch... at MacSales.com"
+      url: "https://eshop.macsales.com/item/Toshiba/MD04ACA600/"
+    - name: "Seagate ST2000LM007 2.0TB Mobile 2.5-inch 7mm SATA... at MacSales.com"
+      url: "https://eshop.macsales.com/item/Seagate/ST2000LM007M/"
+    - name: "Toshiba 6 TB 3.5 Internal Hard Drive - MD04ACA600"
+      url: "http://www.directdial.com/MD04ACA600.html"
+    - name: "Toshiba MD04ACA 6tb canada - Google Search"
+      url: "https://www.google.ca/search?q=Toshiba+MD04ACA+6tb+canada&safe=active&ei=ePsFWoT_PIeDjwTI-7CQCQ&start=10&sa=N&biw=2161&bih=1175"
+    - name: "500pcs Laptop Notebook Computer Screw Kit Set For IBM HP Dell Lenovo Samsung Sony Toshiba Gateway Acer: Amazon.ca: Electronics"
+      url: "https://www.amazon.ca/Notebook-Computer-Samsung-Toshiba-Gateway/dp/B01FTI8TM8/ref=pd_rhf_dp_s_cp_0_2?_encoding=UTF8&pd_rd_i=B01FTI8TM8&pd_rd_r=7V8TT0AMR8MWACBZHRS6&pd_rd_w=O4D8G&pd_rd_wg=Tuhtl&psc=1&refRID=7V8TT0AMR8MWACBZHRS6"
+    - name: "Toshiba 6tb - Newegg.ca"
+      url: "https://www.newegg.ca/Product/ProductList.aspx?Submit=ENE&DEPA=0&Order=BESTMATCH&Description=Toshiba+6tb&ignorear=0&N=-1&isNodeId=1"
+    - name: "UserBenchmark: Toshiba MD04ACA400 4TB PH3400U-1I72"
+      url: "http://hdd.userbenchmark.com/Toshiba-MD04ACA400-4TB/Rating/3202"
+    - name: "Toshiba MG04SCA Enterprise HDD Review | StorageReview.com - Storage Reviews"
+      url: "http://www.storagereview.com/toshiba_mg04sca_enterprise_hdd_review"
+    - name: "OWC Processor Upgrade Program options for Apple Mac Pro 2010 currently equipped with Quad-Core or 6-Core x 2 Processors (8 or 12-Core)"
+      url: "https://eshop.macsales.com/shop/turnkey/MacPro/2009_2010_Xeon_Processor/Apple_Mac_Pro_2010_2"
+
+- group: France Standards à évaluer
+  icon: fas fa-tools
+  items:
+    - name: "DISIC · GitHub"
+      url: "https://github.com/DISIC?page=2"
+    - name: "guide-chef_projets/3-rgaa.html at master · DISIC/guide-chef_projets · GitHub"
+      url: "https://github.com/DISIC/guide-chef_projets/blob/master/3-rgaa.html"
+    - name: "Guide d'accompagnement - RGAA 3 2017 | Les documents de référence du S.I. de l'État"
+      url: "http://references.modernisation.gouv.fr/rgaa-accessibilite/guide-accompagnement-RGAA.html"
+    - name: "GitHub - DISIC/guide-derogations: Guide des dérogations RGAA 3 2016"
+      url: "https://github.com/DISIC/guide-derogations"
+    - name: "Sécurité | Les documents de référence du S.I. de l'État"
+      url: "http://references.modernisation.gouv.fr/securite"
+    - name: "GitHub - DISIC/guide-auditeur: Guide de l'auditeur RGAA 3"
+      url: "https://github.com/DISIC/guide-auditeur"
+
+- group: Mac Hardware
+  icon: fas fa-tools
+  items:
+    - name: "SafeNet eToken 5100 - USB security key - 909-022342-002 - Tokens - CDW.com"
+      url: "https://www.cdw.com/shop/products/SafeNet-eToken-5100-USB-security-key/4454714.aspx#PO"
+    - name: "Dell UltraSharp 38 Curved Monitor: U3818DW | Dell Canada"
+      url: "http://www.dell.com/en-ca/shop/dell-ultrasharp-38-curved-monitor-u3818dw/apd/210-amrc/monitors-flat-screen-lcd-computer-displays"
+    - name: "Dell’s UltraSharp 38 is the king of ultrawide monitors - The Verge"
+      url: "https://www.theverge.com/2017/9/29/16384330/dell-38-inch-ultrasharp-ultrawide-u3818dw-monitor-review"
+    - name: "Dell UltraSharp 38 Curved Monitor: U3818DW | Dell Canada"
+      url: "http://www.dell.com/en-ca/shop/dell-ultrasharp-38-curved-monitor-u3818dw/apd/210-amrc/monitors-flat-screen-lcd-computer-displays"
+    - name: "Internal Hard Drives | Western Digital (WD)"
+      url: "https://www.wdc.com/en-um/products/internal-storage.html"
+
+- group: Nov 08 at 17:18
+  icon: fas fa-tools
+  items:
+    - name: "gdpr awareness clauses - Google Search"
+      url: "https://www.google.ca/search?q=gdpr+awareness+clauses&safe=active&ei=bS0CWtHyH8e6jwPxqb_ACw&start=20&sa=N&biw=1232&bih=636&dpr=2"
+    - name: "The Six Privacy Principles of GDPR - MThree"
+      url: "https://www.mthreeconsulting.com/blog/2017/04/the-6-privacy-principles-of-gdpr"
+    - name: "11 tips to prepare your business for the new EU data protection rules - Hiscox Business Blog"
+      url: "https://www.hiscox.co.uk/business-blog/tips-prepare-business-new-eu-data-protection-rules/"
+    - name: "GDPR guide for SMEs - everything a small business needs to know - Hiscox Business Blog"
+      url: "https://www.hiscox.co.uk/business-blog/gdpr-guide-smes-everything-small-business-needs-know/"
+
+- group: Nov 08 at 17:17
+  icon: fas fa-tools
+  items:
+    - name: "EU e-Competence Framework - Google Search"
+      url: "https://www.google.ca/search?q=EU+e-Competence+Framework&oq=EU+e-Competence+Framework&aqs=chrome..69i57.1028j0j1&sourceid=chrome&ie=UTF-8"
+    - name: "ESCO - Documents - European Commission"
+      url: "https://ec.europa.eu/esco/portal/documents"
+    - name: "ESCO - Occupations - European Commission"
+      url: "https://ec.europa.eu/esco/portal/occupation?uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fisco%2FC2529&conceptLanguage=en&full=true"
+    - name: "Excel Tips From John Walkenbach: Cell Counting Techniques"
+      url: "http://spreadsheetpage.com/index.php/tip/cell_counting_techniques/"
+    - name: "11 tips to prepare your business for the new EU data protection rules - Hiscox Business Blog"
+      url: "https://www.hiscox.co.uk/business-blog/tips-prepare-business-new-eu-data-protection-rules/"
+
+- group: Nov 08 at 17:16
+  icon: fas fa-tools
+  items:
+    - name: "EDUCON 2017 - ConfTool Pro - BrowseSessions"
+      url: "https://www.conftool.com/educon2017/index.php?page=browseSessions&presentations=show"
+    - name: "Spaced Repetition: The Most Effective Way to Learn"
+      url: "https://knowledgeplus.nejm.org/blog/spaced-repetition-the-most-effective-way-to-learn/"
+    - name: "Spaced repetition: a hack to make your brain store information | Education | The Guardian"
+      url: "https://www.theguardian.com/education/2016/jan/23/spaced-repetition-a-hack-to-make-your-brain-store-information"
+    - name: "The Babbel Method - Babbel.com"
+      url: "http://about.babbel.com/en/"
+    - name: "Excel Tips From John Walkenbach: Cell Counting Techniques"
+      url: "http://spreadsheetpage.com/index.php/tip/cell_counting_techniques/"
+
+- group: Nov 08 at 17:15
+  icon: fas fa-tools
+  items:
+    - name: "New ISO Standard for eLearning - ISO/IEC 19796-1:2005 - WebLearning"
+      url: "http://www.weblearning.com.au/a/246.html"
+    - name: "Open Standards"
+      url: "http://www.open-std.org/"
+    - name: "ISO/IEC JTC 1/SC 34 | Definitions"
+      url: "http://www.jtc1sc34.org/"
+    - name: "Prolog: The ISO Standard Documents"
+      url: "http://www.deransart.fr//prolog/docs.html"
+    - name: "ISO/IEC JTC1/SC22/WG17"
+      url: "http://people.sju.edu/~jhodgson/wg17/wg17web.html"
+    - name: "Spaced Repetition: The Most Effective Way to Learn"
+      url: "https://knowledgeplus.nejm.org/blog/spaced-repetition-the-most-effective-way-to-learn/"
+
+- group: Nov 07 at 15:01
+  icon: fas fa-tools
+  items:
+    - name: "Shared Responsibility Model - Amazon Web Services (AWS)"
+      url: "https://aws.amazon.com/compliance/shared-responsibility-model/"
+    - name: "Microsoft Word - Guide to Effective Remediation of Network Vulnerabilities.…"
+      url: "https://www.qualys.com/docs/guide_vulnerability_management.pdf"
+    - name: "Overwhelmed by Security Vulnerabilities? Here’s How to Prioritize – Network Security Blog | Qualys, Inc."
+      url: "https://blog.qualys.com/news/2017/01/17/overwhelmed-by-security-vulnerabilities-heres-how-to-prioritize"
+    - name: "What is an Intrusion Prevention System? - Palo Alto Networks"
+      url: "https://www.paloaltonetworks.com/cyberpedia/what-is-an-intrusion-prevention-system-ips"
+    - name: "Open Standards"
+      url: "http://www.open-std.org/"
+
+- group: EU eCompetence Framework
+  icon: fas fa-tools
+  items:
+    - name: "GDPR, BCR, and Privacy Shield Training Requirements FAQ - TeachPrivacy"
+      url: "https://www.teachprivacy.com/gdpr-privacy-shield-training-requirements-faq/"
+    - name: "European e-Competence Framework"
+      url: "http://www.ecompetences.eu/"
+    - name: "NSAI - NSAI | National Standards Authority of Ireland"
+      url: "https://www.nsai.ie/"
+
+- group: Data Classification
+  icon: fas fa-tools
+  items:
+    - name: "About Data Classification / safecomputing.umich.edu"
+      url: "https://www.safecomputing.umich.edu/protect-the-u/safely-use-sensitive-data/sensitive-data-classification"
+    - name: "Are Your Data Policies GDPR Compliant? | Box"
+      url: "https://www.box.com/security/governance-and-compliance/gdpr"
+    - name: "Microsoft Trust Center | Resources and FAQ on GDPR compliance"
+      url: "https://www.microsoft.com/en-us/trustcenter/privacy/gdpr/resources"
+    - name: "Personally Identifiable Information (PII) / Sensitive Data Guide"
+      url: "https://www.safecomputing.umich.edu/dataguide/?q=node/89"
+    - name: "How Microsoft EMS can support you in your journey to EU GDPR compliance – Part 1 – Enterprise Mobility + Security"
+      url: "https://cloudblogs.microsoft.com/enterprisemobility/2017/05/24/how-microsoft-ems-can-support-you-in-your-journey-to-eu-gdpr-compliance/"
+    - name: "Compliance: The GDPR and Consumer Identity Management - Gigya"
+      url: "https://www.gigya.com/resource/white-paper/compliance-gdpr-consumer-identity-management/"
+    - name: "Institutional Data Resource Management Policy | Standard Practice Guides - University of Michigan"
+      url: "http://spg.umich.edu/policy/601.12"
+    - name: "Handbook for Safeguarding Sensitive PII"
+      url: "https://www.dhs.gov/sites/default/files/publications/privacy/Guidance/handbookforsafeguardingsensitivePII_march_2012_webversion.pdf"
+
+- group: Gartner document to grab
+  icon: fas fa-tools
+  items:
+    - name: "Market Guide for Data-Centric Audit and Protection"
+      url: "https://www.gartner.com/doc/3645326?ref=SiteSearch&sthkw=gdpr&fnl=search&srcId=1-3478922254"
+    - name: "Four Steps to Improve Content Services Governance"
+      url: "https://www.gartner.com/doc/3645355?ref=SiteSearch&sthkw=gdpr&fnl=search&srcId=1-3478922254"
+    - name: "Hype Cycle for Privacy, 2017"
+      url: "https://www.gartner.com/doc/3765763?ref=SiteSearch&sthkw=gdpr&fnl=search&srcId=1-3478922254"
+    - name: "The DAMA Guide to the Data Management Body of Knowledge (DAMA-DMBOK): Safari Books Online - Premium"
+      url: "http://techbus.safaribooksonline.com/book/databases/9781935504009"
+
+- group: Oct 31 at 20:07
+  icon: fas fa-tools
+  items:
+    - name: "Eyoyo 12 Inch TFT LCD CCTV HDMI HD Monitor Color Screen with AV/HDMI/BNC/VGA Function For Car DSLR & PC & DVD & Car Backup Camera: Amazon.ca: Electronics"
+      url: "https://www.amazon.ca/dp/B01KJVERF8/ref=dp_sp_detail?psc=1"
+    - name: "LANDZO 11.6 Inch Portable LCD Display With 1920 x 1080 Resolution HD 1080P HDMI Monitor For Raspberry Pi B+/2B/3B WiiU Xbox 360 Windows 7 8 10: Amazon.ca: Electronics"
+      url: "https://www.amazon.ca/LANDZO-Portable-Display-Resolution-Raspberry/dp/B0756XG67G/ref=pd_sbs_147_4?_encoding=UTF8&psc=1&refRID=7CSMG933C4SM7HV2J88P"
+    - name: "Eyoyo 10 inch IPS LCD CCTV Monitor 1280x800 Resolution Display 16: 10 Anti-Glare HD Video Screen Support VGA HDMI BNC Ypbpr For Security DVD PC BJ6 (10'' 1280x800 LCD): Amazon.ca: Electronics"
+      url: "https://www.amazon.ca/Eyoyo-Monitor-1280x800-Resolution-Display/dp/B072BZ1N9S/ref=pd_sbs_147_14?_encoding=UTF8&psc=1&refRID=7CSMG933C4SM7HV2J88P"
+    - name: "Eleduino 10.6 IPS 1080P Monitor Lcd Screen Display HDMI VGA USB Input 19201080 With Case and Stand for Raspberry Pi3 2B B A+ …: Amazon.ca: Electronics"
+      url: "https://www.amazon.ca/Eleduino-Monitor-Display-19201080-Raspberry/dp/B01MR5A6Q7/ref=pd_sbs_147_20?_encoding=UTF8&psc=1&refRID=7CSMG933C4SM7HV2J88P"
+    - name: "Mimo Monitors Vue HD UM-1080H 10.1 LCD Monitor"
+      url: "http://www.directdial.com/UM-1080H.html"
+
+- group: Oct 31 at 19:41
+  icon: fas fa-tools
+  items:
+    - name: "(2) What is the e-learning Target Audience? Or how is e-learning Customers? - Quora"
+      url: "https://www.quora.com/What-is-the-e-learning-Target-Audience-Or-how-is-e-learning-Customers"
+    - name: "5 Things You Need to Know about the Target Audience of Your Online Course"
+      url: "http://blog.commlabindia.com/elearning-design/things-to-know-about-online-course-audience"
+    - name: "Getting to know your Target Audience"
+      url: "http://blog.commlabindia.com/elearning-design/elearning-target-audience"
+    - name: "The 5 Best Ways to Research Your eLearning Course Target Audience"
+      url: "https://www.shiftelearning.com/blog/research-your-elearning-course-target-audience"
+    - name: "6 Key Questions To Effectively Analyze Your eLearning Course Audiences - eLearning Industry"
+      url: "https://elearningindustry.com/6-key-questions-to-effectively-analyze-your-elearning-course-audiences"
+
+- group: Awareness program Cost
+  icon: fas fa-tools
+  items:
+    - name: "Communication Materials - Terranova"
+      url: "https://terranovacorporation.com/solution/communication-material/"
+    - name: "IT budgeting: The smart person's guide - TechRepublic"
+      url: "https://www.techrepublic.com/article/it-budgeting-the-smart-persons-guide/"
+    - name: "security awareness program budget example - Google Search"
+      url: "https://www.google.ca/search?safe=active&biw=1234&bih=636&ei=9OfwWeCnO8_UabHSnuAF&q=security+awareness+program+budget+example&oq=security+awareness+program+budget+example&gs_l=psy-ab.3...4789.5808.0.6193.7.7.0.0.0.0.184.828.0j5.5.0....0...1.1.64.psy-ab..2.2.316...0i13k1j0i13i5i30k1j0i8i13i30k1j35i39k1.0.KJnYcHSD92g"
+    - name: "Business case for security awareness"
+      url: "http://www.noticebored.com/Business_case_for_security_awareness.pdf"
+    - name: "Making Room for Security Training in Your Budget | RSA Conference"
+      url: "https://www.rsaconference.com/blogs/making-room-for-security-training-in-your-budget"
+
+- group: Checklist references
+  icon: fas fa-tools
+  items:
+    - name: "Working Remotely | Office of the CISO"
+      url: "https://ciso.uw.edu/resources/risk-advisories/working-remotely/"
+    - name: "Checklist for Security Best Practices"
+      url: "https://technet.microsoft.com/en-ca/library/bb735870.aspx"
+    - name: "Checklist Best Practices - SafetyCulture Blog"
+      url: "https://blog.safetyculture.com/category/checklist-best-practices"
+    - name: "Action Planning"
+      url: "https://www.kent.ac.uk/careers/sk/skillsactionplanning.htm"
+
+- group: Card Deck on Knowledge Transfer
+  icon: fas fa-tools
+  items:
+    - name: "The Design Deck by The Design Deck on The Bazaar"
+      url: "https://bza.co/buy/151035/forrestmedia/the-design-deck?utm_source=DT_Interstitial&utm_medium=DT_Interstitial&utm_campaign=DT_Interstitial_DesignDeck&utm_term=DT_Interstitial_DesignDeck&utm_content=DT_Interstitial_DesignDeck"
+
+- group: Oct 31 at 10:40
+  icon: fas fa-tools
+  items:
+    - name: "eBook: The NIST Cybersecurity Framework & Security Awareness"
+      url: "https://pages.mediapro.com/free-ebook-NIST-Framework.html"
+    - name: "Resources Archives | MediaPro"
+      url: "https://www.mediapro.com/resources/"
+    - name: "GDPR Resources Archives | MediaPro"
+      url: "https://www.mediapro.com/resources/gdpr-resources/"
+    - name: "Courseware Customization & Personalization | MediaPro"
+      url: "https://www.mediapro.com/courseware-customization/?menufrom=security"
+    - name: "White Paper: A Best Practices Guide for Comprehensive Employee Awareness Programs | MediaPro"
+      url: "https://www.mediapro.com/blog/white-paper-best-practices-guide-comprehensive-employee-awareness-programs/"
+
+- group: Oct 27 at 13:44
+  icon: fas fa-tools
+  items:
+    - name: "GDPR Journal: On The GDPR Track, Our Compliance Roadmap"
+      url: "https://medium.com/taking-flight-with-mailjet/gdpr-journal-on-the-gdpr-track-our-compliance-roadmap-5a5d19e2e0c1"
+    - name: "Google Image Result for https://c1.staticflickr.com/2/1713/24134840885_faa7440991_b.jpg"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fc1.staticflickr.com%2F2%2F1713%2F24134840885_faa7440991_b.jpg&imgrefurl=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fwinfried-veil%2F24134840885&docid=c1uqo6Q8N1pLnM&tbnid=62fSJF_Vk-j0fM%3A&vet=10ahUKEwjyrO-wjIrXAhXn5YMKHRamBpQQMwgoKAEwAQ..i&w=1024&h=730&safe=active&bih=680&biw=1208&q=gdpr%20mind%20map&ved=0ahUKEwjyrO-wjIrXAhXn5YMKHRamBpQQMwgoKAEwAQ&iact=mrc&uact=8"
+    - name: "Google Image Result for http://www.biggerplate.com/mapimages/xl/87CsH3oc_LA-GDPR-POUR-LES-NULS-mind-map.png"
+      url: "https://www.google.ca/imgres?imgurl=http%3A%2F%2Fwww.biggerplate.com%2Fmapimages%2Fxl%2F87CsH3oc_LA-GDPR-POUR-LES-NULS-mind-map.png&imgrefurl=https%3A%2F%2Fwww.biggerplate.com%2Fmindmaps%2F87CsH3oc%2Fla-gdpr-pour-les-nuls&docid=aQqa62_1RiTbMM&tbnid=CKM_fN2Llzl8bM%3A&vet=10ahUKEwjyrO-wjIrXAhXn5YMKHRamBpQQMwgpKAIwAg..i&w=550&h=563&safe=active&bih=680&biw=1208&q=gdpr%20mind%20map&ved=0ahUKEwjyrO-wjIrXAhXn5YMKHRamBpQQMwgpKAIwAg&iact=mrc&uact=8"
+    - name: "Google Image Result for https://image.slidesharecdn.com/damairelandgdpr-160607144712/95/dama-ireland-gdpr-35-638.jpg?cb=1466794318"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fimage.slidesharecdn.com%2Fdamairelandgdpr-160607144712%2F95%2Fdama-ireland-gdpr-35-638.jpg%3Fcb%3D1466794318&imgrefurl=https%3A%2F%2Fwww.slideshare.net%2FDamaIreland%2Fdama-ireland-gdpr&docid=BISKDiSCd_7c9M&tbnid=1srZVxY6i_iTXM%3A&vet=10ahUKEwjyrO-wjIrXAhXn5YMKHRamBpQQMwgqKAMwAw..i&w=638&h=452&safe=active&bih=680&biw=1208&q=gdpr%20mind%20map&ved=0ahUKEwjyrO-wjIrXAhXn5YMKHRamBpQQMwgqKAMwAw&iact=mrc&uact=8"
+    - name: "Google Image Result for https://pbs.twimg.com/media/C8qHjY5XoAA83uA.jpg"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC8qHjY5XoAA83uA.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2FHannahJFinch%2Fstatus%2F849648955612962816&docid=q8E84HJ8XMK4nM&tbnid=uTqQX8MsIdnKkM%3A&vet=10ahUKEwjyrO-wjIrXAhXn5YMKHRamBpQQMwgrKAQwBA..i&w=786&h=1200&itg=1&safe=active&bih=680&biw=1208&q=gdpr%20mind%20map&ved=0ahUKEwjyrO-wjIrXAhXn5YMKHRamBpQQMwgrKAQwBA&iact=mrc&uact=8"
+
+- group: Oct 27 at 13:44
+  icon: fas fa-tools
+  items:
+    - name: "MAF Assessment Process - Canada.ca"
+      url: "https://www.canada.ca/en/treasury-board-secretariat/services/management-accountability-framework/assessment-process.html"
+    - name: "MAF Assessment Process - Canada.ca"
+      url: "https://www.canada.ca/en/treasury-board-secretariat/services/management-accountability-framework/assessment-process.html"
+    - name: "Terranova - TESTS"
+      url: "https://secure.terranovasite.com/LMS/LMSuv2/LMSuv2acc.aspx?e=99216346-73ba-4469-8afb-9fe13371c24f"
+    - name: "Directive on Departmental Security Management - Canada.ca"
+      url: "https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16579#appC"
+    - name: "Policy on Learning, Training, and Development - Canada.ca"
+      url: "https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12405"
+    - name: "Policy on Learning, Training, and Development - Glossary - Canada.ca"
+      url: "https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12405&section=glossary"
+
+- group: Learning Management System (lmS)
+  icon: fas fa-tools
+  items:
+    - name: "Top 10 eLearning Content Development Companies For 2017 - eLearning Industry"
+      url: "https://elearningindustry.com/top-10-elearning-content-development-companies-2017"
+
+- group: Oct 25 at 11:20
+  icon: fas fa-tools
+  items:
+    - name: "Ephemera – Fleeting Observations"
+      url: "http://jim-mcneill.me.uk/blog/"
+    - name: "Act Now Training"
+      url: "http://www.actnow.org.uk/content/146"
+    - name: "Act Now Training"
+      url: "http://www.actnow.org.uk/content/157"
+    - name: "Act Now Training"
+      url: "http://www.actnow.org.uk/content/148"
+    - name: "GDPR Mind Map | J4vv4D"
+      url: "https://www.j4vv4d.com/gdpr-mind-map/"
+
+- group: Oct 24 at 17:02
+  icon: fas fa-tools
+  items:
+    - name: "GDPR Mind Map | J4vv4D"
+      url: "https://www.j4vv4d.com/gdpr-mind-map/"
+    - name: "AvePoint Privacy Impact Assessment System | AvePoint"
+      url: "https://www.avepoint.com/privacy-impact-assessment/download/"
+    - name: "Tools"
+      url: "https://iapp.org/resources/apia/"
+    - name: "Building a Framework of Accountability: GDPR | AvePoint Blog"
+      url: "https://www.avepoint.com/blog/technical-blog/building-a-framework-of-accountability-gdpr/"
+    - name: "OneTrust | Privacy Management Software"
+      url: "https://onetrust.com/"
+    - name: "General Data Protection Regulation | Ashurst"
+      url: "https://www.ashurst.com/en/news-and-insights/legal-updates/general-data-protection-regulation/"
+    - name: "GDPR Part 1 - The GDPR will change the web forever — Efficiently Effective"
+      url: "https://www.efficientlyeffective.fm/episodes/2017/6/8/consent-is-king-transparency-is-queen-the-gdpr-is-coming-eelaf"
+    - name: "ClearComm - General Data Protection Regulation Experts"
+      url: "http://clearcomm.org/gdpr-compliance/"
+
+- group: Sexual Harassment
+  icon: fas fa-tools
+  items:
+    - name: "The Blue Bench: Metro Denver's only comprehensive sexual assault support and prevention center"
+      url: "http://thebluebench.org/"
+
+- group: GDPR
+  icon: fas fa-tools
+  items:
+    - name: "Overview of the General Data Protection Regulation (GDPR) | ICO"
+      url: "https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/"
+    - name: "Data protection self assessment toolkit | ICO"
+      url: "https://ico.org.uk/for-organisations/resources-and-support/data-protection-self-assessment-toolkit/"
+    - name: "GDPR Mind Map | J4vv4D"
+      url: "https://www.j4vv4d.com/gdpr-mind-map/"
+    - name: "Google Image Result for https://pbs.twimg.com/media/C8qHjY5XoAA83uA.jpg"
+      url: "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC8qHjY5XoAA83uA.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2FHannahJFinch%2Fstatus%2F849648955612962816&docid=q8E84HJ8XMK4nM&tbnid=uTqQX8MsIdnKkM%3A&vet=10ahUKEwjyrO-wjIrXAhXn5YMKHRamBpQQMwgrKAQwBA..i&w=786&h=1200&itg=1&safe=active&bih=680&biw=1208&q=gdpr%20mind%20map&ved=0ahUKEwjyrO-wjIrXAhXn5YMKHRamBpQQMwgrKAQwBA&iact=mrc&uact=8"
+    - name: "GDPR Resources Archives | MediaPro"
+      url: "https://www.mediapro.com/resources/gdpr-resources/"
+    - name: "General Data Protection Regulation (GDPR) Portfolio"
+      url: "https://www.theidm.com/gdpr"
+    - name: "Home: EU Cloud CoC"
+      url: "https://eucoc.cloud/en/home.html"
+
+- group: Privacy
+  icon: fas fa-tools
+  items:
+    - name: "For the public | ICO"
+      url: "https://ico.org.uk/for-the-public/"
+    - name: "AvePoint Privacy Impact Assessment System | AvePoint"
+      url: "https://www.avepoint.com/privacy-impact-assessment/download/"
+
+- group: Goals and Objectives
+  icon: fas fa-tools
+  items:
+    - name: "KPIs and Goals - Aligning Objectives, Measurement Is Key | Merkle"
+      url: "https://www.merkleinc.com/blog/aligning-kpis-goals-and-objectives"
+    - name: "OKR: Learn Google's Goal System with Examples and Templates"
+      url: "http://felipecastro.com/en/okr/what-is-okr/"
+    - name: "ALIGNING GOALS WITH ORGANIZATIONAL OBJECTIVES – Advanture Consulting"
+      url: "http://advantureconsulting.com/blog/leadership/aligning-goals-with-organizational-objectives/"
+    - name: "Strategy 101: It's All About Alignment"
+      url: "https://www.forbes.com/sites/larrymyler/2012/10/16/strategy-101-its-all-about-alignment/#5da9653428cf"
+
+- group: Oct 22 at 01:09
+  icon: fas fa-tools
+  items:
+    - name: "Action we've taken | ICO"
+      url: "https://ico.org.uk/action-weve-taken/"
+
+- group: LinkedIN Future Connexions
+  icon: fas fa-tools
+  items:
+    - name: "France Maltais | LinkedIn"
+      url: "https://www.linkedin.com/in/france-maltais-46780426/"
+
+- group: Oct 19 at 21:37
+  icon: fas fa-tools
+  items:
+    - name: "Center for Development of Security Excellence (CDSE)"
+      url: "http://www.cdse.edu/"
+
+- group: Oct 19 at 21:25
+  icon: fas fa-tools
+  items:
+    - name: "Intellectual Property Awareness | NIST"
+      url: "https://www.nist.gov/mep/intellectual-property-awareness"
+    - name: "CSRC - NIST Cybersecurity and Privacy Events"
+      url: "https://csrc.nist.gov/Events/2017/"
+
+- group: IDG
+  icon: fas fa-tools
+  items:
+    - name: "IDG : CIO Executive Council"
+      url: "https://www.idg.com/cio-executive-council/"
+    - name: "IT Leaders Shaping The Future of Business - CIO Executive Council"
+      url: "https://council.cio.com/"
+    - name: "IDG"
+      url: "http://www.idgventures.com/"
+    - name: "IT Executives Balance Tech Budget between Agile & Stable Initiatives, while Security Remains an Overall Focus - IDG Enterprise"
+      url: "https://www.idgenterprise.com/news/press-release/executives-balance-tech-budget-agile-stable-initiatives-security-remains-overall-focus/"
+
+- group: Oct 19 at 20:50
+  icon: fas fa-tools
+  items:
+    - name: "ITR 2017 Main"
+      url: "https://www.eiseverywhere.com/ehome/212975"
+
+- group: Security Conference
+  icon: fas fa-tools
+  items:
+    - name: "Presenters | CSO50 Conference"
+      url: "http://www.csoconference.com/presenters/"
+    - name: "ITR 2017 Main"
+      url: "https://www.eiseverywhere.com/ehome/212975"
+    - name: "CSRC - NIST Cybersecurity and Privacy Events"
+      url: "https://csrc.nist.gov/Events/2017/"
+    - name: "Center for Development of Security Excellence (CDSE)"
+      url: "http://www.cdse.edu/"
+
+- group: Oct 17 at 18:10
+  icon: fas fa-tools
+  items:
+    - name: "How To Find Your Target Audience & Create Content That Connects"
+      url: "https://coschedule.com/blog/how-to-find-your-target-audience/"
+    - name: "Presentation Skills Courses and Coaching in Advanced Presentation Skills"
+      url: "http://www.speaking.co.uk/AtkinsonCommunications/books.html"
+    - name: "Top read of 2008: Modern myths of learning: You only remember 10% of what you read | TrainingZone"
+      url: "https://www.trainingzone.co.uk/lead/strategy/top-read-of-2008-modern-myths-of-learning-you-only-remember-10-of-what-you-read"
+    - name: "How Much of Your Presentation Will They Remember? |"
+      url: "http://jackmalcolm.com/2012/08/how-much-of-your-presentation-will-they-remember/"
+    - name: "after a training, we expect you to retain 10% of the content - Google Search"
+      url: "https://www.google.ca/search?q=after+a+training%2C+we+expect+you+to+retain+10%25+of+the+content&oq=after+a+training%2C+we+expect+you+to+retain+10%25+of+the+content&aqs=chrome..69i57.20571j0j1&sourceid=chrome&ie=UTF-8"
+
+- group: Oct 17 at 18:10
+  icon: fas fa-tools
+  items:
+    - name: "Simplified Organization eCourse, module 1 only | Simplified Organization"
+      url: "https://www.simplifiedorganization.com/product/module1/"
+    - name: "The Self-Care Revolution Presents: Module 1 â€“ Thoughts And Food As Medicine - Robyn Benson, Kevin Snow - Google Books"
+      url: "https://books.google.ca/books?id=WwvzBQAAQBAJ&pg=PA130&lpg=PA130&dq=you%27re+now+starting+module+1&source=bl&ots=PemA3Tb8oT&sig=LcHBg6aZON1DpVu5_gA2kE4uVzQ&hl=en&sa=X&ved=0ahUKEwj8-IzwvfjWAhUL8IMKHZsjBlwQ6AEIOTAD#v=onepage&q=you're%20now%20starting%20module%201&f=false"
+    - name: "Project: Module 1 Assignment Walkthrough - University of California, San Diego | Coursera"
+      url: "https://www.coursera.org/learn/object-oriented-java/lecture/Jisbc/project-module-1-assignment-walkthrough"
+    - name: "What you will learn in Module 1 | The Purposeful Creative"
+      url: "http://courses.bravergoals.com/courses/purposedrivenbranding/lectures/1607517"
+    - name: "Module 1 Why Start Over"
+      url: "https://www.slideshare.net/caniceconsulting/module-1-why-start-over"
+    - name: "(20) Anick Charland | LinkedIn"
+      url: "https://www.linkedin.com/in/anickcharland/"
+
+- group: Diagram TN
+  icon: fas fa-tools
+  items:
+    - name: "INCOSE UK | zGuide 11 | Project Management and Systems Engineering"
+      url: "http://incoseonline.org.uk/Program_Files/Publications/zGuides_11.aspx?CatID=Publications"
+    - name: "Journey Maps | Heart of the Customer"
+      url: "https://heartofthecustomer.com/journey-maps/"
+    - name: "Risk Management | Statkraft"
+      url: "https://www.statkraft.com/AnnualReport2013/Activities1/Risk-Management/"
+    - name: "Lean Portfolio and Programme Management Cheat Sheet – IANCARROLL.COM"
+      url: "https://www.iancarroll.com/2013/07/09/lean-portfolio-and-programme-mgmt-cheat-sheet/"
+    - name: "Powerpoint Agile Roadmap Template: 4 Agile Formats"
+      url: "https://business-docs.co.uk/downloads/powerpoint-agile-roadmap-template/"
+    - name: "The AngularJS Cheat Sheet – Avarteq Blog"
+      url: "https://blog.avarteq.com/the-angularjs-cheat-sheet/"
+    - name: "Kanban Task Manager for SharePoint Introduction - YouTube"
+      url: "https://www.youtube.com/watch?v=GGnugSK0txY"
+
+- group: Oct 16 at 13:46
+  icon: fas fa-tools
+  items:
+    - name: "How I Learned to Let My Workers Lead"
+      url: "https://hbr.org/1990/11/how-i-learned-to-let-my-workers-lead"
+    - name: "ITU-D Study Group Case Study Library"
+      url: "http://www.itu.int/en/ITU-D/Study-Groups/Pages/case-study-library.aspx"
+
+- group: LinkedIN Influencers
+  icon: fas fa-tools
+  items:
+    - name: "Daniel Solove | LinkedIn Influencer | LinkedIn"
+      url: "https://www.linkedin.com/today/post/articles/2259773"
+
+- group: Case Study
+  icon: fas fa-tools
+  items:
+    - name: "How to Write a Case Study: Bookmarkable Guide & Template"
+      url: "https://blog.hubspot.com/blog/tabid/6307/bid/33282/the-ultimate-guide-to-creating-compelling-case-studies.aspx"
+    - name: "How to Write a Business Case ― 4 Steps to a Perfect Business Case Template"
+      url: "https://resources.workfront.com/project-management-blog/how-to-write-a-business-case-4-steps-to-a-perfect-business-case-template"
+    - name: "Business Analysis Tools, Templates and Checklists - CEG"
+      url: "https://www.corpedgroup.com/resources/ba-tools.asp"
+    - name: "The Ultimate Marketing Case Study Template - Curata Blog"
+      url: "http://www.curata.com/blog/ultimate-marketing-case-study-template/"
+    - name: "Conducting a Feasibility Study: Sample & Free Template for Project Managers"
+      url: "http://www.brighthubpm.com/project-planning/63692-project-feasibility-study-samples/"
+    - name: "ITU-D Study Group Case Study Library"
+      url: "http://www.itu.int/en/ITU-D/Study-Groups/Pages/case-study-library.aspx"
+
+- group: Awareness
+  icon: fas fa-tools
+  items:
+    - name: "information security awareness standard - Google Search"
+      url: "https://www.google.ca/search?q=information+security+awareness+standard&safe=active&sa=N&biw=1050&bih=1320&tbm=isch&tbo=u&source=univ&ved=0ahUKEwjntOmksuzWAhUq_4MKHaahCmo4FBCwBAhD#imgrc=VBXozdmnZ2cDGM:"
+    - name: "IBIMA Publishing - A Framework for the Governance of Information Security in Banking System"
+      url: "http://ibimapublishing.com/articles/JIACS/2011/726196/"
+    - name: "ICSUAM Policy 8035.0 - Information Security Awareness and Training | California State University Stanislaus"
+      url: "https://www.csustan.edu/oit/about-oit/information-security-policies-and-standards/icsuam-policy-80350-information-security"
+    - name: "Policy by Section | Integrated CSU Administrative Manual | CSU"
+      url: "http://www.calstate.edu/icsuam/sections.shtml"
+    - name: "Awareness Training | Information Technology | HGSE"
+      url: "https://its.gse.harvard.edu/services/information-security/awareness-training"
+    - name: "Intellectual Property Awareness | NIST"
+      url: "https://www.nist.gov/mep/intellectual-property-awareness"
+
+- group: Awareness Applications
+  icon: fas fa-tools
+  items:
+    - name: "Report your unsafe situations. | Wolters Kluwer"
+      url: "http://www.verifield.com/en/ehs-software/riskreporter/#qr-form-6184"
+
+- group: Program Maturity
+  icon: fas fa-tools
+  items:
+    - name: "2nd Edition - Program Maturity - Measuring the Effectiveness of the BCM/ Resiliency Program"
+      url: "http://app.keysurvey.com/votingmodule/VOTING2/f/1162447/dcabc33a1560f198/?msig=88328dcdf4917c6398b684819907e988"
+    - name: "2nd Edition - Program Maturity - Measuring the Effectiveness of the BCM/ Resiliency Program"
+      url: "http://app.keysurvey.com/votingmodule/VOTING2/f/1162447/dcabc33a1560f198/?msig=88328dcdf4917c6398b684819907e988"
+    - name: "Pluriportail"
+      url: "https://pluriportail.csmb.qc.ca/Pluriportail/fr/MainExterne.srf?P=EtatSess&Q=EtatSess%3D0"
+
+- group: Privacy regulation
+  icon: fas fa-tools
+  items:
+    - name: "CanLII - Digital Privacy Act, SC 2015, c 32"
+      url: "https://www.canlii.org/en/ca/laws/astat/sc-2015-c-32/latest/sc-2015-c-32.html?resultIndex=1"
+    - name: "Federal Privacy Laws | APRA Canada"
+      url: "http://www.apracanada.ca/privacy_fed"
+    - name: "FOIP: Focus on Privacy"
+      url: "http://www.servicealberta.gov.ab.ca/foip/online_training/focusprivacy/html/frames.htm"
+    - name: "Canada's Anti-Spam Legislation (Infographics) | CRTC"
+      url: "http://www.crtc.gc.ca/eng/internet/infograph.htm"
+    - name: "The Personal Information Protection and Electronic Documents Act (PIPEDA) - Office of the Privacy Commissioner of Canada"
+      url: "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/"
+    - name: "Privacy Act"
+      url: "http://laws-lois.justice.gc.ca/eng/acts/p-21/"
+
+- group: Oct 12 at 14:59
+  icon: fas fa-tools
+  items:
+    - name: "blogs.csoonline.com"
+      url: "http://blogs.csoonline.com/security-leadership/3057/think-data-breach-wont-happen-you-why-we-need-close-gap-between-perception-and-reality"
+    - name: "blogs.csoonline.com"
+      url: "http://blogs.csoonline.com/security-leadership/3079/think-target-blew-it-what-happened-them-likely-happen-you-too"
+    - name: "blogs.csoonline.com"
+      url: "http://blogs.csoonline.com/security-leadership/2749/how-fix-looming-shortage-skilled-security-professionals"
+    - name: "blogs.csoonline.com"
+      url: "http://blogs.csoonline.com/security-leadership/3034/why-your-security-incident-reporting-process-matters"
+
+- group: Cybersecurity
+  icon: fas fa-tools
+  items:
+    - name: "Wiley: Beyond Cybersecurity: Protecting Your Digital Business - James M. Kaplan, Tucker Bailey, Derek O'Halloran, et al"
+      url: "http://ca.wiley.com/WileyCDA/WileyTitle/productCd-1119026849,descCd-buy.html"
+    - name: "Cyber Solutions | McKinsey & Company"
+      url: "https://www.mckinsey.com/solutions/cyber-solutions/overview"
+    - name: "How to Corral Security Consultants | CSO Online"
+      url: "https://www.csoonline.com/article/2118884/it-audit/how-to-corral-security-consultants.html"
+    - name: "Calculated Risk: Return on Security Investment | CSO Online"
+      url: "https://www.csoonline.com/article/2113094/metrics-budgets/calculated-risk--return-on-security-investment.html"
+
+- group: Oct 09 at 22:15
+  icon: fas fa-tools
+  items:
+    - name: "The Strategist - Cynthia Montgomery - Hardcover"
+      url: "https://www.harpercollins.com/books/9780062071019"
+
+- group: TN Workshop
+  icon: fas fa-tools
+  items:
+    - name: "About us"
+      url: "http://www.corpeum.com/about-us/"
+    - name: "How We Help Clients | Organization | McKinsey & Company"
+      url: "https://www.mckinsey.com/business-functions/organization/how-we-help-clients"
+    - name: "The Strategist - Cynthia Montgomery - Hardcover"
+      url: "https://www.harpercollins.com/books/9780062071019"
+    - name: "Cyber Solutions | McKinsey & Company"
+      url: "https://www.mckinsey.com/solutions/cyber-solutions/overview"
+    - name: "How We Help Clients | Organization | McKinsey & Company"
+      url: "https://www.mckinsey.com/business-functions/organization/how-we-help-clients"
+    - name: "How to Corral Security Consultants | CSO Online"
+      url: "https://www.csoonline.com/article/2118884/it-audit/how-to-corral-security-consultants.html"
+    - name: "blogs.csoonline.com"
+      url: "http://blogs.csoonline.com/security-leadership/3057/think-data-breach-wont-happen-you-why-we-need-close-gap-between-perception-and-reality"
+
+- group: Oct 06 at 07:39
+  icon: fas fa-tools
+  items:
+    - name: "Securing Personal Information: A Self-Assessment Tool for Organizations"
+      url: "https://services.priv.gc.ca/resource/tool-outil/security-securite/english/AssessRisks.asp?formAction=ShowPrintedAssess&methods=full"
+    - name: "Guidance Documents – Office of the Information and Privacy Commissioner for BC"
+      url: "https://www.oipc.bc.ca/guidance/guidance-documents/"
+    - name: "GS1 | The Global Language of Business"
+      url: "https://www.gs1.org/"
+    - name: "Standards | GS1"
+      url: "https://www.gs1.org/standards"
+
+- group: TN Book & WhitePaper
+  icon: fas fa-tools
+  items:
+    - name: "The Guide to UX Design Process & Documentation — by UXPin"
+      url: "https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/"
+    - name: "The Guide to UX Design Process & Documentation — by UXPin"
+      url: "https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/"
+
+- group: Oct 08 at 15:51
+  icon: fas fa-tools
+  items:
+
+
+- group: Design
+  icon: fas fa-tools
+  items:
+    - name: "Space in Design Systems – EightShapes – Medium"
+      url: "https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62"
+    - name: "IBM Design Language | Resources"
+      url: "https://www.ibm.com/design/language/resources"
+    - name: "Type Scale - A Visual Calculator"
+      url: "http://type-scale.com/"
+    - name: "Google Fonts"
+      url: "https://fonts.google.com/"
+    - name: "Condensed Fonts Take Up Less Space Horizontally"
+      url: "https://www.thoughtco.com/condensed-fonts-in-typography-1077996"
+
+- group: Job
+  icon: fas fa-tools
+  items:
+    - name: "(1) Technical Solutions Manager (Sales Engineer) | BlackBerry | LinkedIn"
+      url: "https://www.linkedin.com/jobs/view/465917688/?recommendedFlavor=IN_NETWORK&trk=eml-jymbii-organic-job-card&midToken=AQEh1iPub8BQ5A&trkEmail=eml-jobs_jymbii_digest-null-13-null-null-9h35%7Ej8d1sx20%7Ek0-null-jobs%7Eview&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BrRY6Up8ZS9GyFr8qMgg4yQ%3D%3D"
+    - name: "(1) Expert Cyber Security Strategist | Nike | LinkedIn"
+      url: "https://www.linkedin.com/jobs/view/407262251/?recommendedFlavor=SCHOOL_RECRUIT&refId=a95ad392-21ad-4b8b-b850-14181d92f225&trk=d_flagship3_job_details&lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3BlXEIbQ1UTeO0LzPSI7w4%2BA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-jobdetails_rightrail_peoplealsoviewed"
+    - name: "(1) Hired Data Report: Contract Work for Technical Talent is Here to Stay | LinkedIn"
+      url: "https://www.linkedin.com/pulse/hired-data-report-contract-work-technical-talent-here-mehul-patel/?trackingId=20XX7liWFFJHEhVEYmy%2Fkg%3D%3D&trk=eml_premium_newsletter_tech_Main_2017_1003_report"
+    - name: "(1) Chief Information Security Officer | Boston Medical Center (BMC) | LinkedIn"
+      url: "https://www.linkedin.com/jobs/view/415671260/?refId=39f28dd6-0413-4b2c-afd2-e83f8b68ea94&trk=d_flagship3_job_details&lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3BpjMDbHSfTPKIst4HBV8miw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-jobdetails_rightrail_peoplealsoviewed"
+    - name: "(1) Senior Solutions Architect | Red Hat | LinkedIn"
+      url: "https://www.linkedin.com/jobs/view/462882743/?recommendedFlavor=true&refId=4420491507236622492&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BBJcADiheS8GCDOzpzLZrBg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_jobs-A_jobssearch_job_result_click"
+    - name: "(1) Strategic Solutions Data Architect - Architecte de solutions stratégiques | Oceanwide | LinkedIn"
+      url: "https://www.linkedin.com/jobs/view/355663886/?refId=4420491507236622492&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BBJcADiheS8GCDOzpzLZrBg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_jobs-A_jobssearch_job_result_click"
+    - name: "(1) cloud Jobs in Montreal, Quebec, Canada | LinkedIn"
+      url: "https://www.linkedin.com/jobs/search/?keywords=cloud&location=Montreal%2C%20Quebec%2C%20Canada&locationId=PLACES.ca.2-2-0-531&start=50"
+    - name: "Hired"
+      url: "https://hired.com/talent"
+    - name: "(1) Senior software architect | Lune Rouge | LinkedIn"
+      url: "https://www.linkedin.com/jobs/view/434033060/?recommendedFlavor=true&refId=4420491507236623940&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3Bu0RIYdLBTtOlS3ELZem50A%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_jobs-A_jobssearch_job_result_click"
+    - name: "(1) Software Architect | Thinking Capital | LinkedIn"
+      url: "https://www.linkedin.com/jobs/view/463406535/?recommendedFlavor=true&refId=4420491507236623940&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3Bu0RIYdLBTtOlS3ELZem50A%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_jobs-A_jobssearch_job_result_click"
+    - name: "(1) Catalant Technologies: Overview | LinkedIn"
+      url: "https://www.linkedin.com/company/10881077/"
+    - name: "Business Expertise On Demand - Powered by Catalant"
+      url: "https://gocatalant.com/"
+    - name: "(1) GE Digital: Jobs | LinkedIn"
+      url: "https://www.linkedin.com/company/2681277/jobs/"
+    - name: "(1) GE Digital: Jobs | LinkedIn"
+      url: "https://www.linkedin.com/company/2681277/jobs/"
+    - name: "(1) GE Digital: Overview | LinkedIn"
+      url: "https://www.linkedin.com/company/2681277/"
+    - name: "(1) Senior Information Security Program Manager | LinkedIn | LinkedIn"
+      url: "https://www.linkedin.com/jobs/view/413973909/?recommendedFlavor=IN_NETWORK&refId=39f28dd6-0413-4b2c-afd2-e83f8b68ea94&trk=d_flagship3_job_details&lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3BpjMDbHSfTPKIst4HBV8miw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-jobdetails_rightrail_peoplealsoviewed"
+    - name: "(1) cloud Jobs in Montreal, Quebec, Canada | LinkedIn"
+      url: "https://www.linkedin.com/jobs/search/?keywords=cloud&location=Montreal%2C%20Quebec%2C%20Canada&locationId=PLACES.ca.2-2-0-531&start=50"
+
+- group: Ansible
+  icon: fas fa-tools
+  items:
+    - name: "stat - retrieve file or file system status — Ansible Documentation"
+      url: "http://docs.ansible.com/ansible/latest/stat_module.html"
+    - name: "Conditionals — Ansible Documentation"
+      url: "http://docs.ansible.com/ansible/latest/playbooks_conditionals.html#the-when-statement"
+    - name: "Creating Native Packages the Lazy Way – toja.io"
+      url: "http://toja.io/creating-native-packages-the-lazy-way/"
+    - name: "Organizing Group Vars Files in Ansible – toja.io"
+      url: "http://toja.io/using-host-and-group-vars-files-in-ansible/"
+
+- group: MS Windows Config
+  icon: fas fa-tools
+  items:
+    - name: "My Bash on Windows Dev Environment - daverupert.com"
+      url: "http://daverupert.com/2017/03/my-bash-on-windows-developer-environment/"
+
+- group: Orange Palette
+  icon: fas fa-tools
+  items:
+    - name: "Walter Reed Dreams › About"
+      url: "http://walterreeddreams.com/about-walter-reed/"
+    - name: "#ff5c05 hex color"
+      url: "http://www.colorhexa.com/ff5c05"
+    - name: "The Best Color Picker for Mac? (Sip App Review) - YouTube"
+      url: "https://www.youtube.com/watch?v=skLDHOJph-Y"
+    - name: "Faq's"
+      url: "http://sipapp.io/faqs/"
+    - name: "Name that Color - Chirag Mehta : chir.ag"
+      url: "http://chir.ag/projects/name-that-color/#6195ED"
+
+- group: Web StyleGuide and Pattern
+  icon: fas fa-tools
+  items:
+    - name: "On pattern portfolios | Clearleft"
+      url: "https://clearleft.com/posts/118"
+    - name: "Color in Design Systems – EightShapes – Medium"
+      url: "https://medium.com/eightshapes-llc/color-in-design-systems-a1c80f65fa3"
+    - name: "Responsive Deliverables - daverupert.com"
+      url: "http://daverupert.com/2013/04/responsive-deliverables/"
+    - name: "Space in Design Systems – EightShapes – Medium"
+      url: "https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62"
+    - name: "Shopify Polaris"
+      url: "https://polaris.shopify.com/"
+    - name: "Plasma design system – Andrew Couldwell – Medium"
+      url: "https://medium.com/@andrewcouldwell/plasma-design-system-4d63fb6c1afc"
+
+- group: Metadata
+  icon: fas fa-tools
+  items:
+    - name: "Knowing when It's Time to Start Over"
+      url: "https://picturepark.com/content-management-blog/product-information/knowing-when-its-time-to-start-over/"
+    - name: "Metadata for Content Management: Designing taxonomy, metadata, policy and workflow to make digital content systems better for users.: David Diamond: 9781535087506: Amazon.com: Books"
+      url: "https://www.amazon.com/Metadata-Content-Management-Designing-taxonomy/dp/1535087501/ref=sr_1_1?ie=UTF8&qid=1468508049&sr=8-1&keywords=metadata+for+content"
+    - name: "DAM & Content Management Books | Metadata for Content Management and DAM Survival Guide by David Diamond"
+      url: "https://damsurvivalguide.wordpress.com/"
+    - name: "Amazon.com: The Accidental Taxonomist, Second Edition (9781573875288): Heather Hedden: Books"
+      url: "https://www.amazon.com/Accidental-Taxonomist-Second-Heather-Hedden/dp/1573875287/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=S1AH0PQHQPNZ6NST16HX"
+    - name: "Digital Asset Management Books and White Papers | #LearnDAM"
+      url: "https://picturepark.com/resources/content-management-education/dam-books-and-white-papers/"
+
+- group: Awareness
+  icon: fas fa-tools
+  items:
+    - name: "CyberBOT"
+      url: "https://www.optiv.com/services/education-and-awareness/security-awareness-training/cyberbot"
+    - name: "Professional Development | Optiv"
+      url: "https://www.optiv.com/services/education-and-awareness/professional-development"
+    - name: "Federal Privacy Laws | APRA Canada"
+      url: "http://www.apracanada.ca/privacy_fed"
+
+- group: Nice Web Page (Layout + Typo)
+  icon: fas fa-tools
+  items:
+    - name: "Vítor Lourenço · Partner at Expa"
+      url: "http://vitor.com/"
+    - name: "Wilson Miner"
+      url: "https://wilsonminer.com/"
+    - name: "Taecho Group - A Digital Agency"
+      url: "http://taechogroup.com/"
+    - name: "Bakken & Bæck"
+      url: "https://bakkenbaeck.com/"
+    - name: "Strategi — UPPERDOG"
+      url: "https://upperdog.com/strategi/"
+    - name: "Introducing Heliom | Heliom"
+      url: "http://heliom.ca/blog/posts/introducing-heliom"
+    - name: "Home | Populus Data Solutions"
+      url: "https://www.populusdatasolutions.com/#about-section"
+
+- group: Extract fonts from PDF
+  icon: fas fa-tools
+  items:
+    - name: "Posts containing 'extract embedded fonts in pdf file' - Super User"
+      url: "https://superuser.com/search?q=extract+embedded+fonts+in+PDF+file"
+    - name: "How can I extract fonts from a PDF file? - Super User"
+      url: "https://superuser.com/questions/75710/how-can-i-extract-fonts-from-a-pdf-file"
+    - name: "editing - Substitute a font in a PDF document - Super User"
+      url: "https://superuser.com/questions/166024/substitute-a-font-in-a-pdf-document/167469#167469"
+    - name: "osx lion - How to add missing fonts to Adobe Illustrator? - Super User"
+      url: "https://superuser.com/questions/471688/how-to-add-missing-fonts-to-adobe-illustrator/471691#471691"
+    - name: "How can I efficiently view/validate/delete 1M+ files from data recovery? - Super User"
+      url: "https://superuser.com/questions/957845/how-can-i-efficiently-view-validate-delete-1m-files-from-data-recovery/960022#960022"
+
+- group: Sep 16 at 21:08
+  icon: fas fa-tools
+  items:
+    - name: "LEGO.com Digital Designer Virtual Building Software"
+      url: "http://ldd.lego.com/en-us/"
+    - name: "Redefining IT Priorities for a Digital Future - A North American Perspective on Digital Transformation Free Executive Guide"
+      url: "http://knowledgehubmedia.tradepub.com/free/w_insa11/prgm.cgi"
+
+- group: Burlingame
+  icon: fas fa-tools
+  items:
+    - name: "Burlingame® font family | Linotype.com"
+      url: "https://www.linotype.com/1224014/burlingame-family.html"
+    - name: "Burlingame - Font News"
+      url: "https://www.linotype.com/7200-33699/font-in-use.html"
+    - name: "Burlingame - Font News"
+      url: "https://www.linotype.com/7200-33845/a-somewhat-different-square-sans.html"
+    - name: "Carl Crossgrove - Designer Interview"
+      url: "https://www.linotype.com/359-33677/interview.html"
+    - name: "Burlingame – iA"
+      url: "https://ia.net/projects/burlingame/"
+
+- group: LinkedIN
+  icon: fas fa-tools
+  items:
+    - name: "Lise Lemieux | LinkedIn"
+      url: "https://www.linkedin.com/in/lise-lemieux-2938685/?lipi=urn%3Ali%3Apage%3Ad_flagship3_me_wvm_v2%3BW%2Fq1Zr%2FXT5CrFS6Z4Lv22g%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_me_wvm_v2-profileview_single"
+    - name: "Serge Masse | LinkedIn"
+      url: "https://www.linkedin.com/in/serge-masse-0b1286/?lipi=urn%3Ali%3Apage%3Ad_flagship3_me_wvm_v2%3BW%2Fq1Zr%2FXT5CrFS6Z4Lv22g%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_me_wvm_v2-profileview_single"
+    - name: "Nakia D. Hansen | LinkedIn"
+      url: "https://www.linkedin.com/in/ndhansen/"
+    - name: "Terms and Conditions - C. A. GOLDBERG"
+      url: "http://www.cagoldberglaw.com/terms-and-conditions/"
+    - name: "Yves Aucoin | LinkedIn"
+      url: "https://www.linkedin.com/in/yves-aucoin-75858882/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3B1Uy10SFKSg6anCYVVxTknA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=0s5EeJkORyGwT%2F2j6Ws%2F1w%3D%3D"
+    - name: "Atos: Overview | LinkedIn"
+      url: "https://www.linkedin.com/company/1259/"
+    - name: "Benoît H. Dicaire | LinkedIn"
+      url: "https://www.linkedin.com/in/bhdicaire/"
+    - name: "Frédéric Harper | LinkedIn"
+      url: "https://www.linkedin.com/in/fredericharper/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BvK3ncs2QQQGcgFVRAFYwUA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=HLBy8vjlTXOha3hhBy8QjQ%3D%3D"
+    - name: "Jean Pare | LinkedIn"
+      url: "https://www.linkedin.com/in/jean-pare-8b900618/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3B0zSy7m2USnuSVD747TQB9g%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=1%2BqNlBMMT%2FaPxmSMph%2Fvww%3D%3D"
+    - name: "Nuvoola: Overview | LinkedIn"
+      url: "https://www.linkedin.com/company/15165177/"
+    - name: "Dean Theriault | LinkedIn"
+      url: "https://www.linkedin.com/in/dean-theriault-67607816/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3B6KMKiuLfQHKdftsSHyGFcw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=gshikpyZSiqyn9kcWVQR0w%3D%3D"
+    - name: "Dean Theriault | LinkedIn"
+      url: "https://www.linkedin.com/in/dean-theriault-67607816/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3B6KMKiuLfQHKdftsSHyGFcw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=gshikpyZSiqyn9kcWVQR0w%3D%3D"
+
+- group: Extract web fonts
+  icon: fas fa-tools
+  items:
+    - name: "chrome cache viewer - Google Search"
+      url: "https://www.google.ca/search?q=chrome+cache+viewer&oq=chrome+cache+&aqs=chrome.1.69i57j0l5.11416j0j1&sourceid=chrome&ie=UTF-8"
+    - name: "Web Cache Viewer - Chrome Web Store"
+      url: "https://chrome.google.com/webstore/detail/web-cache-viewer/pbkloffickinnlnmefmjmjbacohecpbd/reviews?hl=en"
+    - name: "Senseful Solutions: Viewing Chrome cache (the easy way)"
+      url: "http://www.sensefulsolutions.com/2012/01/viewing-chrome-cache-easy-way.html"
+    - name: "Chrome Cache Viewer: View/Recover Google Chrome Cache Files - EaseUS"
+      url: "https://www.easeus.com/file-recovery/recover-cache-files-in-google-chrome.html"
+    - name: "How to View and Extract files from Google Chrome’s Cache"
+      url: "http://www.techverse.net/view-extract-files-google-chromes-cache/"
+    - name: "(2) Does anyone know if there is a tool which lets you extract webfonts from websites without going in to the css? - Quora"
+      url: "https://www.quora.com/unanswered/Does-anyone-know-if-there-is-a-tool-which-lets-you-extract-webfonts-from-websites-without-going-in-to-the-css"
+    - name: "how do i download/extract font from chrome developers tools - Stack Overflow"
+      url: "https://stackoverflow.com/questions/20711393/how-do-i-download-extract-font-from-chrome-developers-tools"
+    - name: "css - How to steal a font from a site - Stack Overflow"
+      url: "https://stackoverflow.com/questions/22143365/how-to-steal-a-font-from-a-site"
+    - name: "Ripping fonts from websites"
+      url: "http://www.lomcn.org/forum/showthread.php?78267-Ripping-fonts-from-websites"
+    - name: "Extract, Get All Images, Stylesheets, Scripts from WebPages with Google Chrome"
+      url: "http://www.snaphow.com/4687/extract-get-all-images-stylesheets-scripts-from-webpages-with-google-chrome/"
+    - name: "(2) Does anyone know if there is a tool which lets you extract webfonts from websites without going in to the css? - Quora"
+      url: "https://www.quora.com/unanswered/Does-anyone-know-if-there-is-a-tool-which-lets-you-extract-webfonts-from-websites-without-going-in-to-the-css"
+
+- group: Sep 11 at 16:40
+  icon: fas fa-tools
+  items:
+    - name: "fspoettel/blaupause: A Hugo starter kit based on Gulp tasks. Comes es6-ready with several helpers and partials and a nice basic structure for the html, scss and javascript."
+      url: "https://github.com/fspoettel/blaupause"
+    - name: "Gogs, an alternative to Gitlab"
+      url: "http://jbrodriguez.io/gogs-an-alternative-to-gitlab/"
+    - name: "Dockerization"
+      url: "http://jbrodriguez.io/dockeritazion/"
+    - name: "Juan B. Rodriguez | Software Engineering, Banking Industry, Project Management"
+      url: "http://jbrodriguez.io/"
+    - name: "Caramel maison | Ricardo"
+      url: "https://www.ricardocuisine.com/recettes/6668-caramel-maison"
+
+- group: Productivity
+  icon: fas fa-tools
+  items:
+    - name: "How to use Toby"
+      url: "http://www.gettoby.com/how-to-use"
+
+- group: Pinboard
+  icon: fas fa-tools
+  items:
+    - name: "Pinboard Resources"
+      url: "https://pinboard.in/resources/"
+    - name: "Pinboard Resources"
+      url: "https://pinboard.in/resources/#scripts"
+    - name: "Paperback — A Simple Way to Read Pinboard Articles Later"
+      url: "https://readpaperback.com/"
+    - name: "Pinboard Resources"
+      url: "https://pinboard.in/resources/#web"
+    - name: "Bookmark Manager"
+      url: "chrome://bookmarks/"
+    - name: "my.xmarks.com"
+      url: "https://my.xmarks.com/"
+
+- group: Mac
+  icon: fas fa-tools
+  items:
+    - name: "Austin Apple Admins"
+      url: "http://austinappleadmins.org/"
+    - name: "smashism (emily)"
+      url: "https://github.com/smashism"
+    - name: "kylecrawshaw/ImagrAdmin"
+      url: "https://github.com/kylecrawshaw/ImagrAdmin"
+    - name: "SafeNet eToken 5100 - USB security key - 909-022342-002 - Tokens - CDW.com"
+      url: https://www.cdw.com/shop/products/SafeNet-eToken-5100-USB-security-key/4454714.aspx#PO

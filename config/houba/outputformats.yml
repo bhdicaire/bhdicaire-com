@@ -1,0 +1,41 @@
+RSS:
+  mediaType: "application/rss+xml"
+  baseName: "feed" 
+  isPlainText: true
+  rel: "alternate"
+  isHTML: false
+  noUgly: true
+  permalinkable: false
+  notAlternative: true
+Atom:
+  name: "Atom"
+  mediaType: "application/atom+xml"
+  baseName: "feed" 
+  isPlainText: true
+  rel: "alternate"
+  isHTML: false
+  noUgly: true
+  permalinkable: false
+  notAlternative: true
+JSONFeed:
+  name: "JSONFeed"
+  mediaType: "application/feed+json"
+  baseName: "feed" 
+  isPlainText: true
+  rel: "alternate"
+  isHTML: false
+  noUgly: true
+  permalinkable: false
+  notAlternative: true
+openSearch:
+  baseName: "opensearch"
+  isHTML: false
+  isPlainText: false
+  mediaType: "application/opensearchdescription+xml"
+  noUgly: true
+sitemap:
+  BaseName: “sitemap”
+  IsHTML: false
+  IsPlainText: false
+  noUgly: true
+  Rel: “sitemap   

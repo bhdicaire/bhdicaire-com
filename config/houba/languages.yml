@@ -1,0 +1,103 @@
+en:
+  params:
+    accountableperson: "Benoit H. Dicaire"
+    entityname: "Dicaire.com inc"    
+    description: "Dicaire inc, an information security consulting firm"
+    keywords:
+      - "Information Security"
+      - "Cybersecurity"
+      - "Cloud Computing"
+  languageName: "English"
+  weight: 1
+  menu:
+    main:
+      - name: "About"
+        url: /about      
+        weight: 1
+      - name: Contact
+        url: /contact
+        parent: "About"
+        weight: 1   
+      - name: Events
+        url: /events
+        parent: "About"
+        weight: 2  
+      - name: Now
+        url: /about/now
+        parent: "About"
+        weight: 2
+      - name: Twitter
+        url: /about/twitter
+        parent: "About"
+        weight: 2                                        
+      - name: Blog
+        url: /blog
+        weight: 2
+      - name: Resources
+        url: /resources
+        weight: 3
+      - name: Code
+        url: /code
+        parent: Resources   
+      - name: Presentations
+        url: /presentations
+        parent: Resources
+      - name: Projects
+        url: /projects
+        parent: Resources
+      - name: Publications
+        url: /publications
+        parent: Resources
+      - name: Sitemap
+        url: /sitemap
+        parent: Resources
+                  
+fr:
+  params:
+    description: Application autoscaling made simple
+    time_format_blog: "2006.01.02"
+    language_alternatives: "en"
+  languageName: "Français"
+  weight: 2
+  menu:
+    main:
+      - name: "À propos"
+        url: /about      
+        weight: 1
+      - name: Contact
+        url: /contact
+        parent: "À propos"
+        weight: 1   
+      - name: Events
+        url: /events
+        parent: "À propos"
+        weight: 2  
+      - name: Now
+        url: /about/now
+        parent: "À propos"
+        weight: 2
+      - name: Twitter
+        url: /about/twitter
+        parent: "À propos"
+        weight: 2                                        
+      - name: Blog
+        url: /blog
+        weight: 2
+      - name: Ressources
+        url: /ressources
+        weight: 3
+      - name: Code
+        url: /code
+        parent: Ressources   
+      - name: Présentations
+        url: /presentations
+        parent: Ressources
+      - name: Projets
+        url: /projets
+        parent: Ressources
+      - name: Publications
+        url: /publications
+        parent: Ressources
+      - name: Carte du site
+        url: /carte
+        parent: Ressources

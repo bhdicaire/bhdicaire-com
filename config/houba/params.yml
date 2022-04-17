@@ -1,0 +1,39 @@
+############################
+## Params
+############################
+#pygmentsUseClasses: true
+#pygmentsCodefences: true
+  
+
+locale: en_US
+title: Dicaire.com
+Author:
+  name: "Benoît H. Dicaire"
+  email: "info@BHDicaire.com"
+  url: "https://BHDicaire.com"
+font_awesome_version: 5.12.1
+published: “20160821”
+
+digest: “sha256”
+
+social:
+  twitterCardImage: img/project-illustration.png # Default Twitter card image if not set on page
+  twitter: bhdicaire
+announcement: false # display an announcement block on every page
+                    #  Refer to /i18n/ for message text and title
+
+
+
+    
+############################
+## Images 
+############################
+    
+
+logo:
+  navbar: "bhdicaire 150.png"
+  hero: "Monogram2D400.png"
+  footer: "Monogram2D.svg"   
+gravatar: true
+gravatarID: "bh@dicaire.com"
+                    

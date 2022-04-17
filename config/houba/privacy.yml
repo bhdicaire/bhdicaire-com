@@ -1,0 +1,9 @@
+############################
+## Privacy
+############################
+
+speakerdeck:
+  disable: false
+twitter:
+  disable: false  
+  enableDNT: true

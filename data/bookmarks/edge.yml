@@ -1,0 +1,2192 @@
+- group: Favorites Bar
+  icon: fas fa-tools
+  items:
+    - name: Pin (Pinboard))
+      url: "javascript:q=location.href;p=document.title;void(t=open('https://pinboard.in/add?later=yes&noui=yes&jump=close&url='+encodeURIComponent(q)+'&title='+encodeURIComponent(p),'Pinboard','toolbar=no,width=100,height=100'));t.blur();"
+    - name: SF Dashboard
+      url: https://forcepoint.my.salesforce.com/01Z1G000000bubF" ADD_DATE="1587147523" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABOElEQVQ4jaWTMUtCURiGn+94kzBriIpGvTREw136A9IkzTXWYCAN/gLHaI6gTcQfUJs4NzW0FA4tXaygIaQkLEw09HxNt0gruvpNZ3me97yc84mqCmOMGQcGcIKDFC4cnFkXrEtEfbov9wD05+PEm++65bV/EoiqihzVosRkDyEHxIAWUAJmENaAB6we0KbMVD9Kr9XR7GrvS1C6SaNUkD8rNUHPEJlD8VE91J2laiDYB/Ih69fBpILE55AwwCL0d40UrxNAbgQBwIrBOBtAYjTeXBlgcsT0R5CCQbUCvP4TaqBSBY6xrGsm6QevkEIlg6gHeANQHeih0kA0T3finMhT69s/AJATDG+3LtaWQZY/E2Ebay6x2tGsO3RTGVwmKd4tIDaNkRgqp0wna7qJ/a3TkCDsjL2NHyKFfdEY1UyUAAAAAElFTkSuQmCC
+    - name: Go4Labs Can
+      url: https://www.go4labs.net/docs/se_amer_p07"
+
+    - name: (1) General (Sales Engineering Information Repository)   Microsoft Teams
+      url: "https://teams.microsoft.com/_#/files/General?threadId=19:63c8befab71243da8224b0addb00563d@thread.tacv2&ctx=channel&context=2020%2520Weekly%2520Webinar%2520Series&rootfolder=%252Fsites%252FSalesEngineeringInformationRepository2%252FShared%2520Documents%252FGeneral%252FEnablement%2520and%2520Training%252F2020%2520Weekly%2520Webinar%2520Series"
+    - name: AWS Documentation
+      url: "https://docs.aws.amazon.com/"
+    - name: New item
+      url: "https://forcepointcml.sharepoint.com/sites/CSENorthAmerica/Lists/Engagement%20Form/Sharepoint_ALL.aspx"
+    - name: How to Tell Your Personal Brand Story  Professional Bio Examples, Tips   Templates
+      url: "https://spark.adobe.com/page/07ecATX0UQ5sP/?utm_source=hs_automation&utm_medium=email&utm_content=73180247"
+    - name: Whiteboard
+      url: "https://whiteboard.microsoft.com/me/whiteboards/"
+    - name: Forcepoint DAM
+      url: "https://dam.forcepoint.com/web/3d160d25efabed54/forcepoint-brand-collection/"
+    - name: Bienvenue dans Antidote Web
+      url: "https://beta.antidote.app/dictionnaires/"
+    - name: Sales Engineering Demo Resources - Competitive Demonstrations
+      url: "https://forcepointcml.sharepoint.com/sites/SEDemoResources/SitePages/Competitive%20Demonstrations.aspx"
+    - name: VDT 26.1 - Deploying Forcepoint APX suite at Microsoft Azure - Strategic Solutions Engineering - Confluence
+      url: "https://confluence.websense.com/pages/viewpage.action?spaceKey=SSE&title=VDT+26.1+-+Deploying+Forcepoint+APX+suite+at+Microsoft+Azure"
+    - name: Legal   Contracts Document Library
+      url: "http://intranet.forcepoint.cml/Divisions/Legal/Legal%20%20Contracts%20Document%20Libr/Pages/default.aspx?RootFolder=%2FDivisions%2FLegal%2FLegal%20%20Contracts%20Document%20Libr%2FContact%20%20Legal%2FWorldwide%20Letterheads&FolderCTID=0x01200046FC3DD2AB82C84BA972D1104215B7E6&View="
+    - name: (19) Mark&#39;s List   LinkedIn
+      url: "https://www.linkedin.com/pulse/marks-list-mark-simos/"
+    - name: Case  04363122 ~ Salesforce - Unlimited Edition
+      url: "https://forcepoint.my.salesforce.com/5001G00000g4A46"
+    - name: Wazuh · The Open Source Security Platform
+      url: "https://wazuh.com/"
+    - name: Sales Engineering Information Repository - Home
+      url: "https://forcepointcml.sharepoint.com/sites/SalesEngineeringInformationRepository2"
+    - name: Hemingway Editor
+      url: "http://www.hemingwayapp.com/"
+    - name: Profil   Mon Espace client   Hydro-Québec
+      url: "https://www.hydroquebec.com/portail/group/clientele/modifier-mon-profil?afficherOnglet=donneesBancaires"
+    - name: Language switcher template code - support - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/language-switcher-template-code/1288"
+    - name: Introduction - Front Documentation   Front - Responsive Website Template
+      url: "file:///Users/bhdicaire/Downloads/front-v2.5.0/documentation/index.html"
+    - name: Adèle
+      url: "https://www.adelehousecleaning.com/?utm_source=ActiveCampaign&utm_medium=email&utm_content=LAST%20CHANCE%20%20Until%20midnight%2C%20%2415%20OFF%20on%20your%20next%20house%20cleaning%20%E2%9C%A8&utm_campaign=20190331_dernierechance_15rabais_promoduvendredi_mtl_en_compte_non_menagepasse_non_menagefutur_non__creation1semaineavant"
+    - name: Nintendo
+      url: "https://www.nintendo.com/en_CA/games/game-guide?pv=true#filter/-|-|-|-|-|-|-|-|-|-|-|-|-|-|featured|des|-|-|-"
+    - name: Bootstrap 4 Cheat Sheet by Creative Tim and BootstrapBay
+      url: "https://www.creative-tim.com/bootstrap-cheat-sheet"
+    - name: Tetris® 99 for Nintendo Switch - Nintendo Game Details
+      url: "https://www.nintendo.com/en_CA/games/detail/tetris-99-switch"
+    - name: https //flightschool.plus/simulations/run/3WqedrYEO7lN05P9oddOoDAm2yjb4XGpvKLV
+      url: "https://flightschool.plus/simulations/run/3WqedrYEO7lN05P9oddOoDAm2yjb4XGpvKLV"
+    - name: Dig (DNS lookup)
+      url: "https://toolbox.googleapps.com/apps/dig/#MX/"
+    - name: Danielle Levasseur   LinkedIn
+      url: "https://www.linkedin.com/in/danielle-levasseur-8123382/"
+    - name: Doc
+      url: "https://getbootstrap.com/docs/4.1/getting-started/introduction/"
+    - name: Internet-Drafts submitted during the last 7 days
+      url: "https://datatracker.ietf.org/doc/recent"
+    - name: IVY EXEC
+      url: "https://www.ivyexec.com/"
+    - name: Select Shipping Options - Amazon.ca Checkout
+      url: "https://www.amazon.ca/gp/buy/shipoptionselect/handlers/display.html?hasWorkingJavascript=1"
+    - name: IETF Datatracker
+      url: "https://datatracker.ietf.org/"
+    - name: CodePen
+      url: "https://codepen.io/search/pens/?depth=everything&order=popularity&page=6&q=bootstrap+4&show_forks=false"
+    - name: Penetration Testing and PCI Specialists - Nettitude Inc
+      url: "https://www.nettitude.com/us/"
+    - name: Can I use... Support tables for HTML5, CSS3, etc
+      url: "https://caniuse.com/#feat=webauthn"
+    - name: Banque Alterna - Faire affaire avec nous
+      url: "https://www.alternabank.ca/lang/fr/Personal/EverydayBanking/Access/"
+    - name: Bootstrap 4 Snippets and Page Layout Examples Library
+      url: "https://bootstrapcreative.com/pattern/?utm_source=codepen&utm_campaign=bootstrap_patterns&utm_medium=footer"
+    - name: Managing Your Manager [Video]
+      url: "https://www.safaribooksonline.com/library/view/managing-your-manager/9781492031628/"
+    - name: dzharii/awesome-elasticsearch  A curated list of the most important and useful resources about elasticsearch  articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
+      url: "https://github.com/dzharii/awesome-elasticsearch"
+    - name: Cheatsheet   Font Awesome
+      url: "https://fontawesome.com/cheatsheet/pro"
+    - name: Dropbox
+      url: "https://www.dropbox.com/events"
+- group: Forcepoint
+  icon: fas fa-tools
+  items:
+    - name: Workday
+      url: "https://www.myworkday.com/wday/authgwy/forcepoint/login.htmld"
+    - name: FP UX Design Files - Home
+      url: "https://forcepointcml.sharepoint.com/sites/FPUXDesignFiles"
+    - name: Sales Engineering Information Repository - SE Guide To Finding Info
+      url: "https://forcepointcml.sharepoint.com/sites/SalesEngineeringInformationRepository2/SitePages/SE%20Guide%20To%20Finding%20Info.aspx?cid=c7435a54-2412-4ac2-b35b-d4309499a47a"
+    - name: UEBA Sales Engineering - Home
+      url: "https://forcepointcml.sharepoint.com/sites/UEBASalesEngineering"
+    - name: Global Marketing - zzArchive - All Documents
+      url: "https://forcepointcml.sharepoint.com/sites/GlobalMarketing/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2FGlobalMarketing%2FShared%20Documents%2FDigital%20Asset%20Management%20%28DAM%29%2FzzArchive&FolderCTID=0x012000F191CD56CEE091448FFC27DD51272F4D"
+    - name: Campaign Central - Brand - Human-Centric Security - All Documents
+      url: "https://forcepointcml.sharepoint.com/sites/GlobalFieldMarketingEnablement/GTM%20Plans/Forms/AllItems.aspx?RootFolder=%2Fsites%2FGlobalFieldMarketingEnablement%2FGTM%20Plans%2Fz2018%2F2018%20Campaign%20Assets%2FBrand%20%2D%20Human%2DCentric%20Security&FolderCTID=0x012000C4DE45693C405F4E8B6E322138EBF050"
+    - name: Global Marketing - Digital Asset Management (DAM) - All Documents
+      url: "https://forcepointcml.sharepoint.com/sites/GlobalMarketing/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000F191CD56CEE091448FFC27DD51272F4D&id=%2Fsites%2FGlobalMarketing%2FShared%20Documents%2FGeneral%2FGlobal%20Marketing%20Shared%20Files%20Backup%2FDigital%20Asset%20Management%20%28DAM%29"
+    - name: Salesforce
+      url: "https://forcepoint.my.salesforce.com/home/home.jsp"
+    - name: OneNote Community Notebook
+      url: "https://onedrive.live.com/redir?resid=BACAE6530619FB93%212057&authkey=%21AOdDrcSZSizJ17o&page=View&wd=target%28Frequent%20instructions.one%7C9a60bbc4-6ad2-4dc3-96f0-70f938877c72%2FCopy%20Local%20Link%20to%20Page%0BPress%20%5B%20Alt%20%2B%20Left%20%7Cf87fee44-f728-448e-aa0d-666e2b78d0d0%2F%29"
+    - name: Forcepoint Go
+      url: "https://advocate.socialchorus.com/Forcepoint/teamforcepoint/sc4#"
+    - name: Seismic
+      url: "https://fast.seismic.com/X5/doccenter.aspx#/doccenter/8ca7fab2-1c18-4ad4-86f8-e3810805c8ba/landing"
+    - name: TechValidate
+      url: "https://www.techvalidate.com/product-research/forcepoint"
+- group: Hugo
+  icon: fas fa-tools
+  items:
+    - name: Icons8
+      url: "https://icons8.com/"
+    - name: Hugo&#39;s Lookup Order   Hugo
+      url: "https://gohugo.io/templates/lookup-order/"
+    - name: Academic
+      url: "https://sourcethemes.com/academic/"
+- group: DevonThink
+  icon: fas fa-tools
+  items:
+    - name: Clip to DEVONthink
+      url: "javascript:window.location='x-devonthink://clip?title='+encodeURIComponent(document.title)+'&location='+encodeURIComponent(window.location)+'&referrer='+encodeURIComponent(document.referrer)+'&width='+window.innerWidth+'&source='+encodeURIComponent(document.documentElement.outerHTML)+'&text='+encodeURIComponent(getSelection());"
+    - name: Archive
+      url: "javascript:window.location='x-devonthink://createWebArchive?title='+encodeURIComponent(document.title)+'&location='+encodeURIComponent(window.location)+'&referrer='+encodeURIComponent(document.referrer);"
+    - name: Bookmark
+      url: "javascript:window.location='x-devonthink://createBookmark?title='+encodeURIComponent(document.title)+'&location='+encodeURIComponent(window.location);"
+    - name: HTML
+      url: "javascript:window.location='x-devonthink://createHTML?title='+encodeURIComponent(document.title)+'&location='+encodeURIComponent(window.location)+'&source='+encodeURIComponent(document.documentElement.outerHTML);"
+    - name: PDF
+      url: "javascript:window.location='x-devonthink://createPDF?title='+encodeURIComponent(document.title)+'&location='+encodeURIComponent(window.location)+'&referrer='+encodeURIComponent(document.referrer)+'&paginated=No&width='+window.innerWidth;"
+    - name: PDF (paginated)
+      url: "javascript:window.location='x-devonthink://createPDF?title='+encodeURIComponent(document.title)+'&location='+encodeURIComponent(window.location)+'&referrer='+encodeURIComponent(document.referrer)+'&paginated=Yes&width='+window.innerWidth;"
+    - name: Selection
+      url: "javascript:window.location='x-devonthink://createText?title='+encodeURIComponent(document.title)+'&location='+encodeURIComponent(window.location)+'&text='+encodeURIComponent(getSelection());"
+    - name: Text
+      url: "javascript:window.location='x-devonthink://createText?title='+encodeURIComponent(document.title)+'&location='+encodeURIComponent(window.location)+'&source='+encodeURIComponent(document.documentElement.outerHTML);"
+    - name: Benoît H. Dicaire   LinkedIn
+      url: "https://www.linkedin.com/in/bhdicaire/detail/recent-activity/"
+    - name: Presentation design blog — PowerPoint templates and presentation design services
+      url: "https://www.slidemagic.com/blog/"
+    - name: f
+      url: "https://forum.devontechnologies.com/"
+    - name: PLEX
+      url: "http://carbondesignsystem.com/style/typography/overview"
+    - name: G
+      url: "https://gdpr.report/"
+    - name: Articles   Trackbacks by Dan Mall
+      url: "http://danmall.me/articles/"
+    - name: --&gt; OmniFocus
+      url: "javascript:window.location='omnifocus:///add?note='+encodeURIComponent(window.location)+'&name='+encodeURIComponent(document.title)"
+- group: PIN
+  icon: fas fa-tools
+  items:
+    - name: Add item — read later
+      url: "javascript:q=location.href;p=document.title;void(t=open('https://pinboard.in/add?later=yes&noui=yes&jump=close&url='+encodeURIComponent(q)+'&title='+encodeURIComponent(p),'Pinboard','toolbar=no,width=100,height=100'));t.blur();"
+    - name: Add item — form
+      url: "javascript:q%3Dlocation.href%3Bif(document.getSelection)%7Bd%3Ddocument.getSelection()%3B%7Delse%7Bd%3D%27%27%3B%7D%3Bp%3Ddocument.title%3Bvoid(open(%27https://pinboard.in/add%3Furl%3D%27%2BencodeURIComponent(q)%2B%27%26description%3D%27%2BencodeURIComponent(d)%2B%27%26title%3D%27%2BencodeURIComponent(p),%27Pinboard%27,%27toolbar%3Dno,width%3D700,height%3D350%27))%3B"
+    - name: Add item — tag only
+      url: "javascript:q%3Dlocation.href%3Bif(document.getSelection)%7Bd%3Ddocument.getSelection()%3B%7Delse%7Bd%3D%27%27%3B%7D%3Bp%3Ddocument.title%3Bvoid(open(%27https://pinboard.in/add%3Fshowtags%3Dyes%26url%3D%27%2BencodeURIComponent(q)%2B%27%26description%3D%27%2BencodeURIComponent(d)%2B%27%26title%3D%27%2BencodeURIComponent(p),%27Pinboard%27,%27toolbar%3Dno,scrollbars%3Dyes,width%3D750,height%3D700%27))%3B"
+    - name: My Pinboard
+      url: "https://pinboard.in/u:bhdicaire"
+    - name: My Pinboard — tab sets
+      url: "https://pinboard.in/u:bhdicaire/tabs/"
+    - name: My Pinboard — oldest unread
+      url: "https://pinboard.in/oldest/"
+    - name: My Pinboard — random unread
+      url: "https://pinboard.in/random/?type=unread"
+    - name: Toby
+      url: "https://wantoo.io/toby/ideas/"
+- group: Read later - hugo
+  icon: fas fa-tools
+  items:
+    - name: Documentation of Blackfriday extensions - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/documentation-of-blackfriday-extensions/7691"
+    - name: How to target=&quot;_blank&quot; in .md? - support - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/how-to-target--blank-in-md/524"
+    - name: Generate pages from yml data files - support - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/generate-pages-from-yml-data-files/7709"
+    - name: Listing pages in single pages - support - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/listing-pages-in-single-pages/7708"
+    - name: Use YAML/JSON/etc. directly for front-matter-only pages - support - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/use-yaml-json-etc-directly-for-front-matter-only-pages/7700"
+    - name: Use Front Matter Variable in Page? - support - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/use-front-matter-variable-in-page/6347"
+    - name: How do you keep your content organized on your computer? - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/how-do-you-keep-your-content-organized-on-your-computer/7678"
+    - name: Don&#39;t put custom styling at top of markdown file - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/dont-put-custom-styling-at-top-of-markdown-file/7581"
+    - name: Keep images   content together - feature - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/keep-images-content-together/51"
+    - name: Undocumented front matter variables - support - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/undocumented-front-matter-variables/7666"
+    - name: Use environment variables in config.toml or config.yaml or config.json - support - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/use-environment-variables-in-config-toml-or-config-yaml-or-config-json/5743"
+    - name: Generating templated pages with sections - support - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/generating-templated-pages-with-sections/7089"
+    - name: Data folder best practices - support - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/data-folder-best-practices/4620"
+    - name: My custom shortcodes - tips   tricks - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/my-custom-shortcodes/7557"
+    - name: Adding forms to GoHugo - Cool article by Typeform - tips   tricks - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/adding-forms-to-gohugo-cool-article-by-typeform/7196"
+    - name: How are you implementing site search - support - Hugo Discussion
+      url: "https://discourse.gohugo.io/t/how-are-you-implementing-site-search/986"
+    - name: Proposal by egotype   GraphicRiver
+      url: "https://graphicriver.net/item/proposal/6119704"
+    - name: Facebook Open Compute Project  A history of the project that ate the hardware market - Business Insider
+      url: "http://www.businessinsider.com/facebook-open-compute-project-history-2015-6"
+    - name: Incident Response Consortium   The First   Only IR Community
+      url: "https://www.incidentresponse.com/"
+    - name: Encore + - YouTube - YouTube
+      url: "https://www.youtube.com/channel/UCH9jfFz0VzO-sqfh_TLVT7A"
+    - name: jeblister/kube  Kube is a professional and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog.
+      url: "https://github.com/jeblister/kube"
+    - name: GreenBook
+      url: "https://www.greenbook.org/"
+    - name: Taxonomy Definitions - Technology Foresight -
+      url: "http://foresight.ctbto.org/display/Platform1/Taxonomy+Definitions"
+    - name: Hudson Institute
+      url: "https://www.hudson.org/"
+    - name: services
+      url: "https://area17.com/about"
+    - name: Archive
+      url: "https://archive.area17.com/"
+    - name: Archiving every pixel
+      url: "https://opticalcortex.com/archiving-every-pixel-from-2003-2017/"
+    - name: Search for a Federal Corporation - Online Filing Centre - Corporations Canada - Corporations - Innovation, Science and Economic Development Canada
+      url: "https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html"
+    - name: Chapter 8. Methods and Frameworks (Chapter Menu) – The Foresight Guide
+      url: "http://www.foresightguide.com/methods-and-frameworks-table-of-contents"
+    - name: Apply for Membership - SINET
+      url: "https://www.security-innovation.org/membership/apply/"
+    - name: How to Manage Multistage Environments with Ansible   DigitalOcean
+      url: "https://www.digitalocean.com/community/tutorials/how-to-manage-multistage-environments-with-ansible"
+    - name: Apply for Membership - SINET
+      url: "https://www.security-innovation.org/membership/apply/"
+    - name: Bash-Snippets/README.md at master · alexanderepstein/Bash-Snippets · GitHub
+      url: "https://github.com/alexanderepstein/Bash-Snippets/blob/master/README.md"
+    - name: Letterboxd
+      url: "https://letterboxd.com/bhdicaire/"
+    - name: Process · Legal Concepts for Founders
+      url: "https://handbook.clerky.com/formation/process"
+- group: New folder
+  icon: fas fa-tools
+  items:
+    - name: Resources Archives   Roger Swannell
+      url: "https://rogerswannell.com/resources/"
+    - name: Roger Swannell&#39;s Blog
+      url: "https://rogerswannell.com/blog/"
+    - name: How to Create Belonging for Remote Workers
+      url: "https://sloanreview.mit.edu/article/how-to-create-belonging-for-remote-workers/"
+- group: Security
+  icon: fas fa-tools
+  items:
+    - name: Bonnie Butlin MA, F.ISRM   LinkedIn
+      url: "https://www.linkedin.com/in/bonnie-butlin-ma-f-isrm-560b2439/detail/treasury/position:1025189314/?entityUrn=urn%3Ali%3Afs_treasuryMedia%3A(ACoAAAgs1BgB0fEOydHQjRAcX1ycrZB3r9X27R8%2C1498434569866)&section=position%3A1025189314&treasuryCount=1"
+    - name: Cybersecurity  Managing Risk in the Information Age - Maral Taak   Accredible   Certificates, Badges and Blockchain.
+      url: "https://harvardx.credential.getsmarter.com/ca9oc4pd?key=260bed0ba368bd1305dee5fa0d626f535d0df7356f76bffa4e833308e7e8886c"
+    - name: World Economic Forum Expert Network (Cybersecurity) - Google Search
+      url: "https://www.google.com/search?q=World+Economic+Forum+Expert+Network+(Cybersecurity)&oq=World+Economic+Forum+Expert+Network+(Cybersecurity)&aqs=chrome..69i57.469j0j9&sourceid=chrome&ie=UTF-8"
+    - name: Expert Network   World Economic Forum
+      url: "https://www.weforum.org/communities/expert-network"
+    - name: Here&#39;s how we can tackle the growing cybersecurity skills gap   World Economic Forum
+      url: "https://www.weforum.org/agenda/2019/01/addressing-the-growing-cybersecurity-skills-gap/"
+    - name: High-Level Cybersecurity Meeting Warns of Dire Effects of Cyberattacks on Prosperity, Innovation and Global Collaboration &gt; Press releases   World Economic Forum
+      url: "https://www.weforum.org/press/2018/11/high-level-cybersecurity-meeting-warns-of-dire-effects-of-cyberattacks-on-prosperity-innovation-and-global-collaboration/"
+    - name: The Future of Cybersecurity   World Economic Forum
+      url: "https://www.weforum.org/communities/the-future-of-cybersecurity"
+    - name: Cybersecurity Experts  World Needs ‘Coalition of the Willing’ to Meet Cyberthreats &gt; Press releases   World Economic Forum
+      url: "https://www.weforum.org/press/2019/01/cybersecurity-experts-world-needs-coalition-of-the-willing-to-meet-cyberthreats/"
+    - name: Home &gt; Centre for Cybersecurity   World Economic Forum
+      url: "https://www.weforum.org/centre-for-cybersecurity"
+    - name: Fortinet Serves as a Founding Partner of World Economic Forum’s Centre for Cybersecurity  Nasdaq FTNT
+      url: "https://globenewswire.com/news-release/2019/01/02/1679592/0/en/Fortinet-Serves-as-a-Founding-Partner-of-World-Economic-Forum-s-Centre-for-Cybersecurity.html"
+    - name: ISRM strategic institute - Google Search
+      url: "https://www.google.com/search?ei=9XV0XOiXHcry5gLS6LzwCQ&q=ISRM+strategic+institute&oq=ISRM+strategic+institute&gs_l=psy-ab.3...30437.37381..37610...0.0..0.158.2387.14j10......0....1..gws-wiz.......0i71j35i39j0i67j0i131j0j0i20i263j0i22i30j0i22i10i30j0i13j0i13i30j0i13i5i30j33i160j33i21.8uO6eBXoY_4"
+    - name: Developing an Information Security and Risk Management Strategy
+      url: "https://www.isaca.org/Journal/archives/2010/Volume-2/Pages/Developing-an-Information-Security-and-Risk-Management-Strategy1.aspx"
+    - name: ISRM - Information Security Risk Management - TrustNet
+      url: "https://www.trustnet.co.il/solutions/isrm/"
+    - name: Institute of Strategic Relationship Management  who are we?
+      url: "http://relationshipmanagement.eu/en/institute-of-strategic-relationship-management/"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/feed/"
+    - name: Security Partners&#39; Forum
+      url: "https://www.securityinfowatch.com/home/company/12304660/security-partners-forum"
+    - name: Security Partner’s Forum – NAOC
+      url: "http://natoassociation.ca/tag/security-partners-forum/"
+    - name: Canadians recognized by IFSEC as security influencers   Canadian Security
+      url: "https://www.canadiansecuritymag.com/news/industry-news/canadians-recognized-by-ifsec-as-security-influencers"
+    - name: 4 questions that entrepreneurs must ask themselves
+      url: "https://www.fastcompany.com/90301849/4-questions-that-entrepreneurs-must-ask-themselves?partner=feedburner&utm_source=LinkedIn&utm_medium=social&utm_campaign=GuyKawasaki&utm_sq=fzw4lt2ppz&utm_content=GuysSocialMedia"
+    - name: Colloque TI 2019 – Mauricie – Shawinigan – Digihub – Colloque TI 2019 – Mauricie – Shawinigan – Digihub
+      url: "http://colloque.digihub.ca/"
+    - name: IT Security Specialist   OKIOK
+      url: "https://carrieres.okiok.com/index.php?m=portal&a=details&jobOrderID=11957407"
+    - name: Discord
+      url: "https://discordapp.com/invite/rrkJbBF"
+    - name: Yan-Benoit Déry   LinkedIn
+      url: "https://www.linkedin.com/in/yan-benoit-d%C3%A9ry-8587b7137/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACFmcwQBIOfRd_z5zyaW7fLrjBbz9YItQbU"
+    - name: Documentation   Forcepoint Support
+      url: "https://support.forcepoint.com/Documentation"
+- group: EDX Training
+  icon: fas fa-tools
+  items:
+    - name: Course Provider   Accredible   Certificates, Badges and Blockchain.
+      url: "https://harvardx.credential.getsmarter.com/issuer/10133"
+    - name: My edX Search   5 search results for &quot;cybersecurity risk information&quot;
+      url: "https://www.edx.org/course?search_query=cybersecurity+risk+information"
+    - name: Cybersecurity Risk Management   edX
+      url: "https://www.edx.org/course/cybersecurity-risk-management"
+    - name: Master’s Degree in Cybersecurity   edX
+      url: "https://www.edx.org/masters/online-master-science-cybersecurity-georgia-tech"
+    - name: Cybersecurity and Privacy in the IoT   edX
+      url: "https://www.edx.org/course/cybersecurity-privacy-iot-curtinx-iot5x"
+    - name: Microsoft Professional Program in Cybersecurity   edX
+      url: "https://www.edx.org/microsoft-professional-program-cybersecurity"
+    - name: Cyber Security Economics   edX
+      url: "https://www.edx.org/course/cyber-security-economics-delftx-secon101x-0"
+- group: AirPrint
+  icon: fas fa-tools
+  items:
+    - name: Guide  Make almost any printer AirPrint compatible with a Raspberry Pi in 20 minutes!   GEEK!
+      url: "https://www.geekonthepc.com/2016/07/10/guide-make-almost-any-printer-airprint-compatible-with-a-raspberry-pi-in-20-minutes/"
+    - name: OctoPrint - RepRap
+      url: "https://reprap.org/wiki/OctoPrint"
+    - name: Add AirPrint Support To Your Raspberry Pi Print Server
+      url: "https://www.makeuseof.com/tag/add-airprint-support-raspberry-pi-print-server/"
+    - name: How to turn the Raspberry Pi into a wireless printer server   TechRadar
+      url: "https://www.techradar.com/how-to/computing/how-to-turn-the-raspberry-pi-into-a-wireless-printer-server-1312717"
+    - name: Raspberry pi as airprint server (2018, iOS/11.2.2)  can&#39;t find airprint printer - Raspberry Pi Forums
+      url: "https://www.raspberrypi.org/forums/viewtopic.php?t=202658"
+    - name: How to set up a print server on a Raspberry Pi   Opensource.com
+      url: "https://opensource.com/article/18/3/print-server-raspberry-pi"
+    - name: Setting up a CUPS / AirPrint Server on Raspberry Pi   sebi.io
+      url: "http://sebi.io/jekyll/update/2017/12/18/setting-up-cups-server.html"
+    - name: Raspberry Pi Print Server  Setup a Network Printer - Pi My Life Up
+      url: "https://pimylifeup.com/raspberry-pi-print-server/"
+    - name: CUPS + AirPrint on Raspberry PI   LinuxWin
+      url: "http://linuxwin.com/cups-airprint-on-raspberry-pi/"
+- group: PolicyViz
+  icon: fas fa-tools
+  items:
+    - name: MAIN-POSTER-8.2_mockup_Transparent-Horizontal_24x36.png (1000×1000)
+      url: "https://policyviz.com/wp-content/uploads/2016/10/MAIN-POSTER-8.2_mockup_Transparent-Horizontal_24x36.png"
+    - name: Portfolio - Policy Viz
+      url: "https://policyviz.com/about/portfolio/#guest-blog-posts"
+    - name: Presentation Resources - Policy Viz
+      url: "https://policyviz.com/better-presentations/presentation-resources/"
+    - name: Better Presentations - Policy Viz
+      url: "https://policyviz.com/better-presentations/"
+    - name: Book Materials - Policy Viz
+      url: "https://policyviz.com/better-presentations/book-materials/#1473214412025-093b9e76-7cde"
+    - name: Design Resources - Policy Viz
+      url: "https://policyviz.com/better-presentations/design-resources/"
+- group: TeamViewer
+  icon: fas fa-tools
+  items:
+    - name: https //try.teamviewer.com/en/jan-19-gc-choose-vendor/
+      url: "https://try.teamviewer.com/en/jan-19-gc-choose-vendor/"
+    - name: Knowledge Base
+      url: "https://community.teamviewer.com/t5/Knowledge-Base/tkb-p/Knowledgebase?type=label&labels=Getting%20started#blocks"
+    - name: PCI Compliant? (Remote access granted to compromised personal com... - TeamViewer Community - 12216
+      url: "https://community.teamviewer.com/t5/TeamViewer-General/PCI-Compliant-Remote-access-granted-to-compromised-personal/td-p/12216"
+    - name: Get started - For Business usage
+      url: "https://community.teamviewer.com/t5/Knowledge-Base/Get-started-For-Business-usage/ta-p/33150"
+    - name: The different TeamViewer modules
+      url: "https://community.teamviewer.com/t5/Knowledge-Base/TeamViewer-modules/ta-p/30163#toc-hId-2109037861"
+    - name: All about the different TeamViewer passwords.
+      url: "https://community.teamviewer.com/t5/Knowledge-Base/All-about-passwords/ta-p/28442#toc-hId-585378451"
+    - name: What is a TeamViewer Account?
+      url: "https://community.teamviewer.com/t5/Knowledge-Base/What-is-a-TeamViewer-Account/ta-p/4442"
+    - name: How do I use TeamViewer after the purchase?
+      url: "https://community.teamviewer.com/t5/Knowledge-Base/How-do-I-use-TeamViewer-after-the-purchase/ta-p/4721"
+    - name: TeamViewer Mac Download for Remote Desktop access and collaboration
+      url: "https://www.teamviewer.com/en/download/mac-os/"
+- group: Design System
+  icon: fas fa-tools
+  items:
+    - name: Topic  design-system · GitHub
+      url: "https://github.com/topics/design-system"
+    - name: GitHub - gztchan/awesome-design  Creative Resources for Developer and Designer  )
+      url: "https://github.com/gztchan/awesome-design"
+    - name: Brand Style Guide Examples, Hand-picked by Saijo George
+      url: "https://saijogeorge.com/brand-style-guide-examples/"
+    - name: ProductDesign Designers
+      url: "https://productdesign.dnb.com/designers/#overview"
+    - name: Service Manual - GOV.UK
+      url: "https://www.gov.uk/service-manual"
+    - name: Technology - Service Manual - GOV.UK
+      url: "https://www.gov.uk/service-manual/technology"
+    - name: Base CSS   Pasteup   Guardian News   Media
+      url: "https://pasteup.guim.co.uk/fonts.html"
+    - name: Atlassian Design
+      url: "https://atlassian.design/"
+    - name: Color usage - Atlassian Design
+      url: "https://atlassian.design/guidelines/marketing/foundations/color-usage"
+    - name: Manual
+      url: "http://manualcreative.com/project/nike-pro-services/"
+    - name: Medium Brand Development on Behance
+      url: "https://www.behance.net/gallery/7226653/Medium-Brand-Development"
+    - name: Logo
+      url: "https://brand.linkedin.com/visual-identity/logo"
+- group: AWS
+  icon: fas fa-tools
+  items:
+    - name: (2) Practice Manager   Amazon Web Services (AWS)   LinkedIn
+      url: "https://www.linkedin.com/jobs/view/991139727/"
+    - name: AWS Careers
+      url: "https://aws.amazon.com/careers/?nc1=f_hi"
+    - name: Job search   Amazon.jobs
+      url: "https://www.amazon.jobs/en/search?offset=10&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=security&city=&country=&region=&county=&query_options=&"
+    - name: Practice Manager - Job ID  754472   Amazon.jobs
+      url: "https://www.amazon.jobs/en/jobs/754472/practice-manager"
+- group: New folder
+  icon: fas fa-tools
+  items:
+    - name: Configuring a Bucket for Website Hosting - Amazon Simple Storage Service
+      url: "https://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html"
+    - name: Making Amazon Route 53 the DNS Service for an Existing Domain - Amazon Route 53
+      url: "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/MigratingDNS.html"
+    - name: Making a basic URL shortener with Middleman · adamhollett.com
+      url: "https://adamhollett.com/posts/2016/07/middleman-url-shortener/"
+    - name: GitHub - thedevs-network/kutt  Free Modern URL Shortener.
+      url: "https://github.com/thedevs-network/kutt"
+    - name: GitHub - amitt001/pygmy  An open-source, feature rich   extensible url-shortener + analytics written in Python
+      url: "https://github.com/amitt001/pygmy"
+    - name: GitHub - urlhum/UrlHum  The modern, privacy-aware URL Shortener built in PHP.
+      url: "https://github.com/urlhum/UrlHum"
+    - name: GitHub - andyxning/shortme  Yet Another URL Shortening Service in Golang
+      url: "https://github.com/andyxning/shortme"
+    - name: FossURL 2.0 - Your Own URL Shortener
+      url: "https://fossurl.ml/"
+    - name: GitHub - bauripalash/fossurl  Your Own Url Shortner Without any fancy server side processing and support for custom url , which can even be hosted on GitHub Pages
+      url: "https://github.com/bauripalash/fossurl"
+    - name: GitHub - douglasmakey/ursho  URL Shortener Service in Go
+      url: "https://github.com/douglasmakey/ursho"
+    - name: GitHub - danielireson/serverless-url-shortener  URL shortener for AWS Lambda and S3
+      url: "https://github.com/danielireson/serverless-url-shortener"
+    - name: aws cli Website-Redirect-Location - Google Search
+      url: "https://www.google.com/search?q=aws+cli+Website-Redirect-Location&oq=aws+cli+Website-Redirect-Location&aqs=chrome..69i57.3048j0j1&sourceid=chrome&ie=UTF-8"
+    - name: (Optional) Configuring a Webpage Redirect - Amazon Simple Storage Service
+      url: "https://docs.aws.amazon.com/AmazonS3/latest/dev/how-to-page-redirect.html"
+    - name: Put Redirect 301 in S3 or CloudFront hosted website
+      url: "https://medium.com/cloud-io/put-redirect-301-in-s3-cloudfront-hosted-website-39bd9104ddbc"
+    - name: Create a redirection site using Amazon S3 — Mikael Lundin Weblog
+      url: "https://blog.mikaellundin.name/2016/01/24/create-a-redirection-site-using-amazon-s3.html"
+- group: New folder
+  icon: fas fa-tools
+  items:
+- group: URLs
+  icon: fas fa-tools
+  items:
+    - name: GitHub - thedevs-network/kutt  Free Modern URL Shortener.
+      url: "https://github.com/thedevs-network/kutt"
+    - name: GitHub - amitt001/pygmy  An open-source, feature rich   extensible url-shortener + analytics written in Python
+      url: "https://github.com/amitt001/pygmy"
+    - name: GitHub - urlhum/UrlHum  The modern, privacy-aware URL Shortener built in PHP.
+      url: "https://github.com/urlhum/UrlHum"
+    - name: GitHub - andyxning/shortme  Yet Another URL Shortening Service in Golang
+      url: "https://github.com/andyxning/shortme"
+    - name: GitHub - douglasmakey/ursho  URL Shortener Service in Go
+      url: "https://github.com/douglasmakey/ursho"
+    - name: GitHub - danielireson/serverless-url-shortener  URL shortener for AWS Lambda and S3
+      url: "https://github.com/danielireson/serverless-url-shortener"
+    - name: (Optional) Configuring a Webpage Redirect - Amazon Simple Storage Service
+      url: "https://docs.aws.amazon.com/AmazonS3/latest/dev/how-to-page-redirect.html"
+- group: Raspberry PI
+  icon: fas fa-tools
+  items:
+    - name: Configuration - Raspberry Pi Documentation
+      url: "https://www.raspberrypi.org/documentation/configuration/"
+    - name: Securing your Raspberry Pi - Raspberry Pi Documentation
+      url: "https://www.raspberrypi.org/documentation/configuration/security.md"
+    - name: RPi Easy SD Card Setup - eLinux.org
+      url: "https://elinux.org/RPi_Easy_SD_Card_Setup"
+    - name: Adding SSH and WiFi to a headless Raspberry Pi 3 (fresh install) without hooking up a…
+      url: "https://medium.com/a-path-to-pi/adding-ssh-and-wifi-to-a-headless-raspberry-pi-3-fresh-install-54be6634716e"
+    - name: Raspberry Pi - Gentoo Wiki
+      url: "https://wiki.gentoo.org/wiki/Raspberry_Pi"
+    - name: Raspberry Pi Downloads - Software for the Raspberry Pi
+      url: "https://www.raspberrypi.org/downloads/"
+    - name: ansible raspberry pi - Google Search
+      url: "https://www.google.com/search?q=ansible+raspberry+pi&ei=fFKBXO-NJ4K3jwTG4o6gCA&start=10&sa=N&ved=0ahUKEwjvu5nnxPDgAhWC24MKHUaxA4QQ8tMDCJoB&biw=1195&bih=733"
+    - name: IT automation with Ansible on a cluster of 6 Raspberry Pi computers   Opensource.com
+      url: "https://opensource.com/life/16/2/cluster-computing-with-ansible-and-raspberry-pi"
+    - name: GitHub - geerlingguy/ansible-role-raspberry-pi  Configures a Raspberry Pi (running Raspbian).
+      url: "https://github.com/geerlingguy/ansible-role-raspberry-pi"
+    - name: GitHub - motdotla/ansible-pi  Quickly setup your Raspberry Pi - particularly WIFI settings.
+      url: "https://github.com/motdotla/ansible-pi"
+    - name: ansible-raspi-playbooks/new-default.yml at master · garthvh/ansible-raspi-playbooks · GitHub
+      url: "https://github.com/garthvh/ansible-raspi-playbooks/blob/master/playbooks/new-default.yml"
+    - name: ansible-raspi-playbooks/pibakery_new.xml at master · garthvh/ansible-raspi-playbooks · GitHub
+      url: "https://github.com/garthvh/ansible-raspi-playbooks/blob/master/pibakery/pibakery_new.xml"
+    - name: How to Setup the Raspberry Pi 3 Using Ansible – Datahovel
+      url: "https://datahovel.com/2016/03/20/how-to-setup-the-raspberry-pi-using-ansible/"
+    - name: Ansible - Raspberry Pi Kubernetes Cluster - EverythingShouldBeVirtual
+      url: "https://everythingshouldbevirtual.com/automation/containers/ansible-raspberry-pi-kubernetes-cluster/"
+    - name: Automating Raspberry Pi setup with Ansible
+      url: "http://www.hietala.org/automating-raspberry-pi-setup-with-ansible.html"
+    - name: Ansible Galaxy
+      url: "https://galaxy.ansible.com/geerlingguy/raspberry-pi"
+    - name: Ansible 101 - on a Cluster of Raspberry Pi 2s   Jeff Geerling
+      url: "https://www.jeffgeerling.com/blog/ansible-101-cluster-raspberry-pi-2s"
+    - name: Provisioning a Raspberry Pi using ansible
+      url: "http://www.lpenz.org/articles/ansiblerpi/index.html"
+    - name: How can I install Ansible on Raspbian? - Stack Overflow
+      url: "https://stackoverflow.com/questions/47025913/how-can-i-install-ansible-on-raspbian"
+    - name: Headless Raspberry Pi Startup with Ansible ¦ Justin is a Maker
+      url: "https://justin.isamaker.com/ansible-pi/"
+    - name: Using Ansible to setup raspberry pi 3 – JJPP  JP in JP
+      url: "https://jpinjpblog.wordpress.com/2018/02/05/using-ansible-to-setup-raspberry-pi-3/"
+    - name: Test Ansible configuration   Raspberry Pi Dramble
+      url: "https://www.pidramble.com/wiki/setup/test-ansible"
+    - name: Provisioning a pi with ansible
+      url: "https://homelab.business/provisioning-a-pi-with-ansible/"
+    - name: Install Ansible
+      url: "https://raspi.farm/howtos/install-ansible/"
+    - name: Installing and Provisioning with ansible — WAeUP Identifier 1.0.dev0 documentation
+      url: "https://waeupidentifier.readthedocs.io/en/latest/ansible.html"
+    - name: raspberry pi delete and add user - Google Search
+      url: "https://www.google.com/search?q=raspberry+pi+delete+and+add+user&oq=raspberry+pi+delete+and+add+user&aqs=chrome..69i57.11272j0j4&sourceid=chrome&ie=UTF-8"
+    - name: How to create a new user on Raspberry Pi – RasPi.TV
+      url: "https://raspi.tv/2012/how-to-create-a-new-user-on-raspberry-pi"
+    - name: Linux usage - Raspberry Pi Documentation
+      url: "https://www.raspberrypi.org/documentation/linux/usage/"
+    - name: Raspberry Pi user management   How To Add, Delete, and Grant Sudo Privileges to Users on linux   Tec2Home
+      url: "https://www.tec2home.com/2017/12/raspberry-pi-user-management-how-to-add-delete-and-grant-sudo-privileges-to-users-on-linux"
+    - name: Headless Raspberry Pi Setup - learn.sparkfun.com
+      url: "https://learn.sparkfun.com/tutorials/headless-raspberry-pi-setup/ethernet-with-static-ip-address"
+    - name: wifi - Set a static IP address for wlan0 from /boot partition of Raspberry Pi on Raspbian Stretch Lite - Raspberry Pi Stack Exchange
+      url: "https://raspberrypi.stackexchange.com/questions/84935/set-a-static-ip-address-for-wlan0-from-boot-partition-of-raspberry-pi-on-raspbi"
+    - name: pi zero - Is it possible to set a static IP for the first boot of headless Pi ethernet gadget? - Raspberry Pi Stack Exchange
+      url: "https://raspberrypi.stackexchange.com/questions/82837/is-it-possible-to-set-a-static-ip-for-the-first-boot-of-headless-pi-ethernet-gad"
+    - name: raspbian - How do I set up networking/WiFi/static IP address? - Raspberry Pi Stack Exchange
+      url: "https://raspberrypi.stackexchange.com/questions/37920/how-do-i-set-up-networking-wifi-static-ip-address"
+    - name: How can I edit a Raspbian SD card image to use a static IP address within Windows? - Raspberry Pi Stack Exchange
+      url: "https://raspberrypi.stackexchange.com/questions/13464/how-can-i-edit-a-raspbian-sd-card-image-to-use-a-static-ip-address-within-window"
+- group: Brand Letterhead
+  icon: fas fa-tools
+  items:
+    - name: Correspondence   UCSF Brand Identity
+      url: "https://identity.ucsf.edu/templates-examples/correspondence"
+    - name: university word template - Google Search
+      url: "https://www.google.com/search?q=university+word+template&ei=YFiVXKqfMs7s5gLVwpGoBg&start=20&sa=N&ved=0ahUKEwiqz62e3ZbhAhVOtlkKHVVhBGU4ChDy0wMIdg&biw=964&bih=731&dpr=2"
+    - name: Letterhead template (Word) - Templates - Visual identity - Marketing - The University of Sheffield
+      url: "https://www.sheffield.ac.uk/marketing/visual-identity/templates/word-letterhead-template"
+    - name: University Of Guelph Brand Guide   Print   Digital Templates
+      url: "https://news.uoguelph.ca/guides/brand-guide/resources/print-digital-templates/"
+    - name: Print and Presentation Templates   UBC Brand
+      url: "https://brand.ubc.ca/guidelines/downloads/print-and-presentation-templates/"
+    - name: PowerPoint and Keynote Templates   Queen&#39;s University
+      url: "https://www.queensu.ca/identity/powerpoint-keynote-templates"
+    - name: Template Overview   University Communications and Marketing
+      url: "https://www.usf.edu/ucm/marketing/templates/"
+    - name: Templates and downloads
+      url: "https://brandhub.unimelb.edu.au/guidelines/templates-and-downloads"
+    - name: Print Templates   University Relations
+      url: "https://university-relations.umn.edu/resources/print-templates"
+    - name: Formatting
+      url: "http://www.sgs.utoronto.ca/currentstudents/Pages/Formatting.aspx"
+    - name: Curriculum Vitae - OCGS Template (MS Word Format)   Lakehead University
+      url: "https://www.lakeheadu.ca/faculty-and-staff/forms-db/graduate-office/node/10323"
+    - name: Guidelines-and-templates
+      url: "https://www.etsmtl.ca/en/Students/Guidelines-and-templates"
+- group: MTTR
+  icon: fas fa-tools
+  items:
+    - name: The Time Has Come For DRP Metrics - Disaster Recovery Journal
+      url: "https://www.drj.com/journal/winter-2005-volume-18-issue-1/the-time-has-come-for-drp-metrics.html"
+    - name: list of technology outages type - Google Search
+      url: "https://www.google.com/search?ei=mVm_XOO6KuOGggfL-KEQ&q=list+of+technology+outages+type&oq=list+of+technology+outages+type&gs_l=psy-ab.3..33i160.31484.32468..32641...0.0..0.149.565.1j4......0....1..gws-wiz.......0i71j33i22i29i30.pWPzFTdtBno"
+    - name: IT outages  The actual cost and how to prevent it becoming a reality
+      url: "https://www.information-age.com/prevent-outages-becoming-reality-123470751/"
+    - name: Deploying and Managing a Cloud Infrastructure  Real-World Skills for the ... - Abdul Salam, Zafar Gilani, Salman Ul Haq - Google Books
+      url: "https://books.google.ca/books?id=f_clBgAAQBAJ&pg=PA365&lpg=PA365&dq=drp+and+mttr&source=bl&ots=rorT6TR7FE&sig=ACfU3U1wNAhlBCed8g1DE1vS98tbj6U4aQ&hl=en&sa=X&ved=2ahUKEwiQ09Dv5-bhAhVldt8KHWk1AR04ChDoATACegQICBAB#v=onepage&q=drp%20and%20mttr&f=false"
+    - name: MTTR Formula   Mean Time To Repair Calculation   Fiix
+      url: "https://www.fiixsoftware.com/mean-time-to-repair-maintenance/"
+    - name: computer chain reliability formula ha - Google Search
+      url: "https://www.google.com/search?biw=1389&bih=766&ei=XVi_XJmzHoWO5wKesICICw&q=computer+chain+reliability+formula+ha&oq=computer+chain+reliability+formula+ha&gs_l=psy-ab.3...29866.30364..31071...0.0..0.127.355.0j3......0....1..gws-wiz.......0i71j33i160.05xsYlnJ7C8"
+    - name: System Reliability and Availability Calculation
+      url: "https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm"
+    - name: RBDs and Analytical System Reliability - ReliaWiki
+      url: "http://reliawiki.org/index.php/RBDs_and_Analytical_System_Reliability"
+    - name: Reliability Basics  Availability and the Different Ways to Calculate It
+      url: "https://www.weibull.com/hotwire/issue79/relbasics79.htm"
+    - name: Data Reliability Model - an overview   ScienceDirect Topics
+      url: "https://www.sciencedirect.com/topics/computer-science/data-reliability-model"
+    - name: system availability calculation in excel - Google Search
+      url: "https://www.google.com/search?q=system+availability+calculation+in+excel&sa=X&ved=2ahUKEwj4zpP86ubhAhUr1lkKHVE7Bn8Q1QIoAXoECAoQAg"
+    - name: Reliability, Availability, and Maintainability - SEBoK
+      url: "https://sebokwiki.org/wiki/Reliability,_Availability,_and_Maintainability"
+    - name: Availability, MTBF, MTTR and other bedtime tales - Managing Computers with Automation
+      url: "https://techthoughts.typepad.com/managing_computers/2007/11/availability-mt.html"
+    - name: Single point of failure - Wikipedia
+      url: "https://en.wikipedia.org/wiki/Single_point_of_failure"
+    - name: Reliability and high availability in cloud computing environments  a reference roadmap   SpringerLink
+      url: "https://link.springer.com/article/10.1186/s13673-018-0143-8"
+    - name: Total Productive Maintenance (TPM), OEE, MTBF, MTTR
+      url: "http://www.six-sigma-material.com/TPM.html"
+    - name: Differences Between Disaster Recovery and Business Continuity , Part 2   IT Management Reference Guide   InformIT
+      url: "http://www.informit.com/articles/article.aspx?p=175932&seqNum=129"
+    - name: Business continuity and disaster recovery
+      url: "https://www.slideshare.net/MuhammadAdeelJavaid1/business-continuity-and-disaster-recovery-24531073"
+    - name: Database Backup and Recovery Best Practices
+      url: "https://www.isaca.org/Journal/archives/2012/Volume-1/Pages/Database-Backup-and-Recovery-Best-Practices.aspx"
+    - name: SjaakLaan.com - IT Infrastructure Architecture Blog
+      url: "http://www.sjaaklaan.com/?e=106"
+    - name: Search Results   CSRC
+      url: "https://csrc.nist.gov/Search?keywords=mttr"
+    - name: NISTIR 8011 Vol. 3, Automation Support for Security Control Assessments  SWAM   CSRC
+      url: "https://csrc.nist.gov/publications/detail/nistir/8011/vol-3/final"
+    - name: Towards Actionable Mission Impact Assessment in the Context of Cloud Computing   CSRC
+      url: "https://csrc.nist.gov/publications/detail/conference-paper/2017/06/22/towards-actionable-mission-impact-assessment-in-context-of-cloud"
+    - name: Assessing Attack Impact on Business Processes by Interconnecting Attack Graphs and Entity Dependency Graphs   CSRC
+      url: "https://csrc.nist.gov/publications/detail/conference-paper/2018/07/10/assessing-attack-impact-on-business-processes"
+    - name: ws680.nist.gov
+      url: "http://ws680.nist.gov/publication/get_pdf.cfm?pub_id=918280"
+    - name: OSCAL
+      url: "https://pages.nist.gov/OSCAL/"
+    - name: GitHub - usnistgov/OSCAL  Open Security Controls Assessment Language (OSCAL)
+      url: "https://github.com/usnistgov/OSCAL"
+    - name: PDFs don&#39;t open automatically in Chrome - Google Chrome Help
+      url: "https://support.google.com/chrome/answer/6213030?hl=en"
+    - name: Extensions
+      url: "chrome://extensions/"
+    - name: Chrono Download Manager
+      url: "chrome-extension://mciiogijehkdemklbdcbfkefimifhecn/ui/index.htm"
+- group: DRP
+  icon: fas fa-tools
+  items:
+    - name: The Time Has Come For DRP Metrics - Disaster Recovery Journal
+      url: "https://www.drj.com/journal/winter-2005-volume-18-issue-1/the-time-has-come-for-drp-metrics.html"
+    - name: list of technology outages type - Google Search
+      url: "https://www.google.com/search?ei=mVm_XOO6KuOGggfL-KEQ&q=list+of+technology+outages+type&oq=list+of+technology+outages+type&gs_l=psy-ab.3..33i160.31484.32468..32641...0.0..0.149.565.1j4......0....1..gws-wiz.......0i71j33i22i29i30.pWPzFTdtBno"
+    - name: IT outages  The actual cost and how to prevent it becoming a reality
+      url: "https://www.information-age.com/prevent-outages-becoming-reality-123470751/"
+    - name: Deploying and Managing a Cloud Infrastructure  Real-World Skills for the ... - Abdul Salam, Zafar Gilani, Salman Ul Haq - Google Books
+      url: "https://books.google.ca/books?id=f_clBgAAQBAJ&pg=PA365&lpg=PA365&dq=drp+and+mttr&source=bl&ots=rorT6TR7FE&sig=ACfU3U1wNAhlBCed8g1DE1vS98tbj6U4aQ&hl=en&sa=X&ved=2ahUKEwiQ09Dv5-bhAhVldt8KHWk1AR04ChDoATACegQICBAB#v=onepage&q=drp%20and%20mttr&f=false"
+    - name: MTTR Formula   Mean Time To Repair Calculation   Fiix
+      url: "https://www.fiixsoftware.com/mean-time-to-repair-maintenance/"
+    - name: computer chain reliability formula ha - Google Search
+      url: "https://www.google.com/search?biw=1389&bih=766&ei=XVi_XJmzHoWO5wKesICICw&q=computer+chain+reliability+formula+ha&oq=computer+chain+reliability+formula+ha&gs_l=psy-ab.3...29866.30364..31071...0.0..0.127.355.0j3......0....1..gws-wiz.......0i71j33i160.05xsYlnJ7C8"
+    - name: System Reliability and Availability Calculation
+      url: "https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm"
+    - name: RBDs and Analytical System Reliability - ReliaWiki
+      url: "http://reliawiki.org/index.php/RBDs_and_Analytical_System_Reliability"
+    - name: Reliability Basics  Availability and the Different Ways to Calculate It
+      url: "https://www.weibull.com/hotwire/issue79/relbasics79.htm"
+    - name: Data Reliability Model - an overview   ScienceDirect Topics
+      url: "https://www.sciencedirect.com/topics/computer-science/data-reliability-model"
+    - name: system availability calculation in excel - Google Search
+      url: "https://www.google.com/search?q=system+availability+calculation+in+excel&sa=X&ved=2ahUKEwj4zpP86ubhAhUr1lkKHVE7Bn8Q1QIoAXoECAoQAg"
+    - name: Reliability, Availability, and Maintainability - SEBoK
+      url: "https://sebokwiki.org/wiki/Reliability,_Availability,_and_Maintainability"
+    - name: Availability, MTBF, MTTR and other bedtime tales - Managing Computers with Automation
+      url: "https://techthoughts.typepad.com/managing_computers/2007/11/availability-mt.html"
+    - name: Single point of failure - Wikipedia
+      url: "https://en.wikipedia.org/wiki/Single_point_of_failure"
+    - name: Reliability and high availability in cloud computing environments  a reference roadmap   SpringerLink
+      url: "https://link.springer.com/article/10.1186/s13673-018-0143-8"
+    - name: Total Productive Maintenance (TPM), OEE, MTBF, MTTR
+      url: "http://www.six-sigma-material.com/TPM.html"
+    - name: Differences Between Disaster Recovery and Business Continuity , Part 2   IT Management Reference Guide   InformIT
+      url: "http://www.informit.com/articles/article.aspx?p=175932&seqNum=129"
+    - name: PECB Webinar  Rethinking Business Continuity  Applying ISO 22301 to i…
+      url: "https://www.slideshare.net/PECBCERTIFICATION/pecb-webinar-rethinking-business-continuity-applying-iso-22301-to-improve-resiliency-manage-risk-and-drive-profitability-in-your-organization"
+    - name: Database Backup and Recovery Best Practices
+      url: "https://www.isaca.org/Journal/archives/2012/Volume-1/Pages/Database-Backup-and-Recovery-Best-Practices.aspx"
+    - name: SjaakLaan.com - IT Infrastructure Architecture Blog
+      url: "http://www.sjaaklaan.com/?e=106"
+    - name: NISTIR 8011 Vol. 3, Automation Support for Security Control Assessments  SWAM   CSRC
+      url: "https://csrc.nist.gov/publications/detail/nistir/8011/vol-3/final"
+    - name: Towards Actionable Mission Impact Assessment in the Context of Cloud Computing   CSRC
+      url: "https://csrc.nist.gov/publications/detail/conference-paper/2017/06/22/towards-actionable-mission-impact-assessment-in-context-of-cloud"
+    - name: Assessing Attack Impact on Business Processes by Interconnecting Attack Graphs and Entity Dependency Graphs   CSRC
+      url: "https://csrc.nist.gov/publications/detail/conference-paper/2018/07/10/assessing-attack-impact-on-business-processes"
+    - name: OSCAL
+      url: "https://pages.nist.gov/OSCAL/"
+    - name: GitHub - usnistgov/OSCAL  Open Security Controls Assessment Language (OSCAL)
+      url: "https://github.com/usnistgov/OSCAL"
+    - name: Chrono Download Manager
+      url: "chrome-extension://mciiogijehkdemklbdcbfkefimifhecn/ui/index.htm"
+- group: BCP #2
+  icon: fas fa-tools
+  items:
+    - name: business continuity exercise checklist - Google Search
+      url: "https://www.google.com/search?biw=1389&bih=766&q=business+continuity+exercise+checklist&sa=X&ved=2ahUKEwjYttr32ebhAhWJtlkKHWFPCegQ1QIoAnoECAoQAw"
+    - name: Business Continuity Checklist
+      url: "https://www.flintshire.gov.uk/en/PDFFiles/Emergency-Planning/Business-Continuity--Checklist.pdf"
+    - name: table top simulation questions checklist - Google Search
+      url: "https://www.google.com/search?q=table+top+simulation+questions+checklist&ei=a0i_XL-cNsjQsAX-vqHICg&start=10&sa=N&ved=0ahUKEwj__cD22-bhAhVIKKwKHX5fCKkQ8tMDCJIB&biw=1389&bih=766"
+    - name: Appendix K - Exercise Planning Checklist for Table Top (RNO)   Tabletop and Full-Scale Emergency Exercises for General Aviation, Non-Hub, and Small Hub Airports   The National Academies Press
+      url: "https://www.nap.edu/read/23584/chapter/21"
+    - name: CERT Tabletop Exercises (combined)
+      url: "https://www.fema.gov/media-library-data/20130726-1917-25045-7806/cert_tabletops_combined.pdf"
+    - name: Exercise   Emergency Management Ontario
+      url: "https://www.emergencymanagementontario.ca/english/emcommunity/program_resources/exercise/exercise_design_guidelines_template_package.html"
+    - name: EXERCISE DESIGN 101
+      url: "http://www.aema.alberta.ca/documents/exercisedesign100sel63227.pdf"
+    - name: Emergency Simulation Guideline 102108.pub
+      url: "https://www.workplacesafetynorth.ca/sites/default/files/pdfs/MR%20Emergency%20Simulation%20Guideline_0.pdf"
+    - name: Microsoft Word - CD-156.doc
+      url: "http://apps.searo.who.int/pds_docs/B0381.pdf"
+    - name: 7 Essential Crisis Simulation Tabletop Exercise Tips - PreparedEx
+      url: "https://www.preparedex.com/7-essential-crisis-simulation-tabletop-exercise-tips/"
+    - name: Microsoft Word - SAFECOM Tabletop Methodology - Final v5.doc
+      url: "https://www.dhs.gov/sites/default/files/publications/CommunicationsSpecificTabletopExerciseMethodology_0.pdf"
+    - name: WHO-WHE-CPI-2017.10-eng.pdf;jsessionid=21869A94CD21224C15A5EBEFBB622B20
+      url: "https://apps.who.int/iris/bitstream/handle/10665/254741/WHO-WHE-CPI-2017.10-eng.pdf;jsessionid=21869A94CD21224C15A5EBEFBB622B20?sequence=1"
+    - name: https //sp.eota.energy.gov/EM/TrainingProducts/files/GuideConductEmergencyResponseTabletopActivities.pdf
+      url: "https://sp.eota.energy.gov/EM/TrainingProducts/files/GuideConductEmergencyResponseTabletopActivities.pdf"
+    - name: Incident Response Drills and Tabletop Exercises
+      url: "https://www.emergency-response-planning.com/blog/bid/75396/Incident-Response-Drills-and-Tabletop-Exercises"
+    - name: Business Continuity Plan   Gallagher
+      url: "https://www.ajg.com/knowledge-center/articles/business-continuity-plan/"
+    - name: Tornado Preparation Checklist - Gallagher   Gallagher
+      url: "https://www.ajg.com/knowledge-center/articles/tornado-preparation-checklist/"
+    - name: emergency-resources-checklist-v2.pdf
+      url: "https://www.ajg.com/media/1380626/emergency-resources-checklist-v2.pdf"
+    - name: Business Continuity Plan   Gallagher
+      url: "https://www.ajg.com/knowledge-center/articles/business-continuity-plan/"
+    - name: 24848-Business Continuity_fillable.pdf
+      url: "https://www.ajg.com/media/1697598/business-continuity-overview.pdf"
+    - name: Workplace Disaster Supply Checklist - Gallagher   Gallagher
+      url: "https://www.ajg.com/knowledge-center/articles/workplace-disaster-supply-checklist/"
+- group: DRP #4
+  icon: fas fa-tools
+  items:
+    - name: The DR Tabletop Testing Simulator  what can it do for you?
+      url: "https://www.databarracks.com/blog/the-dr-tabletop-testing-simulator-what-can-it-do-for-you"
+    - name: Business Continuity Planning Tabletop Exercise White Paper   Winter 2000   Pre 2006
+      url: "https://www.drj.com/pre-2006/winter-2000/business-continuity-planning-tabletop-exercise-white-paper.html"
+    - name: How to run a tabletop DR test
+      url: "https://www.slideshare.net/Databarracks/how-to-run-a-tabletop-dr-test"
+    - name: Tabletop Continuity Exercises
+      url: "https://www.ohio.edu/riskandsafety/continuity/exercises.cfm"
+    - name: Exercise Workshop
+      url: "http://www.vanguardemergency.com/ExerciseWorkshop.html"
+    - name: Ten steps to a great business continuity exercise
+      url: "https://www.continuitycentral.com/feature1290.html"
+    - name: Summer99_A
+      url: "http://cbp.lsu.edu/wp-content/uploads/docs/209tabletop.pdf"
+    - name: Using a tabletop exercise for disaster recovery planning
+      url: "https://searchdisasterrecovery.techtarget.com/tip/Using-a-tabletop-exercise-for-disaster-recovery-planning"
+    - name: Disaster recovery and business continuity tabletop exercises
+      url: "https://searchsecurity.techtarget.com/answer/Disaster-recovery-and-business-continuity-tabletop-exercises"
+    - name: Disaster Exercises Designed to Improve Operational Resilience   Aureon
+      url: "https://www.aureon.com/services/consulting/service/risk/disaster-exercises-designed-to-improve-operational-resilience/"
+    - name: Top Tips for running a Business Continuity Exercise   BCI
+      url: "https://www.thebci.org/news/top-tips-for-running-a-business-continuity-exercise.html"
+    - name: Webinar - Developing impactful crisis simulation tabletop exercises   BCI
+      url: "https://www.thebci.org/news/webinar-developing-impactful-crisis-simulation-tabletop-exercises.html"
+    - name: Developing and Using Table-Top Simulations as a Teaching Tool
+      url: "https://www.joe.org/joe/2007august/tt4.php"
+    - name: Headline 1 AIG Futura 35pt
+      url: "https://www.aig.com/content/dam/aig/america-canada/us/documents/business/property/risk-engineering-solutions/response-insight-library/com-cg-10-0008-business-continuity-plan-testing-protocols-03-08-2016-final.pdf"
+    - name: Microsoft Word - Developing Business Continuity Program Simulations2
+      url: "http://mlchq.com/wp-content/uploads/2017/06/Developing_Business_Continuity_Program_Simulations.pdf"
+    - name: Microsoft PowerPoint - Presentation EPICC Tabletop February 08 2008.ppt [Compatibility Mode]
+      url: "http://www.epicc.org/uploadfiles/documents/Presentaiton/Pearce%20and%20Bindon%20Presentaiton.pdf"
+    - name: Exercises   Ready.gov
+      url: "https://www.ready.gov/business/testing/exercises"
+    - name: Business Continuity or Disaster Recovery Testing and Training Guidelines
+      url: "https://www.mha-it.com/2016/11/02/disaster-recovery-testing/"
+    - name: 5 Key Benefits from Conducting Tabletop Exercises - PreparedEx
+      url: "https://www.preparedex.com/5-benefits-conducting-tabletop-exercises/"
+    - name: Cybersecurity incident simulation exercises
+      url: "https://www.ey.com/Publication/vwLUAssets/EY_-_Cybersecurity_Incident_Simulation_Exercises/$File/EY-cybersecurity-incident-simulation-exercises-scored.pdf"
+    - name: Tabletop Breach Exercise
+      url: "https://rbadvisoryllc.com/Services/Business-Continuity-Plan/Tabletop-Breach-Exercise"
+    - name: What_is_a_tabletop_exercise.pdf
+      url: "https://uwpd.wisc.edu/content/uploads/2014/01/What_is_a_tabletop_exercise.pdf"
+    - name: 6 tips for effective security tabletop testing   CSO Online
+      url: "https://www.csoonline.com/article/2838365/planning-for-a-security-emergency-from-the-tabletop-down.html"
+    - name: Can we break it? 7 business continuity plan testing scenarios   Invenio IT
+      url: "http://invenioit.com/continuity/continuity-plan-testing-scenarios/"
+    - name: The page you are looking for cannot be found. - Province of British Columbia
+      url: "https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/policies-for-government/bc-employment-assistance-policy-procedure-manual/forms/pdfs/hr3257.pdf"
+    - name: How to create an effective business continuity plan   CIO
+      url: "https://www.cio.com/article/2381021/best-practices-how-to-create-an-effective-business-continuity-plan.html"
+- group: BCP 22301
+  icon: fas fa-tools
+  items:
+    - name: Eventerra – Event / Conference WordPress Theme
+      url: "http://localhost:1313/"
+    - name: 12 steps to aligning with ISO22301
+      url: "http://www.continuityinbusiness.com/2012/12-steps-to-aligning-with-iso22301/"
+    - name: Business Continuity Exercises - ready-to-use downloads
+      url: "http://www.continuityinbusiness.com/business-continuity-exercises/"
+    - name: Free 1-hour ISO22301 briefing webinar for business continuity planners
+      url: "http://www.continuityinbusiness.com/2012/iso22301-webinar/"
+- group: MindMap
+  icon: fas fa-tools
+  items:
+    - name: MindManager Shop
+      url: "https://store.mindjet.com/1494/purl-mm_ppc_mac?x-source=ppc-nb"
+    - name: Mind Map  The best apps for mind mapping — The Sweet Setup
+      url: "https://thesweetsetup.com/apps/best-mind-mapping-app/"
+    - name: Best mind map software of 2019   TechRadar
+      url: "https://www.techradar.com/news/best-mind-map-software"
+    - name: The Best Mind Mapping Software in 2019
+      url: "https://zapier.com/blog/best-mind-mapping-software/"
+    - name: 9 Best Mind Mapping Apps for Mac to Organize Ideas (2017)   Beebom
+      url: "https://beebom.com/best-mind-mapping-apps-mac/"
+    - name: 5 Best mind mapping tools for Mac as of 2019 - Slant
+      url: "https://www.slant.co/topics/10579/~mind-mapping-tools-for-mac"
+    - name: Best 20 Mind Mapping Software of 2019 - Financesonline.com
+      url: "https://financesonline.com/mind-mapping/"
+    - name: 10 Best Mind Mapping Software Tools for Better Brainstorming
+      url: "https://business.tutsplus.com/articles/best-mind-mapping-software-tools--cms-29581"
+    - name: 6 Best Mind Mapping Software For Mac OS
+      url: "https://blogs.systweak.com/6-best-mind-mapping-software-for-mac-os/"
+    - name: Mind Mapping Software Mac   MindView Mac
+      url: "https://www.matchware.com/mind-mapping-software-mac?keyword=%2Bmind%20%2Bmap%20%2Bmac&gclid=Cj0KCQjwoInnBRDDARIsANBVyATWSd4MBGbAMICN3kJ0sbq8RC5udf7pz_BK66aGeSsHuYIRKD2Hmr8aAlJfEALw_wcB"
+- group: NextCloud Dropbox SeaCloud
+  icon: fas fa-tools
+  items:
+    - name: Comparison – Nextcloud
+      url: "https://nextcloud.com/compare/"
+    - name: Google Drive vs Nextcloud vs Dropbox - Slant
+      url: "https://www.slant.co/topics/1008/versus/~google-drive_vs_nextcloud_vs_dropbox"
+    - name: Best Dropbox alternative  NextCloud, Seafile, or Syncthing?   Serverwise
+      url: "https://blog.ssdnodes.com/blog/nextcloud-vs-seafile-dropbox-alternative/"
+    - name: Self-Hosted Alternatives to Popular Services
+      url: "https://www.reddit.com/r/selfhosted/"
+    - name: Seafile
+      url: "https://www.reddit.com/r/seafile"
+    - name: Nextcloud
+      url: "https://www.reddit.com/r/NextCloud/"
+    - name: ExpanDrive says…
+      url: "https://www.expandrive.com/"
+    - name: haiwen · GitHub
+      url: "https://github.com/haiwen"
+    - name: Seafile - Open Source File Sync and Share Software
+      url: "https://www.seafile.com/en/home/"
+    - name: Cache, cache, cache...too much cache! - Seafile Client - Seafile Community Forum
+      url: "https://forum.seafile.com/t/cache-cache-cache-too-much-cache/8656"
+    - name: Review
+      url: "https://www.gartner.com/reviews/review/view/770556"
+    - name: aws workdioc review - Google Search
+      url: "https://www.google.com/search?q=aws+workdioc+review&oq=aws+workdioc+review&aqs=chrome..69i57j33.6551j0j1&sourceid=chrome&ie=UTF-8"
+    - name: Amazon WorkDocs Reviews 2019   G2
+      url: "https://www.g2.com/products/amazon-workdocs/reviews"
+    - name: Amazon WorkDocs  The Complete Review – Rediscover Productivity – Medium
+      url: "https://medium.com/rediscover-productivity/amazon-workdocs-the-complete-review-1296edb7d7fd"
+    - name: Automate static website deployment from Github to S3 using AWS CodePipeline - sithum devops
+      url: "https://medium.com/@sithum/automate-static-website-deployment-from-github-to-s3-using-aws-codepipeline-16acca25ebc1"
+    - name: Amazon Web Services (AWS) Content Collaboration Platforms Reviews
+      url: "https://www.gartner.com/reviews/market/efss-content-collaboration-platforms/vendor/amazon-web-services"
+    - name: A comparison between Microsoft OneDrive and Amazon WorkDocs — Bluestack Cloud
+      url: "https://www.bluestackcloud.com/insights/2018/7/3/a-comparison-between-microsoft-onedrive-and-amazon-workdocs"
+    - name: https //go.google-mkto.com/VFPS30b22M0C100TCJjBZA0
+      url: "https://go.google-mkto.com/VFPS30b22M0C100TCJjBZA0"
+- group: Hugo
+  icon: fas fa-tools
+  items:
+    - name: Adding external articles to a list page - Harry Cresswell · Product Design, User Experience Design, User Interface Design and Front-end Development
+      url: "https://harrycresswell.com/articles/hugo-external-articles/"
+    - name: Single Page Templates   Hugo
+      url: "https://gohugo.io/templates/single-page-templates/"
+    - name: Page content on your Hugo homepage - Harry Cresswell · Product Design, User Experience Design, User Interface Design and Front-end Development
+      url: "https://harrycresswell.com/articles/hugo-page-content-on-homepage/"
+    - name: Using Zapier to send form data - Harry Cresswell · Product Design, User Experience Design, User Interface Design and Front-end Development
+      url: "https://harrycresswell.com/articles/form-data-with-zapier/"
+    - name: Shortcodes   Hugo
+      url: "https://gohugo.io/content-management/shortcodes/"
+    - name: Directory Structure   Hugo
+      url: "https://gohugo.io/getting-started/directory-structure/"
+    - name: Use mermaid with code fences - tips   tricks - Hugo
+      url: "https://discourse.gohugo.io/t/use-mermaid-with-code-fences/17211"
+    - name: Links and Cross References   Hugo
+      url: "https://gohugo.io/content-management/cross-references/"
+    - name: Hugo as a documentation tool - feature - Hugo
+      url: "https://discourse.gohugo.io/t/hugo-as-a-documentation-tool/112/45"
+    - name: Pupil Docs - master
+      url: "https://docs.pupil-labs.com/#hololens-add-on"
+    - name: GitHub - pupil-labs/pupil-docs-website  static site generator for pupil docs
+      url: "https://github.com/pupil-labs/pupil-docs-website"
+    - name: Better understanding of Kind, Type, Layout, bundle - tips   tricks - Hugo
+      url: "https://discourse.gohugo.io/t/better-understanding-of-kind-type-layout-bundle/11122/2"
+    - name: Static site behind login? - tips   tricks - Hugo
+      url: "https://discourse.gohugo.io/t/static-site-behind-login/10100"
+    - name: Good SEO practice of netlify deployment url and custom domain - tips   tricks - Hugo
+      url: "https://discourse.gohugo.io/t/good-seo-practice-of-netlify-deployment-url-and-custom-domain/10317"
+    - name: Yoast SEO in Hugo - tips   tricks - Hugo
+      url: "https://discourse.gohugo.io/t/yoast-seo-in-hugo/9898"
+    - name: Hugo Codex websites - tips   tricks - Hugo
+      url: "https://discourse.gohugo.io/t/hugo-codex-websites/9565"
+    - name: readFile from resource - support - Hugo
+      url: "https://discourse.gohugo.io/t/readfile-from-resource/18800"
+    - name: Link Checker for Go/Hugo? - support - Hugo
+      url: "https://discourse.gohugo.io/t/link-checker-for-go-hugo/2202"
+    - name: How can i get page data from a Headless Bundle - support - Hugo
+      url: "https://discourse.gohugo.io/t/how-can-i-get-page-data-from-a-headless-bundle/18726"
+    - name: Hugo not responding to section templates or layout in front matter - support - Hugo
+      url: "https://discourse.gohugo.io/t/hugo-not-responding-to-section-templates-or-layout-in-front-matter/18724"
+    - name: Hugo pipes, postCSS   postcss-import - file system context, part 2 - support - Hugo
+      url: "https://discourse.gohugo.io/t/hugo-pipes-postcss-postcss-import-file-system-context-part-2/16366"
+    - name: Index.md vs _index.md - support - Hugo
+      url: "https://discourse.gohugo.io/t/index-md-vs-index-md/18710"
+    - name: Create a new page with custom layout - support - Hugo
+      url: "https://discourse.gohugo.io/t/create-a-new-page-with-custom-layout/18706"
+    - name: Hugo-academic theme thumbnail image resizing - support - Hugo
+      url: "https://discourse.gohugo.io/t/hugo-academic-theme-thumbnail-image-resizing/18698"
+    - name: Externalising front matter - support - Hugo
+      url: "https://discourse.gohugo.io/t/externalising-front-matter/18621"
+    - name: Context for dynamically created partial file names - support - Hugo
+      url: "https://discourse.gohugo.io/t/context-for-dynamically-created-partial-file-names/18617"
+    - name: Using range where with front-matter values - support - Hugo
+      url: "https://discourse.gohugo.io/t/using-range-where-with-front-matter-values/18575"
+    - name: Template Lookup and the difference between _index.md and index.md - support - Hugo
+      url: "https://discourse.gohugo.io/t/template-lookup-and-the-difference-between-index-md-and-index-md/17356"
+    - name: Custom Robots.txt and sitemap.xml Templates - tips   tricks - Hugo
+      url: "https://discourse.gohugo.io/t/custom-robots-txt-and-sitemap-xml-templates/11869"
+    - name: How to iterate over headless pages? - support - Hugo
+      url: "https://discourse.gohugo.io/t/how-to-iterate-over-headless-pages/12536"
+    - name: Remove links from sitemap.xml - support - Hugo
+      url: "https://discourse.gohugo.io/t/remove-links-from-sitemap-xml/18424"
+    - name: Single page documentation - support - Hugo
+      url: "https://discourse.gohugo.io/t/single-page-documentation/18395"
+    - name: Modern widgets - support - Hugo
+      url: "https://discourse.gohugo.io/t/modern-widgets/17791"
+    - name: Single page without content part - support - Hugo
+      url: "https://discourse.gohugo.io/t/single-page-without-content-part/18036"
+    - name: Build two sites from one source - support - Hugo
+      url: "https://discourse.gohugo.io/t/build-two-sites-from-one-source/17938"
+    - name: How to generate plain text files with different content for different environments - support - Hugo
+      url: "https://discourse.gohugo.io/t/how-to-generate-plain-text-files-with-different-content-for-different-environments/17904"
+    - name: Hugo  Leaf and Branch Bundles ❚ A Scripter&#39;s Notes
+      url: "https://scripter.co/hugo-leaf-and-branch-bundles/"
+- group: New folder
+  icon: fas fa-tools
+  items:
+    - name: GitHub - digitalcraftsman/hugo-material-docs  Port of Martin Donath&#39;s mkdocs-material theme to Hugo
+      url: "https://github.com/digitalcraftsman/hugo-material-docs"
+    - name: digitalcraftsman / Repositories · GitHub
+      url: "https://github.com/digitalcraftsman?tab=repositories"
+    - name: GitHub - digitalcraftsman/hugo-alabaster-theme  A documentation theme ported from Sphinx to Hugo
+      url: "https://github.com/digitalcraftsman/hugo-alabaster-theme"
+    - name: Using-barricade
+      url: "https://docs.barricade.io/using-barricade/"
+    - name: GitHub - barricadeio/docs  Barricade Docs
+      url: "https://github.com/barricadeio/docs"
+    - name: Hugo - Data Files
+      url: "https://bwaycer.github.io/hugo_tutorial.hugo/extras/datafiles/"
+    - name: How to use Data Files in Hugo  an example   Peter Y. Chuang - Novelist, Short Story Writer
+      url: "https://novelist.xyz/tech/hugo-data-files/"
+    - name: Data Templates   Hugo   Mike Dane
+      url: "https://www.mikedane.com/static-site-generators/hugo/data-templates/"
+    - name: Working with Data in Hugo - Harry Cresswell · Product Design, User Experience Design, User Interface Design and Front-end Development
+      url: "https://harrycresswell.com/articles/data-hugo/"
+    - name: How to use Data Files in Hugo  an example   Peter Y. Chuang - Novelist, Short Story Writer
+      url: "https://novelist.xyz/tech/hugo-data-files/"
+    - name: Hugo SEO – Unique, Accurate Page Titles - Harry Cresswell · Product Design, User Experience Design, User Interface Design and Front-end Development
+      url: "https://harrycresswell.com/articles/hugo-seo-accurate-page-titles/"
+    - name: Data Templates   Hugo
+      url: "https://gohugo.io/templates/data-templates/"
+    - name: Build pages from data source · Issue #5074 · gohugoio/hugo · GitHub
+      url: "https://github.com/gohugoio/hugo/issues/5074"
+    - name: Single Page Templates   Hugo
+      url: "https://gohugo.io/templates/single-page-templates/"
+    - name: Build pages from data source · Issue #5074 · gohugoio/hugo · GitHub
+      url: "https://github.com/gohugoio/hugo/issues/5074"
+    - name: Variables   Hugo   Mike Dane
+      url: "https://www.mikedane.com/static-site-generators/hugo/variables/"
+    - name: Keeping Content DRY  Data Relationships In Hugo   Forestry.io
+      url: "https://forestry.io/blog/data-relationships-in-hugo/"
+    - name: Data Templates   Hugo
+      url: "https://gohugo.io/templates/data-templates/"
+    - name: Build pages from data source · Issue #5074 · gohugoio/hugo · GitHub
+      url: "https://github.com/gohugoio/hugo/issues/5074"
+    - name: Single Page Templates   Hugo
+      url: "https://gohugo.io/templates/single-page-templates/"
+    - name: Variables   Hugo   Mike Dane
+      url: "https://www.mikedane.com/static-site-generators/hugo/variables/"
+    - name: Keeping Content DRY  Data Relationships In Hugo   Forestry.io
+      url: "https://forestry.io/blog/data-relationships-in-hugo/"
+- group: New folder
+  icon: fas fa-tools
+  items:
+    - name: Updating Cupper   Cupper
+      url: "https://thepaciellogroup.github.io/cupper/patterns/updating/"
+- group: New folder
+  icon: fas fa-tools
+  items:
+- group: New folder
+  icon: fas fa-tools
+  items:
+- group: New folder
+  icon: fas fa-tools
+  items:
+- group: hugo conferences
+  icon: fas fa-tools
+  items:
+    - name: GitHub - braziljs/conf-boilerplate  The easiest way to create websites for conference/events
+      url: "https://github.com/braziljs/conf-boilerplate/"
+    - name: GitHub - GDGToulouse/site-devfest-2019  DevfestToulouse Site for 2019
+      url: "https://github.com/GDGToulouse/site-devfest-2019"
+    - name: GitHub - GDGToulouse/devfest-theme-hugo  A theme for a conference website. Created for DevFest Toulouse 2019
+      url: "https://github.com/GDGToulouse/devfest-theme-hugo"
+    - name: Devfest Toulouse 2019   Home
+      url: "https://2019.devfesttoulouse.fr/"
+    - name: GitHub - GDGToulouse/site-devfest-toulouse-2018  Devfest 2018 Website fork from https //github.com/gdg-x/hoverboard
+      url: "https://github.com/GDGToulouse/site-devfest-toulouse-2018"
+    - name: Topic  conference · GitHub
+      url: "https://github.com/topics/conference"
+    - name: GitHub - pretalx/pretalx  Conference planning tool  CfP, scheduling, speaker management
+      url: "https://github.com/pretalx/pretalx"
+    - name: pretalx — CfP and scheduling for conferences
+      url: "https://pretalx.com/p/about/"
+    - name: GitHub - tightenco/symposium  Management of proposals, bios, photos, etc. for conference speakers.
+      url: "https://github.com/tightenco/symposium"
+    - name: Symposium for Speakers   Conferences
+      url: "https://symposiumapp.com/"
+    - name: GitHub - pythonindia/junction  Junction is a software to manage proposals, reviews, schedule, feedback during conference.
+      url: "https://github.com/pythonindia/junction"
+    - name: GitHub - tkrausjr/my-conference
+      url: "https://github.com/tkrausjr/my-conference"
+- group: Hugo S3 Automation
+  icon: fas fa-tools
+  items:
+    - name: Static Websites with S3 and Hugo, Part 1
+      url: "https://alimac.io/static-websites-with-s3-and-hugo-part-1/"
+    - name: Automating Deployment of your Hugo Site to S3 using AWS CodePipeline   aws
+      url: "https://www.reddit.com/r/aws/comments/7g5o3z/automating_deployment_of_your_hugo_site_to_s3/"
+    - name: Automating hugo deployment to S3   iamjonfry.com
+      url: "https://iamjonfry.com/automating-hugo-deployment-to-s3"
+    - name: Deploying Hugo on AWS with Gitlab CI - Draft Journal
+      url: "https://alm-research.com/blog/deploying-hugo-on-aws-with-gitlab-ci/"
+    - name: Hosting a Static Website with Hugo and AWS
+      url: "https://nickolaskraus.org/articles/hosting-a-website-with-hugo-and-aws/"
+    - name: Using Hugo and AWS to build a fast, static, easily managed and deployed website. - DEV Community 👩‍💻👨‍💻
+      url: "https://dev.to/tom_geraghty/using-hugo-and-aws-to-build-a-fast-static-easily-managed-and-deployed-website-2fme"
+    - name: Automating Deployment of your Hugo Site to S3 using AWS CodePipeline // Conor McLaughlin
+      url: "http://conormclaughlin.net/2017/11/automating-deployment-of-your-hugo-site-to-s3-using-aws-codepipeline/"
+    - name: Deploying a Hugo website to AWS in 6 steps (CDN+HTTPS)   Simple IT 🤘 Rocks
+      url: "https://simpleit.rocks/golang/hugo/deploying-a-hugo-website-to-aws-the-right-way/"
+    - name: hugo-deploy-aws-makefile/Makefile at master · marcanuy/hugo-deploy-aws-makefile
+      url: "https://github.com/marcanuy/hugo-deploy-aws-makefile/blob/master/Makefile"
+    - name: GitHub - MechanicalRock/hugo_automation  Hugo website hosting and build automation with AWS
+      url: "https://github.com/MechanicalRock/hugo_automation"
+    - name: hugo automate aws - Google Search
+      url: "https://www.google.com/search?q=hugo+automate+aws&oq=hugo+automate+aws&aqs=chrome..69i57.55775j0j1&sourceid=chrome&ie=UTF-8"
+    - name: Automating hugo deployment to S3   iamjonfry.com
+      url: "https://iamjonfry.com/automating-hugo-deployment-to-s3"
+    - name: Building and hosting a Hugo website on AWS - Shawn Medero
+      url: "https://shawn.medero.net/blog/2018/aws-hugo-website/"
+    - name: Moving a static website to AWS S3 + CloudFront with HTTPS
+      url: "https://medium.com/@willmorgan/moving-a-static-website-to-aws-s3-cloudfront-with-https-1fdd95563106"
+    - name: Bootcamps   AWS re Inforce
+      url: "https://reinforce.awsevents.com/learn/bootcamps/?trk=www.google.com"
+    - name: static website to AWS S3 + CloudFront with HTTPS - Google Search
+      url: "https://www.google.com/search?q=static+website+to+AWS+S3+%2B+CloudFront+with+HTTPS&oq=static+website+to+AWS+S3+%2B+CloudFront+with+HTTPS&aqs=chrome..69i57.776j0j1&sourceid=chrome&ie=UTF-8"
+    - name: Use CloudFront to serve HTTPS requests S3
+      url: "https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-https-requests-s3/"
+    - name: Use CloudFront to Serve a Static Website
+      url: "https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/"
+    - name: Serving a Static Site Over HTTPS Using S3, CloudFront, and GoDaddy
+      url: "https://medium.com/@brodartec/hosting-a-static-site-with-https-enabled-using-aws-s3-cloudfront-and-godaddy-826dae41fdc6"
+    - name: Host a Static Site on AWS, using S3 and CloudFront   David Baumgold
+      url: "https://www.davidbaumgold.com/tutorials/host-static-site-aws-s3-cloudfront/"
+    - name: Static website over https with S3, CloudFront, Gatsby — continuously delivered
+      url: "https://itnext.io/static-website-over-https-with-s3-cloudfront-gatsby-continuously-delivered-b2b33bb7fa29"
+    - name: How to Host a Static Website with S3, CloudFront and Route53   Codementor
+      url: "https://www.codementor.io/paulrberg/how-to-host-a-static-website-with-s3-cloudfront-and-route53-qnzw9ijpr"
+    - name: Simple site hosting with Amazon S3 and HTTPS – freeCodeCamp.org
+      url: "https://medium.freecodecamp.org/simple-site-hosting-with-amazon-s3-and-https-5e78017f482a"
+- group: AWS S3 CloudFormation
+  icon: fas fa-tools
+  items:
+    - name: cloudformation template create s3 bucket - Google Search
+      url: "https://www.google.com/search?q=cloudformation+template+create+s3+bucket&oq=cloudformation+template+create+&aqs=chrome.2.69i57j0l5.16582j0j4&sourceid=chrome&ie=UTF-8"
+    - name: How to incorporate S3, EC2, and IAM in a CloudFormation template
+      url: "https://www.thorntech.com/2018/07/s3-ec2-iam-cloudformation/"
+    - name: AWS CloudFormation Best Practices - AWS CloudFormation
+      url: "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/best-practices.html"
+    - name: aws-cf-templates/s3.yaml at master · widdix/aws-cf-templates · GitHub
+      url: "https://github.com/widdix/aws-cf-templates/blob/master/state/s3.yaml"
+    - name: Use AWS CloudFormation to Automate Static Site Deployment with S3   Okta Developer
+      url: "https://developer.okta.com/blog/2018/07/31/use-aws-cloudformation-to-automate-static-site-deployment-with-s3"
+    - name: Templates · The Serverless Way
+      url: "https://theserverlessway.com/aws/cloudformation/templates/"
+    - name: Your Infrastructure as Code 🌩 CloudFormation Vs Terraform?
+      url: "https://hackernoon.com/your-infrastructure-as-code-cloudformation-vs-terraform-34ec5fb5f044"
+    - name: Good comparison, though to be fair when comparing Terraform to something comparing it directly to…
+      url: "https://medium.com/@phobologic/good-comparison-though-to-be-fair-when-comparing-terraform-to-something-comparing-it-directly-to-da046326093e"
+    - name: An Update to Hybrid DNS for the Enterprise on AWS — Introducing Route 53 Resolver for Hybrid Cloud!
+      url: "https://medium.com/@mda590/an-update-to-hybrid-dns-for-the-enterprise-on-aws-introducing-route-53-resolver-for-hybrid-cloud-74e55d4e67a2"
+- group: hugo S3 Automate
+  icon: fas fa-tools
+  items:
+    - name: M.Dicai.re
+      url: "http://localhost:1313/"
+    - name: view-source localhost 1313
+      url: "view-source:http://localhost:1313/"
+    - name: Amazon Web Services Sign-In
+      url: "https://us-east-1.signin.aws.amazon.com/oauth?SignatureVersion=4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMOATPLHVSJ563XQ&X-Amz-Date=2019-05-24T15%3A19%3A49.338Z&X-Amz-Signature=3249d73fb0087fd7bb178df380bbd45e0c73e665524ff7ef4fe55986fcc88ef2&X-Amz-SignedHeaders=host&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fhomepage&redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fstate%3DhashArgs%2523%26isauthcode%3Dtrue&response_type=code&state=hashArgs%23"
+    - name: view-source localhost 1313
+      url: "view-source:http://localhost:1313/"
+    - name: https //cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css
+      url: "https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css"
+    - name: localhost 1313/css/academic.min.366bfc737a46c822efbde1ecf11d2efc.css
+      url: "http://localhost:1313/css/academic.min.366bfc737a46c822efbde1ecf11d2efc.css"
+    - name: Eventerra – Event / Conference WordPress Theme
+      url: "http://demo.olevmedia.net/eventerra/"
+    - name: BH Dicaire
+      url: "https://dicai.re/"
+    - name: view-source https //dicai.re
+      url: "view-source:https://dicai.re/"
+    - name: dicai.re.com
+      url: "https://dicai.re.com/"
+    - name: hugo deploy to aws - Google Search
+      url: "https://www.google.com/search?q=hugo+deploy+to+aws&oq=hugo+deploy+to+aws&aqs=chrome..69i57j0.7041j0j1&sourceid=chrome&ie=UTF-8"
+    - name: Host on AWS Amplify   Hugo
+      url: "https://gohugo.io/hosting-and-deployment/hosting-on-aws-amplify/"
+    - name: Hosting   Deployment   Hugo
+      url: "https://gohugo.io/hosting-and-deployment/"
+    - name: Using Hugo and AWS to build a fast, static, easily managed and deployed website. - DEV Community 👩‍💻👨‍💻
+      url: "https://dev.to/tom_geraghty/using-hugo-and-aws-to-build-a-fast-static-easily-managed-and-deployed-website-2fme"
+    - name: How to build a Hugo website in AWS Lambda and deploy it to S3    Ilya Bezdelev
+      url: "https://bezdelev.com/hacking/hugo-aws-lambda-static-website-amazon-s3/"
+    - name: Using Hugo with Amazon’s S3 to create a website in 4 steps
+      url: "https://medium.com/@danielgoliveira/using-hugo-with-amazons-s3-to-create-a-website-in-4-steps-c46772e63c85"
+    - name: Static Websites with S3 and Hugo, Part 2
+      url: "https://alimac.io/static-websites-with-s3-and-hugo-part-2/"
+    - name: Deploying a Hugo website to AWS in 6 steps (CDN+HTTPS)   Simple IT 🤘 Rocks
+      url: "https://simpleit.rocks/golang/hugo/deploying-a-hugo-website-to-aws-the-right-way/"
+    - name: Hosting a Static Website with Hugo and AWS
+      url: "https://nickolaskraus.org/articles/hosting-a-website-with-hugo-and-aws/"
+    - name: Building and hosting a Hugo website on AWS - Shawn Medero
+      url: "https://shawn.medero.net/blog/2018/aws-hugo-website/"
+    - name: GitHub - bep/s3deploy  A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &quot;Cache-Control&quot;)
+      url: "https://github.com/bep/s3deploy"
+    - name: Bootstrap · The most popular HTML, CSS, and JS library in the world.
+      url: "https://getbootstrap.com/"
+    - name: Gulp - Front Documentation   Front - Responsive Website Template
+      url: "file:///Users/bhdicaire/Downloads/front-v2.5.0/documentation/getting-started/gulp.html#installing-npm-modules"
+    - name: Straightforward Guide to Setting Up a Gulp Workflow – Tania Rascia
+      url: "https://www.taniarascia.com/getting-started-with-gulp/"
+    - name: Installing Gulp on macOS Mojave and macOS Sierra 10.12
+      url: "https://coolestguidesontheplanet.com/installing-gulp-on-macos/"
+    - name: How to Install gulp and bower globally on Mac OSX   peidongwang
+      url: "https://peidongwang.wordpress.com/2016/07/02/how-to-install-gulp-and-bower-globally-on-mac-osx/"
+    - name: secure file transfer system - Google Search
+      url: "https://www.google.com/search?q=secure+file+transfer+system&ei=Ps7dXOiCNYWsswX0moqoAQ&start=50&sa=N&ved=0ahUKEwjombvi96DiAhUF1qwKHXSNAhU4KBDy0wMI1QE&biw=1389&bih=766"
+    - name: IBM Secure File Transfer - Overview - United States
+      url: "https://www.ibm.com/us-en/marketplace/secure-file-transfer?cm_mmc=Search_Google-_-Watson+Customer+Engagement_Watson+Supply+Chain-_-WW_NA-_-%2Bfile%20%2Btransfer_b&cm_mmca1=000024DF&cm_mmca2=10010166&cm_mmca7=9061024&cm_mmca8=kwd-297902837495&cm_mmca9=_k_CjwKCAjwlPTmBRBoEiwAHqpvhczMn4iFXNX_aeoA3ZjNbelCIDte0z3KoFn204No8fa2p1S7fvKBSRoCirYQAvD_BwE_k_&cm_mmca10=347364349656&cm_mmca11=b&gclid=CjwKCAjwlPTmBRBoEiwAHqpvhczMn4iFXNX_aeoA3ZjNbelCIDte0z3KoFn204No8fa2p1S7fvKBSRoCirYQAvD_BwE"
+    - name: #1 File   Data Transfer Software   Secure MFT - RSSBus
+      url: "https://www.rssbus.com/mft/?gclid=CjwKCAjwlPTmBRBoEiwAHqpvhT1F1uA6Qbm7OVivdhKp1sgd8F0UlfPi5COig2S5G-Os6nW32UlERhoCUj0QAvD_BwE"
+    - name: Home Page - CBRE File Transfer Services
+      url: "https://cbftp.cbre.com/?AspxAutoDetectCookieSupport=1"
+    - name: How to upload files to the secure file transfer system   Canadian Transportation Agency
+      url: "https://www.otc-cta.gc.ca/eng/how-upload-files-secure-file-transfer-system"
+    - name: Enterprise File Sharing - Secure File Transfer   SolarWinds
+      url: "https://www.solarwinds.com/topics/enterprise-file-sharing"
+    - name: Secure File Transfer   Large File Transfer   Biscom
+      url: "https://www.biscom.com/secure-file-transfer/"
+    - name: File Transfer System  State of North Dakota
+      url: "https://apps.nd.gov/itd/filetransfer/login.htm"
+    - name: File Sharing   HMS IT
+      url: "https://it.hms.harvard.edu/our-services/communication-and-collaboration/file-sharing"
+    - name: HMS Secure File Transfer Server
+      url: "https://transfer.med.harvard.edu/courier/web/1000@/wmLogin.html?"
+    - name: AMS File Transfer - Secure   Intuitive - UK Cloud Hosting for GDPR
+      url: "https://ams-mft.com/"
+    - name: Yale   CAS-Central Authentication Service
+      url: "https://secure.its.yale.edu/cas/login?service=https%3A%2F%2Ffiles.yale.edu"
+    - name: Large File Transfer   Office of Information Technology
+      url: "https://oit.colorado.edu/services/file-transfer-storage-infrastructure/large-file-transfer"
+    - name: CU-Boulder Large File Transfer
+      url: "https://filetransfer.colorado.edu/courier/web/1000@/wmLogin.html?"
+    - name: Guidelines for Storing Documents in the Cloud   Office of Information Technology
+      url: "https://oit.colorado.edu/services/it-security/guidelines-storing-documents-cloud"
+    - name: Guidelines for Data File Transfers to and from Enterprise Systems   Information Technology - Northwestern University
+      url: "https://www.it.northwestern.edu/policies/data-file-transfer-guideline.html"
+    - name: Secure File Transfer at MIT   Information Systems   Technology
+      url: "https://ist.mit.edu/software/filetransfer"
+    - name: Secure File Transfer
+      url: "https://it.ouhsc.edu/services/SecureFileTransfer.asp"
+    - name: File Transfer   Information Technologies   Services
+      url: "https://its.weill.cornell.edu/services/online-collaboration/file-transfer"
+    - name: 10 Gigabit Multi-Gigabit Unmanaged Switches - GS110MX | Unmanaged Switches | Switches   Business   NETGEAR
+      url: "https://www.ca.netgear.com/business/products/switches/unmanaged/GS110MX.aspx#tab-support"
+    - name: GS110MX | Product   Support   NETGEAR
+      url: "https://www.netgear.com/support/product/GS110MX#GettingStarted_CommonTopics"
+    - name: Directives d’adressage   Postes Canada
+      url: "https://www.canadapost.ca/tools/pg/manual/PGaddress-f.asp?ecid=murl10006450"
+- group: 20190628
+  icon: fas fa-tools
+  items:
+    - name: Set up GitHub push with SSH keys
+      url: "https://gist.github.com/developius/c81f021eb5c5916013dc"
+- group: FP
+  icon: fas fa-tools
+  items:
+- group: New folder
+  icon: fas fa-tools
+  items:
+    - name: The Best OmniGraffle Stencils &amp; Templates (Free   Paid)
+      url: "https://machow2.com/omnigraffle-stencils-and-templates-galore/"
+    - name: Omnigraffle Stencils - UX/UI Land
+      url: "https://www.uxuiland.com/omnigraffle-resources/omnigraffle-stencils"
+    - name: Where can I get amazing, quality Omnigraffle stencils? - Quora
+      url: "https://www.quora.com/Where-can-I-get-amazing-quality-Omnigraffle-stencils"
+    - name: Online Diagram Software   Chart Solution
+      url: "https://online.visual-paradigm.com/"
+    - name: stencils.io
+      url: "https://web.archive.org/web/20180809201333/http://stencils.io/"
+    - name: GitHub - BohemianCoding/SketchAPI  Javascript API for working with Sketch
+      url: "https://github.com/BohemianCoding/SketchAPI"
+    - name: The Best Flowchart Software and Diagramming Tools for 2019
+      url: "https://zapier.com/blog/flowchart-diagramming-software/"
+    - name: ZURB - Super Awesome Wireframes with Shared Layers in OmniGraffle
+      url: "https://zurb.com/blog/super-awesome-wireframes-with-shared-laye"
+    - name: ArchiMate 3.0 OmniGraffle 6.6.1 Stencil set
+      url: "https://architecture-center.com/blog/88-archimate-3-0-omnigraffle-6-6-1-stencil-set.html"
+    - name: Creating Custom stencils for Omnigraffle ( the right way )   Grio Blog
+      url: "https://blog.grio.com/2012/12/creating-custom-stencils-for-omnigraffle-the-right-way.html"
+    - name: UX tools - Blog - Marie Kuter
+      url: "https://www.mariekuter.com/blog/ux-tools/page/3"
+    - name: Network Diagrams  OmniGraffle Tip - Merging Shapes - EtherealMind
+      url: "https://etherealmind.com/network-diagrams-omnigraffle-tip-merging-shapes-combining-objects-scaling/"
+    - name: Davin&#39;s blog – User experience, management, bullseye pistol, faith, and my family
+      url: "https://blog.davingranroth.com/"
+    - name: How to write scintillating technical blog posts - Luc Perkins - Medium
+      url: "https://medium.com/@lperkins/how-to-write-scintillating-technical-blog-posts-90f65dc5c089"
+    - name: mouse pointer svg - Google Search
+      url: "https://www.google.com/search?q=mouse+pointer+svg&tbm=isch&source=univ&sa=X&ved=2ahUKEwiUt9OMjpLkAhXrm-AKHUKFCGgQsAR6BAgHEAE&biw=1811&bih=1178#imgrc=8yDO6j5Cp5qlEM:"
+    - name: Cursor Vector SVG Icon (11) - SVG Repo Free SVG Icons
+      url: "https://www.svgrepo.com/svg/23357/cursor"
+    - name: Opportunity  Garda Cash Logistics (MAIN)/Renewal/0/0820 ~ Salesforce - Unlimited Edition
+      url: "https://forcepoint.my.salesforce.com/0063700000F0sdd"
+    - name: The Sûreté du Québec - Sûreté du Québec
+      url: "https://www.sq.gouv.qc.ca/en/the-surete-du-quebec/"
+    - name: Quote Lines  Q-322629 ~ Salesforce - Unlimited Edition
+      url: "https://forcepoint.my.salesforce.com/aCD?rlid=00N37000006xk0q&id=aCH1G000000gKoW"
+    - name: Risk-Based DLP Incident Ranking
+      url: "https://www.websense.com/content/support/library/data/v85/risk_analytics/risk-based_incident_ranking.pdf"
+- group: X-Ray
+  icon: fas fa-tools
+  items:
+- group: Product Review
+  icon: fas fa-tools
+  items:
+    - name: WireCutter
+      url: "http://thewirecutter.com/"
+    - name: Sweethome
+      url: "http://thesweethome.com/"
+- group: Templates
+  icon: fas fa-tools
+  items:
+- group: Github
+  icon: fas fa-tools
+  items:
+    - name: PSD Keys
+      url: "http://psdkeys.com/"
+    - name: Graffletopia
+      url: "https://www.graffletopia.com/"
+    - name: Stencils.io (OmniGraffle)
+      url: "http://stencils.io/"
+    - name: CrystalGraphics Slides
+      url: "http://www.crystalgraphics.com/presentations/diagrams.main.asp"
+    - name: Slideshop (PPT)
+      url: "https://slideshop.com/"
+    - name: Visio Guy
+      url: "http://www.visguy.com/"
+    - name: VisioCafé
+      url: "http://www.visiocafe.com/"
+    - name: Stencil Town (OmniGraffle)
+      url: "https://stenciltown.omnigroup.com/"
+    - name: DS Security
+      url: "https://6544e525-a-62cb3a1a-s-sites.googlegroups.com/site/purposefulclouds/downloads/DS-Security.pdf?attachauth=ANoY7cpbtO2RxswhTfWCqQVqwhJ5XosOyW9n_tZ1pNqgvgksUrLkR3YbbBB7ZPlSwDsqsqO3EHvRU-LOHp7D5OXrBphytZRz_cQdn8vtreJ9-JMfP_agMa_Yig4tsjCZpzGgA8MHOCQHIaLd0wrgRlx4Z21akcIOMVzc8oPxGOkCsZRLU64oBXHMtuRYgNPTsO0gaFiV3zJDxSA8PpBfPCgYNpE_t1I6fcC-_y5daoUNadh1L1KKAgY%3D&attredirects=0"
+    - name: Vertex42 Excel
+      url: "http://www.vertex42.com/ExcelTemplates/"
+    - name: Excel Templates.net
+      url: "http://exceltemplates.net/avery-templates/"
+    - name: Excel Template.net
+      url: "https://www.excel-template.net/"
+    - name: CXPartners - UX Resources (Omnigraffle)
+      url: "http://www.cxpartners.co.uk/ux-resources/"
+    - name: CTS UK (PPT)
+      url: "http://www.creativetemplatesolutions.com/"
+    - name: Design, Fonts   ebooks
+      url: "http://www.printroot.com/forum/forum.php#printing-resource-center"
+    - name: Share your work - Affinity   Forum
+      url: "https://affinity.serif.com/forum/index.php?/forum/10-share-your-work/"
+    - name: DeviantArt
+      url: "http://www.deviantart.com/"
+    - name: Unicode Lookup  convert special characters
+      url: "http://unicodelookup.com/"
+    - name: Aspect Ratio Calculator (ARC)
+      url: "http://andrew.hedges.name/experiments/aspect_ratio/"
+    - name: Diagram  Boxes and Arrows
+      url: "http://boxesandarrows.com/category/process-and-methods/"
+    - name: OmniGroup StencilTown
+      url: "https://stenciltown.omnigroup.com/stencils/uml-21-collection/"
+    - name: Slides
+      url: "http://www.slidesearchengine.com/"
+- group: Job Boards
+  icon: fas fa-tools
+  items:
+    - name: Procom
+      url: "http://www.procom.ca/"
+    - name: Home - TES - The Employment Solution
+      url: "http://tes.net/"
+    - name: Eagle Job Board   Canada&#39;s Leading IT, Finance &amp; Accounting and Executive   Management Consulting Staffing Agency
+      url: "https://jobs.eagleonline.com/"
+    - name: Find Jobs. Build a Better Career. Find Your Calling.   Monster.ca   Monster.ca
+      url: "http://www.monster.ca/"
+    - name: Careers (Montreal)
+      url: "http://www.systematix.com/en/montreal/careers/"
+- group: VoIP
+  icon: fas fa-tools
+  items:
+    - name: Lookup by NPA NXX
+      url: "http://www.npanxxsource.com/nalennd.php"
+    - name: CNAC Canadian NPA Lookup
+      url: "http://www.cnac.ca/data/COCodeStatus_NPA514.htm"
+    - name: US NPA Lookup
+      url: "http://www.ccmi.com/npa-nxx-rate-center-lookup"
+    - name: Phone Number Guy
+      url: "https://store.phonenumberguy.com/"
+    - name: TollFreeNumbers.com
+      url: "http://search.tollfreenumbers.com/Lookups.asp?acode=8**&pnumber="
+    - name: DIDs Carrier Information
+      url: "http://freecarrierlookup.com/"
+    - name: DIDs Port Eligibility And Reference Services
+      url: "https://mycsp.cingular.com/PEARS/"
+    - name: AnyWho — Phone
+      url: "http://www.anywho.com/reverse-lookup"
+    - name: Callcentric
+      url: "http://www.callcentric.com/"
+- group: eBooks
+  icon: fas fa-tools
+  items:
+    - name: Ebooks Gratuits - Télécharger EPUB Libre Partage, Zone Téléchargement
+      url: "https://www.ebook-gratuit.co/"
+    - name: Des livres pour tous les lecteurs
+      url: "http://deslivrespourtousleslecteurs.over-blog.com/search"
+    - name: Livres PDF à télécharger gratuitement - Ebooks
+      url: "https://livreslib.com/"
+    - name: Telecharger Magazines Journaux Livres Gratuitement
+      url: "http://www.vosbooks.tv/"
+    - name: Biblio France
+      url: "http://bibliofrance.org/index.php/component/search/"
+    - name: Gallica
+      url: "http://gallica.bnf.fr/services/engine/search/sru?version=1.2&operation=searchRetrieve&query=dc.format%20adj%20%22epub%22%20and%20provenance%20adj%20%22bnf.fr%22%20sortby%20indexationdate/sort.descending"
+    - name: Four tout ici
+      url: "http://www.fourtoutici.top/"
+    - name: Library Genesis
+      url: "http://gen.lib.rus.ec/search.php"
+    - name: KapiBook
+      url: "http://kapibook.com/"
+    - name: Ebook à prix libre
+      url: "http://ebook-prix-libre.fr/"
+    - name: ebook planete
+      url: "http://ebook-planete.org/"
+    - name: GiGa.gg
+      url: "https://giga.gg/fr/"
+    - name: Minhateca
+      url: "http://minhateca.com.br/action/Login?return=%252faction%252fSearchFiles"
+    - name: Book DDL.com
+      url: "http://bookddl.com/bd-comics-mangas"
+    - name: Pearltrees
+      url: "https://www.pearltrees.com/"
+    - name: KumpulBagi
+      url: "http://kbagi.com/"
+    - name: Large online library of e-Reading
+      url: "http://www.e-reading.club/"
+    - name: CD 017 - Chamber Music for Flute I - Beethoven 100 CDs - Didier - toutbox.fr
+      url: "http://toutbox.fr/Didier/Dossiers/Musique/Musique+Classique/Compositeurs/Beethoven/Beethoven+100+CDs/CD+017+-+Chamber+Music+for+Flute+I"
+    - name: Mobilism (ePub)
+      url: "http://forum.mobilism.org/viewforum.php?f=19"
+    - name: All IT eBooks
+      url: "http://www.allitebooks.com/"
+    - name: IT eBooks
+      url: "http://www.it-ebooks.org/"
+    - name: Roman-Gratuit.com
+      url: "http://roman-gratuit.com/category/policier/page/2/"
+    - name: Atramenta
+      url: "http://www.atramenta.net/"
+    - name: Nos livres
+      url: "http://www.noslivres.net/"
+    - name: Internet Archive  Digital Library of Free Books, Movies, Music
+      url: "https://archive.org/"
+    - name: Wawa-Land.com
+      url: "http://wawa-land.com/category/ebooks/"
+    - name: Marvel Comics - Comics by comiXology
+      url: "https://www.comixology.com/Marvel_Comics"
+    - name: Partagora.com
+      url: "http://partagora.com/"
+    - name: CiteSeer - IT Scholar
+      url: "http://citeseerx.ist.psu.edu/"
+    - name: eBook Converter – Convert PDF and Other Formats to eBooks
+      url: "http://toepub.com/"
+    - name: Academia.edu
+      url: "https://www.academia.edu/people/search?utf8=%E2%9C%93&q=dmbok"
+    - name: Cask
+      url: "https://caskroom.github.io/search"
+    - name: Homebrew
+      url: "http://formulae.brew.sh/"
+    - name: Chrome Cache
+      url: "chrome://cache/"
+    - name: Search
+      url: "https://www.google.ca/advanced_search"
+- group: DMCA
+  icon: fas fa-tools
+  items:
+    - name: github dmca
+      url: "https://github.com/github/dmca"
+    - name: GitHub Advanced Search
+      url: "https://github.com/search/advanced?"
+- group: FingerPrinting
+  icon: fas fa-tools
+  items:
+    - name: Wappalyzer - Identify technologies on websites
+      url: "https://www.wappalyzer.com/"
+    - name: BuiltWith Technology Lookup
+      url: "https://builtwith.com/"
+    - name: Whois Lookup, Domain Availability   IP Search - DomainTools
+      url: "http://whois.domaintools.com/"
+    - name: RIPE Network Coordination Centre
+      url: "https://www.ripe.net/"
+- group: Corporation
+  icon: fas fa-tools
+  items:
+- group: ID, Name &amp; TM
+  icon: fas fa-tools
+  items:
+    - name: Doman Names
+      url: "http://doman%20names/"
+    - name: easyWhois  Lookup Domain Whois Records and Research DNS Information
+      url: "https://www.easywhois.com/"
+    - name: Check Usernames
+      url: "http://checkusernames.com/"
+    - name: Domain Name Search
+      url: "https://instantdomainsearch.com/"
+    - name: Namechk
+      url: "https://namechk.com/"
+    - name: US Trademark
+      url: "http://www.uspto.gov/trademark"
+    - name: Canadian TM
+      url: "http://www.ic.gc.ca/app/opic-cipo/trdmrks/srch/tmSrch.do?lang=eng"
+    - name: OpenCorporates    The Open Database Of The Corporate World
+      url: "https://opencorporates.com/"
+    - name: Marcaria Domain Names
+      url: "https://www.marcaria.com/ws/en/home"
+    - name: NameCheap
+      url: "https://www.namecheap.com/"
+    - name: AngelList
+      url: "https://angel.co/"
+    - name: jobs   Hacker News
+      url: "https://news.ycombinator.com/jobs"
+    - name: Glassdoor Job Search   Find the job that fits your life
+      url: "https://www.glassdoor.ca/index.htm"
+    - name: Clerky   The easiest way for startups to get legal paperwork done safely.
+      url: "https://www.clerky.com/"
+    - name: Propel(x)
+      url: "https://www.propelx.com/share_expertise"
+    - name: FundersClub   FundersClub
+      url: "https://fundersclub.com/"
+    - name: Glassdoor Job Search   Find the job that fits your life
+      url: "https://www.glassdoor.ca/index.htm"
+- group: NZB Search Engines
+  icon: fas fa-tools
+  items:
+    - name: Binsearch -- Usenet search engine
+      url: "http://www.binsearch.info/"
+- group: Code
+  icon: fas fa-tools
+  items:
+    - name: StackExchange Automator
+      url: "https://apple.stackexchange.com/questions/tagged/automator"
+    - name: Wayback Machine
+      url: "http://web.archive.org/"
+    - name: Archive.IS
+      url: "https://archive.is/"
+    - name: FullSurge
+      url: "https://www.fullsurge.com/"
+    - name: IoT Analytics - Market insights for the Internet of Things
+      url: "https://iot-analytics.com/"
+    - name: FA
+      url: "https://github.com/FortAwesome/Font-Awesome-Pro"
+    - name: IOT Arch
+      url: "https://wiprodigital.com/2017/11/21/enterprise-reference-architecture-a-primer-on-iot-based-systems/"
+    - name: Black Monk Forest Burn Stock Photo 123578392 - Shutterstock
+      url: "https://www.shutterstock.com/image-photo/black-monk-forest-burn-123578392?src=library"
+    - name: IOT + Table Format
+      url: "https://www.linkedin.com/pulse/5-things-know-iot-security-p%C3%A1draig-scully/"
+    - name: VoIP
+      url: "http://207.253.7.227/voip/index2.php"
+    - name: LMS
+      url: "https://secure.terranovasite.com/LMS/login/lmslogin.aspx?lang=fr&c=1"
+    - name: i
+      url: "https://download-issuu.com/"
+    - name: Fetch —
+      url: "http://fetch.scritch.org/%2Bfetch/?url=https%3A%2F%2Fwww.hudson.org&useragent=Fetch+useragent&accept_encoding="
+    - name: Lists
+      url: "https://twitter.com/BHDicaire/lists"
+    - name: Comix IO
+      url: "https://github.com/darwin/cmx.js"
+    - name: Comix I/O
+      url: "http://cmx.io/"
+    - name: LMS
+      url: "https://secure.terranovasite.com/LMS/login/lmslogin.aspx?lang=en&c=1"
+- group: Fav
+  icon: fas fa-tools
+  items:
+- group: SAAS &amp; Software
+  icon: fas fa-tools
+  items:
+    - name: 1Password
+      url: "https://1password.com/"
+    - name: Add to Buffer
+      url: "https://bufferapp.com/guides/ios/install"
+    - name: Заказы   Бесплатные шрифты   VK
+      url: "https://vk.com/topic-50911295_28400527?post=37286"
+    - name: AWS Certification Guide
+      url: "https://aws.amazon.com/certification/certification-prep/"
+- group: Style
+  icon: fas fa-tools
+  items:
+    - name: Ulysses Style Exchange
+      url: "https://styles.ulyssesapp.com/"
+    - name: Styles in Ulysses
+      url: "https://ulyssesapp.com/styles/"
+- group: Diagram
+  icon: fas fa-tools
+  items:
+    - name: TimeViz Browser
+      url: "https://vcg.informatik.uni-rostock.de/~ct/timeviz/timeviz.html"
+    - name: The Data Visualisation Catalogue
+      url: "https://datavizcatalogue.com/index.html"
+- group: Slides
+  icon: fas fa-tools
+  items:
+    - name: Create effective business PowerPoint presentations; Dave Paradi
+      url: "http://www.thinkoutsidetheslide.com/"
+    - name: Presentations by Mike Taylor   ZEEF
+      url: "https://presentations.zeef.com/tmiket"
+    - name: Resources  InfoVis  UBC CS
+      url: "http://www.cs.ubc.ca/group/infovis/resources.shtml"
+    - name: Nuts &amp; Bolts Speed Training   PowerPoint Tips   Tricks Training
+      url: "https://nutsandboltsspeedtraining.com/"
+    - name: PowerPoint Templates, Graphics and Themes   SketchBubble
+      url: "https://www.sketchbubble.com/"
+    - name: PowerPoint Graphics   Get My Graphics
+      url: "http://getmygraphics.com/powerpoint-graphics/"
+- group: Colors
+  icon: fas fa-tools
+  items:
+    - name: Design Color Tools - Policy Viz
+      url: "https://policyviz.com/better-presentations/design-resources/design-color-tools/"
+    - name: Color Hunt - Beautiful Color Palettes
+      url: "http://colorhunt.co/"
+    - name: The Color Palettes Of The ‘Most Beautiful’ Websites On The Internet - DesignTAXI.com
+      url: "http://designtaxi.com/news/377045/The-Color-Palettes-Of-The-Most-Beautiful-Websites-On-The-Internet/"
+- group: Coding Conventions
+  icon: fas fa-tools
+  items:
+    - name: Kristories/awesome-guidelines  A curated list of high quality coding style conventions and standards.
+      url: "https://github.com/Kristories/awesome-guidelines"
+- group: Stock Image
+  icon: fas fa-tools
+  items:
+    - name: The Ultimate List of Free Stock Photos For Your Presentations   Ethos3 - A Presentation Design Agency
+      url: "https://www.ethos3.com/2016/02/the-ultimate-list-of-free-stock-photos-for-your-presentations/"
+    - name: 99+ Sites with Free Images for Commercial Use (2016)
+      url: "https://www.clearsite.nl/blog/99-sites-free-images-commercial-use"
+- group: Inspiration
+  icon: fas fa-tools
+  items:
+- group: Edward Tufte
+  icon: fas fa-tools
+  items:
+    - name: EdwardTufte.com
+      url: "https://www.edwardtufte.com/tufte/"
+    - name: edwardtufte/tufte-css
+      url: "https://github.com/edwardtufte/tufte-css"
+    - name: Tufte CSS (web page)
+      url: "https://edwardtufte.github.io/tufte-css/"
+    - name: Tufte-LaTeX/tufte-latex
+      url: "https://github.com/Tufte-LaTeX/tufte-latex"
+    - name: Tufte Handout
+      url: "http://rstudio.github.io/tufte/"
+    - name: Tufte Handout (envisioned)
+      url: "http://rstudio.github.io/tufte/envisioned/"
+    - name: Portfolios on Behance
+      url: "https://www.behance.net/"
+    - name: Invaluable Deals for Creative Professionals - Design Cuts Design Cuts
+      url: "https://www.designcuts.com/"
+    - name: Designspiration — Design Inspiration
+      url: "https://www.designspiration.net/"
+    - name: Browse What&#39;s Hot   DeviantArt
+      url: "https://www.deviantart.com/"
+    - name: Portfolios on Dribbble
+      url: "https://dribbble.com/"
+    - name: siteInspire - Web Design Inspiration
+      url: "https://www.siteinspire.com/"
+    - name: Smashing Magazine – For Professional Web Designers and Developers
+      url: "https://www.smashingmagazine.com/"
+    - name: TRENDLAND HP NOV17   Trendland
+      url: "https://trendland.com/"
+    - name: Logos, Web, Graphic Design   More.   99designs
+      url: "https://99designs.ca/"
+    - name: Typ.io  Fonts that go together
+      url: "http://typ.io/"
+    - name: Get Your Cloud Strategy Right (PDF)
+      url: "https://flevy.com/browse/business-document/get-your-cloud-strategy-right-286"
+    - name: Redirecting Your Email   Office 365 for Harvard
+      url: "http://mso.harvard.edu/exo_config_outlook_forward"
+    - name: 18fgsa - Docker Hub
+      url: "https://hub.docker.com/u/18fgsa/"
+    - name: How to find or search a font   VK
+      url: "https://vk.com/video269930671_171092310?list=8f687f58f7895a9bad"
+    - name: PrintRoot Forums
+      url: "http://www.printroot.com/"
+    - name: Drivers   Software for HPE ProLiant ML30 Gen9 Server - HP Support Center.
+      url: "http://h20565.www2.hpe.com/hpsc/swd/public/readIndex?sp4ts.oid=1008556814&swLangOid=8&swEnvOid=4168"
+    - name: Downloads MS pAtrner
+      url: "https://msppdd.microsoft.com/msppdd/Home/Downloads?selectedType=OnPremise"
+    - name: National Institute of Standards and Technology
+      url: "https://github.com/usnistgov"
+    - name: Menu - LesDeuxFours
+      url: "http://www.lesdeuxfours.ca/petitepatrie/menu.html#pizza"
+- group: Tools
+  icon: fas fa-tools
+  items:
+    - name: Built
+      url: "javascript:window.location.href='http://builtwith.com/?'+encodeURIComponent(document.location)"
+    - name: 1
+      url: "chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/onetab.html"
+    - name: DNS Propagation Checker
+      url: "https://www.whatsmydns.net/#TXT/aimia.tech"
+    - name: MX Toolbox - DNS Lookup
+      url: "http://mxtoolbox.com/SuperTool.aspx?action=a%3aaimia.tech&run=toolpage#"
+    - name: AWS Simple Icons
+      url: "https://aws.amazon.com/architecture/icons/"
+    - name: --&gt;Pinboard
+      url: "javascript:q%3Dlocation.href%3Bif(document.getSelection)%7Bd%3Ddocument.getSelection()%3B%7Delse%7Bd%3D%27%27%3B%7D%3Bp%3Ddocument.title%3Bvoid(open(%27https://pinboard.in/add%3Furl%3D%27%2BencodeURIComponent(q)%2B%27%26description%3D%27%2BencodeURIComponent(d)%2B%27%26title%3D%27%2BencodeURIComponent(p),%27Pinboard%27,%27toolbar%3Dno,width%3D700,height%3D350%27))%3B"
+    - name: Feedly
+      url: "https://feedly.com/i/welcome"
+    - name: HTTP Status Dogs
+      url: "http://httpstatusdogs.com/"
+    - name: GitHub - Azure/deco  Project Deco - Azure Storage Explorer for OS X, Windows, and Linux
+      url: "https://github.com/Azure/deco"
+    - name: GitHub - Azure/NetworkMonitoring  Open source Azure network monitoring tools repository.
+      url: "https://github.com/Azure/NetworkMonitoring"
+    - name: Use SSH on Linux and Mac   Microsoft Azure
+      url: "https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-ssh-from-linux/"
+    - name: Forum  Azure Scripting and Command Line Tools
+      url: "https://social.msdn.microsoft.com/Forums/en-US/home?forum=azurescripting"
+    - name: Colocation Toronto - Data Centers
+      url: "http://www.datacentermap.com/canada/toronto/"
+    - name: Domain Name Search
+      url: "https://instantdomainsearch.com/"
+    - name: searchcode   source code search engine
+      url: "https://searchcode.com/"
+    - name: CUFonts
+      url: "http://www.cufonfonts.com/"
+    - name: Environment Setup – Todd Grooms
+      url: "http://toddgrooms.com/setup/"
+    - name: rogeruiz/.files  &quot;If you love something, do it in the open.&quot;
+      url: "https://github.com/rogeruiz/.files"
+    - name: LCD Panel Search Tool
+      url: "http://www.tftcentral.co.uk/panelsearch.htm"
+    - name: RegExp playground
+      url: "http://leaverou.github.io/regexplained/"
+    - name: TD
+      url: "https://easyweb.td.com/waw/idp/login.htm?execution=e1s1"
+    - name: H
+      url: "https://secure.hsbcnet.com/"
+    - name: D
+      url: "https://dstrategies.signin.aws.amazon.com/console"
+    - name: lune TDAG
+      url: "https://www.hyper-lune.org/services-adultes?gclid=CLGw_LCyx9UCFQOtaQody9gMOQ"
+    - name: Timely – Time Tracking and Timesheet software for productive teams. - Timely
+      url: "https://timelyapp.com/"
+    - name: Houzz - Home Design
+      url: "http://www.houzz.com/"
+    - name: Free Family Tree, Genealogy and Family History - MyHeritage
+      url: "https://www.myheritage.com/#"
+    - name: Calcul financier
+      url: "http://impot.net/fr/entreprises/das/"
+    - name: Text conversion
+      url: "http://www.unit-conversion.info/"
+    - name: Film Reference
+      url: "http://www.filmreference.com/"
+    - name: SysAdmin Notes - Fortinet Cookbook
+      url: "http://cookbook.fortinet.com/sysadmins-notebook/"
+    - name: HPE Software Depot
+      url: "https://h20392.www2.hpe.com/portal/swdepot/index.do"
+    - name: HN
+      url: "https://news.ycombinator.com/"
+    - name: Tips and tricks
+      url: "http://chandoo.org/wp/"
+    - name: Excel Functions.net
+      url: "http://www.excelfunctions.net/"
+    - name: Open TweetBot
+      url: "javascript:window.location='tweetbot:///user_profile'+location.pathname"
+    - name: Save to Pocket
+      url: "javascript:(function()%7Bvar%20e=function(t,n,r,i,s)%7Bvar%20o=%5B5528626,2593431,1614114,5675510,5726421,5042058,3632919,6531842,4193547,1496514%5D;var%20i=i%7C%7C0,u=0,n=n%7C%7C%5B%5D,r=r%7C%7C0,s=s%7C%7C0;var%20a=%7B'a':97,'b':98,'c':99,'d':100,'e':101,'f':102,'g':103,'h':104,'i':105,'j':106,'k':107,'l':108,'m':109,'n':110,'o':111,'p':112,'q':113,'r':114,'s':115,'t':116,'u':117,'v':118,'w':119,'x':120,'y':121,'z':122,'A':65,'B':66,'C':67,'D':68,'E':69,'F':70,'G':71,'H':72,'I':73,'J':74,'K':75,'L':76,'M':77,'N':78,'O':79,'P':80,'Q':81,'R':82,'S':83,'T':84,'U':85,'V':86,'W':87,'X':88,'Y':89,'Z':90,'0':48,'1':49,'2':50,'3':51,'4':52,'5':53,'6':54,'7':55,'8':56,'9':57,'%5C/':47,':':58,'?':63,'=':61,'-':45,'_':95,'&':38,'$':36,'!':33,'.':46%7D;if(!s%7C%7Cs==0)%7Bt=o%5B0%5D+t%7Dfor(var%20f=0;f%3Ct.length;f++)%7Bvar%20l=function(e,t)%7Breturn%20a%5Be%5Bt%5D%5D?a%5Be%5Bt%5D%5D:e.charCodeAt(t)%7D(t,f);if(!l*1)l=3;var%20c=l*(o%5Bi%5D+l*o%5Bu%25o.length%5D);n%5Br%5D=(n%5Br%5D?n%5Br%5D+c:c)+s+u;var%20p=c%25(50*1);if(n%5Bp%5D)%7Bvar%20d=n%5Br%5D;n%5Br%5D=n%5Bp%5D;n%5Bp%5D=d%7Du+=c;r=r==50?0:r+1;i=i==o.length-1?0:i+1%7Dif(s==304)%7Bvar%20v='';for(var%20f=0;f%3Cn.length;f++)%7Bv+=String.fromCharCode(n%5Bf%5D%25(25*1)+97)%7Do=function()%7B%7D;return%20v+'4b98b6a2ef'%7Delse%7Breturn%20e(u+'',n,r,i,s+1)%7D%7D;var%20t=document,n=t.location.href,r=t.title;var%20i=e(n);var%20s=t.createElement('script');s.type='text/javascript';s.src='https://getpocket.com/b/r4.js?h='+i+'&u='+encodeURIComponent(n)+'&t='+encodeURIComponent(r);e=i=function()%7B%7D;var%20o=t.getElementsByTagName('head')%5B0%5D%7C%7Ct.documentElement;o.appendChild(s)%7D)()"
+    - name: Add to Buffer
+      url: "javascript:void(location.href='bufferapp://?u='+encodeURIComponent(location.href)+'&t='+encodeURIComponent(document.title))"
+    - name: Send to OmniFocus
+      url: "javascript:window.location='omnifocus:///add?note='+encodeURIComponent(window.location)+'&name='+encodeURIComponent(document.title)"
+    - name: Think with Google  Marketing Research   Digital Trends
+      url: "https://www.thinkwithgoogle.com/"
+    - name: CleanUP
+      url: "http://cleanup/"
+    - name: Curated list of awesome lists
+      url: "https://github.com/sindresorhus/awesome"
+    - name: Search Form
+      url: "https://pascal.computer.org/sev_display/index.action"
+    - name: Merlot  Material Results
+      url: "https://www.merlot.org/merlot/materials.htm?hasAwards=false&filterTypesOpen=true&hasEtextReviews=false&filterOtherOpen=false&isContentBuilder=false&filterSubjectsOpen=true&hasAssignments=false&filterPartnerAffiliationsOpen=true&hasSercActivitySheets=false&filterMobileOpen=false&category=2727&sort.property=&_materialType=&materialType=Reference+Material&_os=&_hasPeerReviews=&_hasEditorReviews=&_hasComments=&_hasRatings=&_hasCollections=&_creativeCommons=&_hasAccessibilityForm="
+- group: Ref
+  icon: fas fa-tools
+  items:
+- group: Ansible
+  icon: fas fa-tools
+  items:
+    - name: Awesome Ansible Resources
+      url: "https://github.com/jdauphant/awesome-ansible"
+    - name: Doc
+      url: "http://docs.ansible.com/ansible/latest/index.html"
+    - name: DevSec Hardening Framework
+      url: "https://github.com/dev-sec?page=2"
+    - name: GitHub - openstack/ansible-hardening  Ansible role for security hardening
+      url: "https://github.com/openstack/ansible-hardening"
+    - name: GitHub - geerlingguy/ansible-role-security  Ansible Role - Security
+      url: "https://github.com/geerlingguy/ansible-role-security"
+    - name: GitHub - dev-sec/ansible-os-hardening  This Ansible role provides numerous security-related configurations, providing all-round base protection.
+      url: "https://github.com/dev-sec/ansible-os-hardening"
+    - name: Securing a Server with Ansible · Ryan Eschinger Consulting
+      url: "https://ryaneschinger.com/blog/securing-a-server-with-ansible/"
+    - name: Security Hardening with Ansible   Linux Journal
+      url: "https://www.linuxjournal.com/content/security-hardening-ansible"
+    - name: Ansible Galaxy
+      url: "https://galaxy.ansible.com/dev-sec/os-hardening"
+    - name: Ansible playbook for a more secure VPS (part 1)   Serverwise
+      url: "https://blog.ssdnodes.com/blog/secure-ansible-playbook/"
+- group: Apple
+  icon: fas fa-tools
+  items:
+    - name: timsutton · GitHub
+      url: "https://github.com/timsutton"
+- group: AppleScript
+  icon: fas fa-tools
+  items:
+    - name: Applescript Archives - Veritrope
+      url: "http://veritrope.com/tag/applescript/"
+    - name: Applescript - working with text
+      url: "http://www.mactech.com/articles/mactech/Vol.21/21.07/WorkingWithText/index.html"
+    - name: Open Scripting Architecture
+      url: "https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptX/Concepts/osa.html"
+- group: Automation
+  icon: fas fa-tools
+  items:
+- group: Brand
+  icon: fas fa-tools
+  items:
+    - name: StyleGuides.IO
+      url: "http://styleguides.io/"
+    - name: BBC - GEL (Global Experience Language)
+      url: "http://www.bbc.co.uk/gel"
+    - name: Draft U.S. Web Design Standards Documentation   Labels
+      url: "https://standards.usa.gov/labels/"
+- group: Standard
+  icon: fas fa-tools
+  items:
+    - name: C-TPAT CBP.org
+      url: "https://www.cbp.gov/border-security/ports-entry/cargo-security/c-tpat-customs-trade-partnership-against-terrorism/apply/security-criteria"
+    - name: PCAOB Standards
+      url: "https://pcaobus.org/standards"
+- group: Code
+  icon: fas fa-tools
+  items:
+- group: Github
+  icon: fas fa-tools
+  items:
+    - name: Microsoft
+      url: "https://github.com/Microsoft"
+    - name: Mozilla
+      url: "https://github.com/mozilla"
+    - name: MicrosoftDotCom
+      url: "https://github.com/MicrosoftDotCom/mscom-landing"
+    - name: U.S. General Services Administration
+      url: "https://github.com/GSA"
+    - name: UK Digital Service
+      url: "https://github.com/alphagov?page=2"
+    - name: Office Developer
+      url: "https://github.com/OfficeDev"
+    - name: Scottish Government
+      url: "https://github.com/scottishgovernment/"
+    - name: LegalTech News - Under Control Sound Information Governance Practices Can Help Protect Your Business From Risk (Analyst report/4AA6-2658ENW.pdf)
+      url: "http://h20195.www2.hp.com/v2/GetDocument.aspx?docname=4AA6-2658ENW"
+    - name: Microsoft Azure
+      url: "https://github.com/Azure?page=2"
+    - name: Airmail
+      url: "https://github.com/Airmail"
+    - name: CERT Société Générale
+      url: "https://github.com/certsocietegenerale"
+    - name: AutoDMG  Create deployable system images from OS X installer
+      url: "https://github.com/MagerValp/AutoDMG"
+    - name: MS PowerShell
+      url: "https://github.com/powershell"
+    - name: Yelp/osxcollector  A forensic evidence collection   analysis toolkit for OS X
+      url: "https://github.com/Yelp/osxcollector"
+    - name: cobyism/ricochet  Going beyond just dotfiles, but with Ansible. o_O
+      url: "https://github.com/cobyism/ricochet"
+    - name: GitHub does dotfiles - dotfiles.github.io
+      url: "http://dotfiles.github.io/"
+    - name: Remove sensitive data - User Documentation
+      url: "https://help.github.com/articles/remove-sensitive-data/"
+    - name: cloudsecurityalliance
+      url: "https://github.com/cloudsecurityalliance"
+    - name: Linus Torvalds
+      url: "https://github.com/torvalds?tab=repositories"
+    - name: AWS Samples
+      url: "https://github.com/aws-samples"
+    - name: AWS Labs
+      url: "https://github.com/awslabs"
+    - name: Quick Starts - Amazon Web Services (AWS)
+      url: "https://aws.amazon.com/quickstart/"
+    - name: AWS Quick Start
+      url: "https://github.com/aws-quickstart/"
+- group: Arcade Emulator
+  icon: fas fa-tools
+  items:
+    - name: Running up MAME Arcade emulation MAME/MESS (Intel 64-bit Builds) on macOS (OS X)
+      url: "http://blog.greggant.com/posts/2016/12/25/running-current-mame-mess-on-macos-osx.html"
+    - name: NDS ROMS PSP ROMS PSX ROMS NES ROMS SNES ROMS GBA ROMS   Emuparadise
+      url: "https://www.emuparadise.me/"
+- group: Automate
+  icon: fas fa-tools
+  items:
+    - name: KM Forum
+      url: "https://forum.keyboardmaestro.com/"
+    - name: Mac Automation Tips   Getting Things Done Faster on Your Mac
+      url: "https://macautomationtips.wordpress.com/"
+    - name: Veritrope
+      url: "http://veritrope.com/"
+    - name: Homebrew
+      url: "http://brew.sh/"
+    - name: Cask
+      url: "http://caskroom.io/search"
+    - name: Chef Software · GitHub
+      url: "https://github.com/chef"
+- group: Clojure &amp; LightTable
+  icon: fas fa-tools
+  items:
+    - name: Light Table Blog
+      url: "http://lighttable.com/blog/"
+    - name: Wiki · GitHub
+      url: "https://github.com/LightTable/LightTable/wiki"
+    - name: Clojure
+      url: "http://clojure.org/cheatsheet"
+    - name: Clojure.org
+      url: "http://clojure.org/"
+    - name: Google Groups - Clojure
+      url: "https://groups.google.com/forum/#!forum/clojure"
+    - name: Library Coding Standards
+      url: "http://dev.clojure.org/display/community/Library+Coding+Standards"
+    - name: Community-Powered Clojure Documentation
+      url: "http://clojuredocs.org/"
+    - name: Lasso Language
+      url: "http://www.lassosoft.com/"
+- group: Cloud Providers
+  icon: fas fa-tools
+  items:
+    - name: Google Cloud
+      url: "https://www.google.com/cloud/?lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase%3B1cOCp4gVQE6tAY8TNT8EsQ%3D%3D"
+- group: Governance
+  icon: fas fa-tools
+  items:
+    - name: Lexology
+      url: "https://www.lexology.com/"
+    - name: Protection
+      url: "https://www.lexology.com/hub/it-and-data-protection"
+    - name:  National Cybersecurity Center of Excellence
+      url: "https://nccoe.nist.gov/"
+    - name: EU law - EUR-Lex
+      url: "http://eur-lex.europa.eu/homepage.html?locale=en"
+    - name: Oversight, US FederalReports
+      url: "https://www.oversight.gov/"
+    - name: Layout 1
+      url: "http://www.publimaison.ca/Content/themes/Images/pdf/offre_achat_2012.pdf"
+- group: Management
+  icon: fas fa-tools
+  items:
+    - name: Google re Work
+      url: "https://rework.withgoogle.com/"
+- group: Web
+  icon: fas fa-tools
+  items:
+    - name: Jekyll Talk
+      url: "https://talk.jekyllrb.com/"
+    - name: Sass Guidelines
+      url: "http://sass-guidelin.es/#colors"
+    - name: CodePen
+      url: "http://codepen.io/"
+    - name: Shopify Liquid WIKI
+      url: "https://github.com/Shopify/liquid/wiki"
+    - name: Liquid Cheat Sheet
+      url: "http://cheat.markdunkley.com/"
+    - name: Markdown Tables generator
+      url: "http://www.tablesgenerator.com/markdown_tables"
+    - name: Responsive Design Testing
+      url: "http://mattkersley.com/responsive/"
+    - name: DevDocs - CSS / line-height
+      url: "http://devdocs.io/css/line-height"
+    - name: UI-Components
+      url: "https://github.com/logeshpaul/UI-Components"
+    - name: Code Guide by mdo
+      url: "http://codeguide.co/"
+    - name: Liquid for Designers · Shopify/liquid Wiki
+      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
+    - name: W3C
+      url: "https://www.w3.org/2009/cheatsheet/#search,white-space"
+    - name: Architecture   Design   Is an online magazine that tries to feed your imagination by picking up and delivering a daily doze of the most inspiring, exciting and outstanding selection of Architecture Art and Design.
+      url: "https://www.architecturendesign.net/"
+- group: MS Word
+  icon: fas fa-tools
+  items:
+    - name: Reader Question  Type Once, Repeat Many?   Legal Office Guru
+      url: "https://legalofficeguru.com/reader-question-bookmarks-crossreferences/"
+    - name: Mail merge - Word
+      url: "https://support.office.com/en-us/article/Mail-merge-c14950eb-fd73-4386-9bba-6482295fb1e6"
+- group: USB C
+  icon: fas fa-tools
+  items:
+    - name: Benson Approved Cables   Accessories
+      url: "http://bensonapproved.com/"
+    - name: Certified Cable
+      url: "http://www.usb.org/kcompliance/view/USB%20Type-C%20Cable%20Certifications.pdf"
+    - name: Benson Leung - Google+
+      url: "https://plus.google.com/u/0/+BensonLeung"
+- group: Coach
+  icon: fas fa-tools
+  items:
+    - name: Gazelles   Strategic Planning Insights   Original One-Page Strategic Plan
+      url: "https://gazelles.com/"
+- group: Typography
+  icon: fas fa-tools
+  items:
+    - name: Professional Web Typography
+      url: "https://prowebtype.com/"
+    - name: Butterick’s Practical Typography
+      url: "https://practicaltypography.com/"
+    - name: Elements of Web Typographic Style
+      url: "http://webtypography.net/toc/"
+    - name: Typophile   Where Designers Connect
+      url: "http://www.typophile.com/"
+- group: École
+  icon: fas fa-tools
+  items:
+    - name: FCPQ
+      url: "http://www.fcpq.qc.ca/"
+    - name: Institut des troubles d&#39;apprentissage
+      url: "http://www.institutta.com/"
+    - name: CDÉACF
+      url: "http://cdeacf.ca/"
+    - name: Pluriportail
+      url: "https://pluriportail.csmb.qc.ca/Pluriportail/fr/MainExterne.srf?P=LoginReq"
+- group: OpenData
+  icon: fas fa-tools
+  items:
+    - name: ESCO - European Commission
+      url: "https://ec.europa.eu/esco/portal"
+- group: R
+  icon: fas fa-tools
+  items:
+    - name: RMarkdown
+      url: "https://github.com/rstudio/rmarkdown"
+    - name: RStudio (github)
+      url: "https://github.com/rstudio"
+    - name: RStudio
+      url: "https://www.rstudio.com/"
+    - name: R Markdown
+      url: "http://rmarkdown.rstudio.com/"
+    - name: Authoring Books and Technical Documents with R Markdown
+      url: "https://bookdown.org/yihui/bookdown/"
+    - name: YaRrr! The Pirate’s Guide to R
+      url: "https://bookdown.org/ndphillips/YaRrr/"
+    - name: R for Data Science
+      url: "http://r4ds.had.co.nz/"
+    - name: Text Mining with R
+      url: "https://www.tidytextmining.com/"
+    - name: dgrtwo (David Robinson) GitHub
+      url: "https://github.com/dgrtwo?tab=repositories"
+    - name: Variance Explained - blog of David Robinson
+      url: "http://varianceexplained.org/"
+    - name: 10 R packages I wish I knew about earlier
+      url: "http://blog.yhat.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html"
+    - name: Welcome   Akamai Community
+      url: "https://community.akamai.com/"
+- group: RegEx
+  icon: fas fa-tools
+  items:
+    - name: html5pattern.com
+      url: "http://html5pattern.com/"
+    - name: Regular Expressions - JavaScript   MDN
+      url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions"
+    - name: Best of Fluent 2012  /Reg(exp){2}lained/  Demystifying Regular Expressions - YouTube
+      url: "https://www.youtube.com/watch?v=EkluES9Rvak"
+    - name: Oyster Farm
+      url: "http://www.rwe-uk.com/oyster_farm"
+    - name: Regular Expression Library
+      url: "http://regexlib.com/?AspxAutoDetectCookieSupport=1"
+    - name: Regexper — RegExp Diagram  )
+      url: "https://regexper.com/"
+    - name: Regular-Expressions.info
+      url: "http://regular-expressions.mobi/index.html?wlr=1"
+- group: Mech Keyboard
+  icon: fas fa-tools
+  items:
+    - name: KB Paradise
+      url: "http://www.kbp.com.tw/index.html"
+    - name: Mechanical Keyboards Inc (USA)
+      url: "https://mechanicalkeyboards.com/"
+    - name: Matias
+      url: "http://matias.ca/"
+    - name: The Keyboard Company (UK)
+      url: "http://www.keyboardco.com/"
+- group: TN Suppliers
+  icon: fas fa-tools
+  items:
+    - name: Dialekta   Digital Marketing Agency in Montreal
+      url: "https://dialekta.com/"
+    - name: Metronome Growth Systems
+      url: "https://metronomesoftware.com/"
+    - name: Tina
+      url: "http://intranet.terranova.local/tina/tna/tinalogin.aspx"
+- group: IoT
+  icon: fas fa-tools
+  items:
+    - name: Industrial Internet Consortium
+      url: "http://www.iiconsortium.org/white-papers.htm"
+- group: Forums
+  icon: fas fa-tools
+  items:
+    - name: REDDIT - Mechanical Keyboards
+      url: "https://www.reddit.com/r/MechanicalKeyboards/"
+    - name: DSL Report - VO/IP
+      url: "http://www.dslreports.com/forum/voip"
+    - name: Microsoft Mechanics
+      url: "https://www.youtube.com/channel/UCJ9905MRHxwLZ2jeNQGIWxA"
+    - name: NeoFinder
+      url: "http://www.cdfinder.de/guide/6/6.1/create-smartfolder.html"
+    - name: The Omni Group Forums
+      url: "https://discourse.omnigroup.com/"
+    - name: PathFinder Forum
+      url: "http://support.cocoatech.com/discussions/problems"
+    - name: Lock Picking 101
+      url: "http://www.lockpicking101.com/"
+    - name: Keypicking
+      url: "http://www.keypicking.com/"
+    - name: Balsamiq Mockup
+      url: "https://forums.balsamiq.com/"
+    - name: Cisco Voice Systems
+      url: "https://supportforums.cisco.com/community/5706/voice-systems"
+    - name: Dropbox Community
+      url: "https://www.dropboxforum.com/hc/en-us/"
+    - name: HackPad Design Patterns
+      url: "https://designpatterns.hackpad.com/"
+    - name: Sage City Community (Simple Comptable)
+      url: "https://sagecity.na.sage.com/"
+    - name: Rogers Forum
+      url: "http://communityforums.rogers.com/t5/forums/forumpage/board-id/RogersOneNumber"
+    - name: Intel NUC Community
+      url: "https://communities.intel.com/community/tech/nuc"
+    - name: Apnea Board Forum
+      url: "http://www.apneaboard.com/forums/index.php"
+    - name: SnagIT
+      url: "https://feedback.techsmith.com/techsmith/categories/techsmith_snagit_mac"
+    - name: Fortinet Technical Discussion Forums
+      url: "https://forum.fortinet.com/"
+    - name: Keyboard Maestro Forum
+      url: "https://forum.keyboardmaestro.com/latest"
+    - name: Comix I/O
+      url: "http://cmx.io/"
+    - name: Bookmark
+      url: "chrome://bookmarks/"
+    - name: Busy is a decision   susan jean robertson
+      url: "https://www.susanjeanrobertson.com/self/busy-is-a-decision/"
+    - name: LMS
+      url: "https://secure.terranovasite.com/lms/login/lmslogin.aspx?e=99216346-73ba-4469-8afb-9fe13371c24f&lang=fr"
+    - name: F
+      url: "https://feedly.com/i/my"
+    - name: Feedly
+      url: "https://feedly.com/i/welcome"
+    - name: Doc
+      url: "http://docs.ansible.com/ansible/latest/index.html"
+    - name: RC
+      url: "http://beta.radio-canada.ca/"
+    - name: L
+      url: "http://www.linkedin.com/"
+    - name: BHD
+      url: "http://twitter.com/BHDicaire"
+    - name: D
+      url: "http://www.granddictionnaire.com/"
+- group: L
+  icon: fas fa-tools
+  items:
+    - name: Search appearance
+      url: "https://www.linkedin.com/me/search-appearances/"
+    - name: New invitations
+      url: "https://www.linkedin.com/mynetwork/"
+    - name: Jobs
+      url: "https://www.linkedin.com/jobs/"
+    - name: Messages
+      url: "https://www.linkedin.com/messaging/"
+    - name: Notifications
+      url: "https://www.linkedin.com/notifications/"
+    - name: 33
+      url: "https://web.archive.org/web/*/%S"
+    - name: view-source localhost 3000/starter/headers/header-default-absolute-top-sm.html
+      url: "view-source:http://localhost:3000/starter/headers/header-default-absolute-top-sm.html"
+    - name: Error
+      url: "https://sjobs.brassring.com/TgNewUI/Search/Home/Home?partnerid=25783&siteid=5114#home"
+    - name: JavaScript DSL
+      url: "https://stackexchange.github.io/dnscontrol/js"
+    - name: davejamesmiller/davejamesmiller.com  My website - DaveJamesMiller.com
+      url: "https://github.com/davejamesmiller/davejamesmiller.com"
+    - name: Fuji X-T3 - Fuji X Forum
+      url: "https://www.fuji-x-forum.com/forum/35-fuji-x-t3/"
+- group: Yubico
+  icon: fas fa-tools
+  items:
+    - name: GPG/SSH with the YubiKey 5
+      url: "https://www.forgesi.net/gpg-ssh-with-the-yubikey-5/"
+    - name: Using a Yubikey as smartcard for SSH public key authentication
+      url: "https://undeadly.org/cgi?action=article;sid=20190302235509"
+    - name: drduh/YubiKey-Guide  Guide to using YubiKey for GPG and SSH
+      url: "https://github.com/drduh/YubiKey-Guide"
+    - name: Stick with security  YubiKey, SSH, GnuPG, macOS — Martian Chronicles, Evil Martians’ team blog
+      url: "https://evilmartians.com/chronicles/stick-with-security-yubikey-ssh-gnupg-macos"
+    - name: How to Trust your Account Manager(s)   We The Sales Engineers
+      url: "https://wethesalesengineers.com/how-to-trust-your-account-managers/"
+- group: ShortenURL
+  icon: fas fa-tools
+  items:
+    - name: (Optional) Configuring a Webpage Redirect - Amazon Simple Storage Service
+      url: "https://docs.aws.amazon.com/AmazonS3/latest/dev/how-to-page-redirect.html"
+    - name: url-shortener-lambda — URL Shortener with Go and AWS Lambda
+      url: "https://libs.garden/go/similar/tinrab/url-shortener-lambda/url-shortener-with-go-and-aws-lambda"
+    - name: Build a Serverless, Private URL Shortener   AWS Compute Blog
+      url: "https://aws.amazon.com/blogs/compute/build-a-serverless-private-url-shortener/"
+    - name: amazon web services - Shorten S3 signed url - Stack Overflow
+      url: "https://stackoverflow.com/questions/36830462/shorten-s3-signed-url"
+    - name: How to build a Serverless URL shortener using AWS Lambda and S3
+      url: "https://www.freecodecamp.org/news/how-to-build-a-serverless-url-shortener-using-aws-lambda-and-s3-4fbdf70cbf5c/"
+    - name: GitHub - danielireson/serverless-url-shortener  URL shortener for AWS Lambda and S3
+      url: "https://github.com/danielireson/serverless-url-shortener"
+    - name: GitHub - roypur/s3-shorturl  A url shortener written in go using amazon S3
+      url: "https://github.com/roypur/s3-shorturl"
+    - name: GitHub - ApplexusLabs/aws-url-shortner  Serverless URL Shortner using S3, Lambda, DynamoDB and API Gateway
+      url: "https://github.com/ApplexusLabs/aws-url-shortner"
+    - name: How to Build a serverless URL shortener with AWS Lambda and API Gateway services
+      url: "https://medium.com/uptime-99/how-to-build-a-serverless-url-shortener-with-aws-lambda-and-api-gateway-services-ccea2336055b"
+    - name: Serverless URL Shortener with Authentication – Powerupcloud Tech Blog
+      url: "https://blog.powerupcloud.com/serverless-url-shortener-with-authentication-7ca2fb2cb019"
+    - name: AWS Lambda - build yourself a URL shortener in 2 hours   theburningmonk.com
+      url: "https://theburningmonk.com/2017/04/aws-lambda-build-yourself-a-url-shortener-in-2-hours/"
+    - name: How to Setup a Serverless URL Shortener With API Gateway Lambda and DynamoDB on AWS - Ruan Bekker&#39;s Blog
+      url: "https://blog.ruanbekker.com/blog/2018/11/30/how-to-setup-a-serverless-url-shortener-with-api-gateway-lambda-and-dynamodb-on-aws/"
+- group: CleanUP
+  icon: fas fa-tools
+  items:
+    - name: (1) New Message!
+      url: "https://www.cloze.com/"
+    - name: The missing package manager for macOS (or Linux) — Homebrew
+      url: "https://brew.sh/"
+    - name: status.forcepoint.net
+      url: "https://status.forcepoint.net/"
+    - name: status.forcepoint.net
+      url: "https://status.forcepoint.net/"
+    - name: XFR
+      url: "https://xfr.forcepoint.com/"
+    - name: KB Article   Forcepoint Support
+      url: "https://support.forcepoint.com/KBArticle?id=000016930"
+    - name: ArchiMate reference – Goodea
+      url: "https://www.goodea.eu/archimate/reference/"

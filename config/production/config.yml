@@ -1,0 +1,8 @@
+baseURL: 'https://bhdicaire.com'
+buildDrafts: false
+buildFuture: false
+buildExpored: false
+buildExpired: false
+
+params:
+  env: production

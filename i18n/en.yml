@@ -1,0 +1,213 @@
+- id: posts
+  translation: 
+    one : "Post"
+    other: "Posts"
+- id: last_modified
+  translation: "Last modified on %s"
+- id: keep_in_contact
+  translation: "Keep in contacts"
+- id: referral
+  translation: |
+    This content is available on **%s**, you will be redirected to it in a moment.  
+    If you are not redirected automatically, [click here](%s).
+- id: certifications
+  translation: "Certifications"
+- id: issued_by
+  translation: "Issued by"
+
+- id: opensearchDescription
+  translation: "search"
+- id: home
+  translation: "home"
+- id: contactAddrTitle
+  translation: "address"
+- id: contactTitle
+  translation: "contact"
+- id: contactForm
+  translation: "contact form"
+- id: contactName
+  translation: "name"
+- id: contactMail
+  translation: "email"
+- id: contactMessage
+  translation: "message"
+- id: contactQuestion
+  translation: "question"  
+- id: contactSend
+  translation: "send message"
+- id: missingValue
+  translation: "missing value"
+- id: navHome
+  translation: "go to homepage"
+- id: categoriesTitle
+  translation: "categories"
+- id: searchTitle
+  translation: "search"
+- id: tagsTitle
+  translation: "tags"
+- id: aboutUs
+  translation: "about"
+- id: newer
+  translation: "newer"
+- id: older
+  translation: "older"
+- id: previous
+  translation: "previous"
+- id: next
+  translation: "next"
+- id: from
+  translation: "from"
+- id: To
+  translation: "to"
+- id: publishedOn
+  translation: "on"
+- id: testimonials
+  translation: "testimonials"
+- id: relatedTitle
+  translation: "related content"    
+- id: searchButton
+  translation: "search"
+- id: backToBlog
+  translation: "back to the blog"  
+- id: error404
+  translation: "error 404 - Page not found"
+- id: error404Message
+  translation: "the page may no longer exist, or be called something different"
+- id: error404Explanation
+  translation: "it may no longer exist, be called something different or be temporarily unavailable."
+- id: error404Search
+  translation: "try to find what you're looking for by searching below."
+- id: noResultsTitle
+  translation: "no document found"
+- id: noResultsText
+  translation: "sorry, but nothing matches your search. Please try again with different terms or [browse our knowledge base](/en/help)."
+- id: searchTermTooShort
+  translation: "your search term must be a minimum of 3 characters long."
+- id: warning
+  translation: "warning"
+- id: note
+  translation: "note"
+- id: info
+  translation: "info"
+- id: tip
+  translation: "tip"
+- id: your
+  translation: "your"  
+- id: lastUpdated
+  translation: "last updated:"
+- id: faqTitle
+  translation: "frequently asked questions"
+- id: event
+  translation: "event"
+- id: date
+  translation: "date"  
+- id: location
+  translation: "location"
+- id: explain
+  translation: "Explain how we can help you"      
+- id: recentEvents
+  translation: "recent & Upcoming Talks"
+- id: recentBlogs
+  translation: "recent blog"
+- id: noEvents
+  translation: "shoot! There are no upcoming events"
+- id: sitemap
+  translation: "thank you sincerely for your interest, you can browse the links below to find information. The sitemap is also available in the [XML format](/sitemap.xml) understandable by search engine crawlers"
+- id: shortcodeAnchorTitle 
+  translation: "shortcode AnchorTitle"
+- id: January
+  translation: "january"
+- id: February
+  translation: "february"
+- id: March
+  translation: "march"
+- id: April
+  translation: "april"
+- id: May
+  translation: "may"
+- id: June
+  translation: "june"
+- id: July
+  translation: "july"
+- id: August
+  translation: "august"
+- id: September
+  translation: "september"
+- id: October
+  translation: "october"
+- id: November
+  translation: "november"
+- id: December
+  translation: "december"
+- id: wordCount
+  one: "this article has {{ .WordCount }} words."
+  other: "{{.Count}} minutes to read" 
+- id: readingTime
+  one: "{{.Count}} minute to read" 
+  other: "{{.Count}} minutes to read" 
+- id: more
+  other: More
+- id: allTitle
+  other: 'All {{.Title }}'
+- id: recentTitle
+  other: 'Recent {{.Title }}'
+- id: readMore
+  other: read more
+- id: whatsInThis
+  other: 'What''s in this {{ .Type }}'
+- id: related
+  other: Related
+- id: yourName
+  other: Your Name
+- id: emailAddress
+  translation: "email address" 
+- id: message
+  translation: "message"
+  other: "messages"
+- id: emailRequiredNote
+  other: An email address is required.
+- id: send
+  other: Send
+- id: taxonomyPageList
+  other: 'Below you will find pages that utilize the taxonomy term “{{ .Title }}”'
+- id: firstName 
+  translation: "first Name" 
+- id: lastName 
+  translation: "last Name"
+- id: name 
+  translation: "name"  
+- id: company
+  translation: "company"
+- id: organization
+  translation: "organization"  
+- id: Region 
+  translation: "region" 
+- id: africa 
+  translation: "africa"       
+- id: asia 
+  translation: "asia" 
+- id: australia 
+  translation: "australia" 
+- id: europe 
+  translation: "europe"  
+- id: middleEast
+  translation: "middle East" 
+- id: northAmerica 
+  translation: "north America" 
+- id: southAmerica 
+  translation: "south America"  
+- id: title 
+  translation: "title"
+- id: role 
+  translation: "role"         
+- id: phone 
+  translation: "phone" 
+- id: number 
+  translation: "number"     
+- id: eventDate
+  translation: "event date"   
+- id: message 
+  translation: "message"
+- id: or
+  translation: "or"  
+  

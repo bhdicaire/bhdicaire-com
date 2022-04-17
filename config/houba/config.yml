@@ -1,0 +1,94 @@
+baseURL: "https://BHDicaire.com"
+title: "BHDicaire.com"
+copyright: "&copy; {year} Dicaire.com inc."
+
+theme:
+  - dStyle
+
+############################
+## Log
+############################
+
+log: true
+logFile: "hugo.log"
+verboseLog: true
+ignoreErrors: "error-output-taxonomy"
+
+############################
+## Date
+############################
+enableGitInfo: true
+ISO8601: "2006-01-02"
+frontmatter:
+  date: ["date", "publishDate"]
+  lastmod: [":git", ":filename", "lastmod"]
+  publishDate: ["publishDate", "date"]
+  expiryDate: ["expiryDate"]
+
+############################
+## Languages + languages.yml
+############################
+
+languageCode: en-us
+removePathAccents: true
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+enableMissingTranslationPlaceholder: "true"
+titleCaseStyle: chicago
+
+imagin:
+  resampleFilter: "lanczos"
+  qualit: 90
+  anchor: "smart"  # Anchor for cropping. Options include Smart and Center.
+
+imageSizes:
+  - 480x
+  - 768x
+  - 960x
+  - 1024x
+  - 1920x
+  - 720x340
+  - 520x245  
+
+############################
+## Outputs 
+############################
+
+enableRobotsTXT: true
+
+paginate: 6
+enableEmoji: true
+# footnotereturnlinkcontents: "↩"
+footnotereturnlinkcontents: "<sup>^</sup>"
+
+reading_time: true # Show estimated reading time for posts? (true/false)
+sharing: true # Enable in-built social sharing buttons? 
+
+sitemap:
+  changefreq: "daily"
+  priority: 1
+
+taxonomies:
+  tag:     "tags"
+  category: "categories"
+    
+# Manifest
+# https://discourse.gohugo.io/t/solved-is-it-possible-to-use-site-variables-in-manifest-json/14018/7
+
+
+############################
+## Web Feed settings
+############################
+
+# Used as unique identifier in atom feed
+#  generated using https://www.uuidgenerator.net/
+# Also see RFC3987 and RFC2141
+id: "urn:uuid:874a1312-edd1-406a-8fdd-b8ee6a29e6d1"
+
+feed:
+  icon: "img/icon-72.png"
+  logo: "img/icon-512.png"
+  sections: [ "blog" ]
+  item_id: "uuid"
+
+

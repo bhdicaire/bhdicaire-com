@@ -1,0 +1,6 @@
+content/posts/working-in-md/index.fr.md
+content/posts/working-in-md/index.it.md
+content/posts/boost-your-views-with-a-readmodel/index.it.md
+content/posts/the-right-rights-to-the-right-people-in-the-right-environments/index.fr.md
+content/posts/the-right-rights-to-the-right-people-in-the-right-environments/index.it.md
+content/posts/the-right-rights-to-the-right-people-in-the-right-environments/index.md

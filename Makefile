@@ -27,7 +27,7 @@ open:
 	open http://localhost:8080/	## Open the site in the current default browser
 
 serve:
-	hugo server --watch --verbose --disableFastRender --renderToDisk --i18n-warnings --port 8080
+	hugo server --watch --verbose --disableFastRender --renderToDisk --printI18nWarnings --port 8080
 
 status:
 	@git submodule status --recursive | awk '/^[+-]/ {printf "\033[31mWARNING\033[0m Submodule not initialized: \033[34m%s\033[0m\n",$$2}' 1>&2

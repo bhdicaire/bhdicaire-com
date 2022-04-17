@@ -1,0 +1,251 @@
+baseURL: http://localhost
+title: BHDicaire.com
+paginate: 10
+theme: PaperMod
+
+author:
+  name: Benoît H. Dicaire
+  email: bh@dicaire.com
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: true
+buildFuture: true
+buildExpored: true
+buildExpired: true
+enableEmoji: true
+enableGitInfo: true
+relativeURLs: true
+
+# copyright: See this site's source code [here](https://github.com/bhdicaire/bhdicaire.github.io), licensed under GPLv3.
+
+googleAnalytics: G-H2SCJP0ZQD
+# disqusShortname: binick-github-io
+
+permalinks:
+  posts: /:year/:month/:day/:filename/
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  author: Benoît H. Dicaire
+  description: "yet another developer's journey"
+  ShowReadingTime: true
+  ShowShareButtons: true
+  comments: false
+  defaultTheme: auto
+  displayFullLangName: true
+  ShowCodeCopyButtons: true
+  ShowBreadCrumbs: false
+  ShowFullTextinRSS: true
+  disableThemeToggle: false
+  disableSpecial1stPost: false
+  DateFormat: :date_medium
+
+  assets:
+    favicon: /favicon.ico
+    disableHLJS: true
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+
+  # home-info mode
+  homeInfoParams:
+    Title: "... to the cloud"
+    # Content: Photo by [sendi gibran](https://unsplash.com/@sendi_r_gibran?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText") on [Unsplash](https://unsplash.com/images/nature/cloud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+  socialIcons:
+    - name: github
+      url: 'https://github.com/bhdicaire'
+    - name: stackoverflow
+      url: 'https://stackoverflow.com/users/7684814/binick'
+    - name: twitter
+      url: 'https://twitter.com/bhdicaire'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/bhdicaire'
+    - name: rss
+      url: '/index.xml'
+
+  editPost:
+    URL: https://github.com/bhdicaire/bhdicaire-com/tree/main/content
+    Text: ✍️ Suggest changes
+    appendFilePath: true
+
+  changelog:
+    URL: https://github.com/bhdicaire/bhdicaire-com/commits/main/content
+    Text: 🗒️ Changelog
+    appendFilePath: true
+
+  analytics:
+
+    google:
+      SiteVerificationTag: eYTteUmuhinj42RTTPlY1SrZXHkBP_ibiGhlM9GHAMk
+
+    bing:
+      SiteVerificationTag: BC3E4C5EA9030413F989C6C96EAEE97C
+
+    yandex:
+      SiteVerificationTag: 72e5d19a7266b9fa
+
+markup:
+
+  goldmark:
+
+    renderer:
+      unsafe: true
+
+  highlight:
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: false
+    noClasses: false
+    pygmentsUseClasses: true
+    tabWidth: 2
+
+menu:
+
+  main:
+    - name: About
+      url: /about/
+      weight: 3
+    - name: Archives
+      url: /archives/
+      weight: 5
+    - name: Search
+      url: /search/
+      weight: 10
+#    - name: Tags
+#      url: /tags/
+#      weight: 15
+#    - name: Series
+#      url: /series/
+#      weight: 10
+
+      
+languages:
+
+  en:
+    languageName: English
+    copyright: See this site's source code [here](https://github.com/bhdicaire/bhdicaire.github.io), licensed under GPLv3.
+
+    label:
+      text: "BH Dicaire"
+      icon: /bhdicaire-logo.png
+      iconHeight: 30
+
+  fr:
+    languageName: Français
+    copyright: Il codice sorgente di questo sito è disponibile [qui](https://github.com/binick/binick.github.io), licenziato sotto GPLv3.
+
+    label:
+      text: "BH Dicaire"
+      icon: /bhdicaire-logo.png
+      iconHeight: 30
+
+    params:
+
+      editPost:
+        URL: https://github.com/bhdicaire/bhdicaire-com/tree/main/content
+        Text: ✍️ Suggerisci modifiche
+        appendFilePath: true
+
+      changelog:
+        URL: https://github.com/bhdicaire/bhdicaire-com/commits/main/content
+        Text: 🗒️ Changelog
+        appendFilePath: true
+
+    homeInfoParams:
+      Title: "... verso il cloud"
+
+    menu:
+
+      main:
+        - name: À propos
+          url: /about/
+          weight: 3
+        - name: Archives
+          url: /archives/
+          weight: 10
+        - name: Recherche
+          url: /search/
+          weight: 5
+
+        # - name: Casi di studio
+        #   url: /case-studies/
+        #   weight: 10
+
+  it:
+    languageName: Italiano
+    copyright: Il codice sorgente di questo sito è disponibile [qui](https://github.com/binick/binick.github.io), licenziato sotto GPLv3.
+
+    label:
+      text: "il viaggio di uno sviluppatore..."
+      icon: /me.png
+      iconHeight: 35
+
+    params:
+
+      editPost:
+        URL: https://github.com/bhdicaire/bhdicaire-com/tree/main/content
+        Text: ✍️ Suggerisci modifiche
+        appendFilePath: true
+
+      changelog:
+        URL: https://github.com/bhdicaire/bhdicaire-com/commits/main/content
+        Text: 🗒️ Changelog
+        appendFilePath: true
+
+    homeInfoParams:
+      Title: "... verso il cloud"
+
+    menu:
+
+      main:
+        - name: À propos
+          url: /about/
+          weight: 3
+        - name: Archivio
+          url: /archives/
+          weight: 10
+        - name: Ricerca
+          url: /search/
+          weight: 5
+        - name: Tags
+          url: /tags/
+          weight: 15
+        - name: Serie
+          url: /series/
+          weight: 10
+        # - name: Casi di studio
+        #   url: /case-studies/
+        #   weight: 10
+
+frontmatter:
+  lastmod:
+  - lastmod
+  - :git
+  - date
+  - publishDate
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
